@@ -119,9 +119,9 @@ namespace VP_Unpack
             this.StreamGroupBox.Controls.Add(this.Stream0Offset);
             this.StreamGroupBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.StreamGroupBox.Location = new System.Drawing.Point(0, 136);
-            this.StreamGroupBox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.StreamGroupBox.Margin = new System.Windows.Forms.Padding(2);
             this.StreamGroupBox.Name = "StreamGroupBox";
-            this.StreamGroupBox.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.StreamGroupBox.Padding = new System.Windows.Forms.Padding(2);
             this.StreamGroupBox.Size = new System.Drawing.Size(593, 150);
             this.StreamGroupBox.TabIndex = 8;
             this.StreamGroupBox.TabStop = false;
@@ -226,9 +226,9 @@ namespace VP_Unpack
             this.CaffInfoGroupBox.Controls.Add(this.CaffSize);
             this.CaffInfoGroupBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.CaffInfoGroupBox.Location = new System.Drawing.Point(0, 24);
-            this.CaffInfoGroupBox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.CaffInfoGroupBox.Margin = new System.Windows.Forms.Padding(2);
             this.CaffInfoGroupBox.Name = "CaffInfoGroupBox";
-            this.CaffInfoGroupBox.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.CaffInfoGroupBox.Padding = new System.Windows.Forms.Padding(2);
             this.CaffInfoGroupBox.Size = new System.Drawing.Size(593, 106);
             this.CaffInfoGroupBox.TabIndex = 10;
             this.CaffInfoGroupBox.TabStop = false;
@@ -241,7 +241,7 @@ namespace VP_Unpack
             this.Controls.Add(this.CaffInfoGroupBox);
             this.Controls.Add(this.StreamGroupBox);
             this.Controls.Add(this.CaffName);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "CaffHeaderControl";
             this.Size = new System.Drawing.Size(593, 286);
             this.StreamGroupBox.ResumeLayout(false);

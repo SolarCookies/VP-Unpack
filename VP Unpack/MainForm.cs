@@ -16,7 +16,7 @@ namespace VP_Unpack
             Globals.caffHeaderControl = new CaffHeaderControl();
 
             ResetForm();
-            OutputConsole.SendMessage("Welcome to VP Unpack!");
+            OutputConsole.SendMessage("Welcome to VP Unpack!", false, "");
 
             UserPrefs.Init();
             //OutputConsole.SendMessage(Globals.MakeFileNameHash()); //Testing.
@@ -167,6 +167,21 @@ namespace VP_Unpack
         private void pKGsToolStripMenuItem_Click(object sender, EventArgs e)
         {
             OpenPKGs(sender, e);
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void filePathToolStrip_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void menuStrip_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
         }
     }
 }

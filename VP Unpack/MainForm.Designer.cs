@@ -65,6 +65,7 @@
             // 
             // menuStrip
             // 
+            this.menuStrip.BackColor = System.Drawing.Color.Green;
             this.menuStrip.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.menuItem_File,
@@ -73,9 +74,10 @@
             this.menuItem_Help});
             this.menuStrip.Location = new System.Drawing.Point(0, 0);
             this.menuStrip.Name = "menuStrip";
-            this.menuStrip.Size = new System.Drawing.Size(679, 24);
+            this.menuStrip.Size = new System.Drawing.Size(679, 25);
             this.menuStrip.TabIndex = 1;
             this.menuStrip.Text = "menuStrip";
+            this.menuStrip.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip_ItemClicked);
             // 
             // menuItem_File
             // 
@@ -83,12 +85,15 @@
             this.file_Open,
             this.file_Settings,
             this.file_Exit});
+            this.menuItem_File.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.menuItem_File.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.menuItem_File.Name = "menuItem_File";
-            this.menuItem_File.Size = new System.Drawing.Size(37, 20);
+            this.menuItem_File.Size = new System.Drawing.Size(41, 21);
             this.menuItem_File.Text = "File";
             // 
             // file_Open
             // 
+            this.file_Open.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.file_Open.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.file_Open_PKG,
             this.pKGsToolStripMenuItem});
@@ -112,6 +117,7 @@
             // 
             // file_Settings
             // 
+            this.file_Settings.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.file_Settings.Name = "file_Settings";
             this.file_Settings.Size = new System.Drawing.Size(180, 22);
             this.file_Settings.Text = "Settings";
@@ -119,6 +125,7 @@
             // 
             // file_Exit
             // 
+            this.file_Exit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.file_Exit.Name = "file_Exit";
             this.file_Exit.Size = new System.Drawing.Size(180, 22);
             this.file_Exit.Text = "Exit";
@@ -128,22 +135,25 @@
             // 
             this.viewToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.loggingToolStripMenuItem});
+            this.viewToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.viewToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.viewToolStripMenuItem.Name = "viewToolStripMenuItem";
-            this.viewToolStripMenuItem.Size = new System.Drawing.Size(44, 20);
+            this.viewToolStripMenuItem.Size = new System.Drawing.Size(46, 21);
             this.viewToolStripMenuItem.Text = "View";
             // 
             // loggingToolStripMenuItem
             // 
+            this.loggingToolStripMenuItem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.loggingToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.clearLogOnNewFileToolStripMenuItem});
             this.loggingToolStripMenuItem.Name = "loggingToolStripMenuItem";
-            this.loggingToolStripMenuItem.Size = new System.Drawing.Size(118, 22);
+            this.loggingToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.loggingToolStripMenuItem.Text = "Logging";
             // 
             // clearLogOnNewFileToolStripMenuItem
             // 
             this.clearLogOnNewFileToolStripMenuItem.Name = "clearLogOnNewFileToolStripMenuItem";
-            this.clearLogOnNewFileToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
+            this.clearLogOnNewFileToolStripMenuItem.Size = new System.Drawing.Size(189, 22);
             this.clearLogOnNewFileToolStripMenuItem.Text = "Clear log on new file";
             this.clearLogOnNewFileToolStripMenuItem.Click += new System.EventHandler(this.ClearLogCheck);
             // 
@@ -151,37 +161,43 @@
             // 
             this.menuItem_Tools.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripMenuItem1});
+            this.menuItem_Tools.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.menuItem_Tools.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.menuItem_Tools.Name = "menuItem_Tools";
-            this.menuItem_Tools.Size = new System.Drawing.Size(46, 20);
+            this.menuItem_Tools.Size = new System.Drawing.Size(50, 21);
             this.menuItem_Tools.Text = "Tools";
             // 
             // toolStripMenuItem1
             // 
+            this.toolStripMenuItem1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.toolStripMenuItem1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.unpackToolStripMenuItem,
             this.packToolStripMenuItem,
             this.dumpOffsetsToolStripMenuItem});
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(97, 22);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
             this.toolStripMenuItem1.Text = ".pkg";
             // 
             // unpackToolStripMenuItem
             // 
+            this.unpackToolStripMenuItem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.unpackToolStripMenuItem.Name = "unpackToolStripMenuItem";
-            this.unpackToolStripMenuItem.Size = new System.Drawing.Size(147, 22);
+            this.unpackToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.unpackToolStripMenuItem.Text = "Unpack";
             this.unpackToolStripMenuItem.Click += new System.EventHandler(this.unpackToolStripMenuItem_Click);
             // 
             // packToolStripMenuItem
             // 
+            this.packToolStripMenuItem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.packToolStripMenuItem.Name = "packToolStripMenuItem";
-            this.packToolStripMenuItem.Size = new System.Drawing.Size(147, 22);
+            this.packToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.packToolStripMenuItem.Text = "Pack";
             // 
             // dumpOffsetsToolStripMenuItem
             // 
+            this.dumpOffsetsToolStripMenuItem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.dumpOffsetsToolStripMenuItem.Name = "dumpOffsetsToolStripMenuItem";
-            this.dumpOffsetsToolStripMenuItem.Size = new System.Drawing.Size(147, 22);
+            this.dumpOffsetsToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.dumpOffsetsToolStripMenuItem.Text = "Dump Offsets";
             this.dumpOffsetsToolStripMenuItem.Click += new System.EventHandler(this.dumpOffsetsToolStripMenuItem_Click);
             // 
@@ -189,14 +205,17 @@
             // 
             this.menuItem_Help.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.help_About});
+            this.menuItem_Help.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.menuItem_Help.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.menuItem_Help.Name = "menuItem_Help";
-            this.menuItem_Help.Size = new System.Drawing.Size(44, 20);
+            this.menuItem_Help.Size = new System.Drawing.Size(45, 21);
             this.menuItem_Help.Text = "Help";
             // 
             // help_About
             // 
+            this.help_About.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.help_About.Name = "help_About";
-            this.help_About.Size = new System.Drawing.Size(167, 22);
+            this.help_About.Size = new System.Drawing.Size(180, 22);
             this.help_About.Text = "About VP Unpack";
             // 
             // outputConsole
@@ -204,13 +223,15 @@
             this.outputConsole.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.outputConsole.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.outputConsole.ForeColor = System.Drawing.SystemColors.Window;
             this.outputConsole.Location = new System.Drawing.Point(-1, 0);
             this.outputConsole.Margin = new System.Windows.Forms.Padding(3, 3, 3, 0);
             this.outputConsole.Multiline = true;
             this.outputConsole.Name = "outputConsole";
             this.outputConsole.ReadOnly = true;
             this.outputConsole.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.outputConsole.Size = new System.Drawing.Size(661, 60);
+            this.outputConsole.Size = new System.Drawing.Size(661, 62);
             this.outputConsole.TabIndex = 3;
             // 
             // consoleSC
@@ -248,6 +269,14 @@
             // mainSC.Panel1
             // 
             this.mainSC.Panel1.Controls.Add(this.treeView);
+            // 
+            // mainSC.Panel2
+            // 
+            this.mainSC.Panel2.BackColor = System.Drawing.Color.Green;
+            this.mainSC.Panel2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("mainSC.Panel2.BackgroundImage")));
+            this.mainSC.Panel2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.mainSC.Panel2.Font = new System.Drawing.Font("QDBetterComicSans", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.mainSC.Panel2.ForeColor = System.Drawing.SystemColors.Control;
             this.mainSC.Size = new System.Drawing.Size(661, 343);
             this.mainSC.SplitterDistance = 218;
             this.mainSC.SplitterWidth = 2;
@@ -255,7 +284,10 @@
             // 
             // treeView
             // 
+            this.treeView.BackColor = System.Drawing.Color.Green;
             this.treeView.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.treeView.Font = new System.Drawing.Font("QDBetterComicSans", 8.249999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.treeView.ForeColor = System.Drawing.SystemColors.Window;
             this.treeView.Location = new System.Drawing.Point(0, 0);
             this.treeView.Name = "treeView";
             this.treeView.Size = new System.Drawing.Size(216, 341);
@@ -268,17 +300,18 @@
             this.filePathToolStrip.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.filePathToolStrip.AutoSize = false;
-            this.filePathToolStrip.BackColor = System.Drawing.SystemColors.MenuBar;
+            this.filePathToolStrip.BackColor = System.Drawing.Color.Green;
             this.filePathToolStrip.Dock = System.Windows.Forms.DockStyle.None;
             this.filePathToolStrip.GripStyle = System.Windows.Forms.ToolStripGripStyle.Hidden;
             this.filePathToolStrip.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.filePathToolStrip.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.filePathToolStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.filePathLabel});
-            this.filePathToolStrip.Location = new System.Drawing.Point(9, 436);
+            this.filePathToolStrip.Location = new System.Drawing.Point(9, 442);
             this.filePathToolStrip.Name = "filePathToolStrip";
-            this.filePathToolStrip.Size = new System.Drawing.Size(661, 25);
+            this.filePathToolStrip.Size = new System.Drawing.Size(661, 19);
             this.filePathToolStrip.TabIndex = 5;
+            this.filePathToolStrip.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.filePathToolStrip_ItemClicked);
             // 
             // filePathLabel
             // 
@@ -287,14 +320,20 @@
             // 
             // MainForm
             // 
+            this.BackColor = System.Drawing.Color.DarkGreen;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(679, 461);
             this.Controls.Add(this.filePathToolStrip);
             this.Controls.Add(this.menuStrip);
             this.Controls.Add(this.consoleSC);
+            this.DoubleBuffered = true;
+            this.Font = new System.Drawing.Font("Comic Sans MS", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ForeColor = System.Drawing.SystemColors.Control;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip;
             this.Name = "MainForm";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
+            this.Load += new System.EventHandler(this.MainForm_Load);
             this.menuStrip.ResumeLayout(false);
             this.menuStrip.PerformLayout();
             this.consoleSC.Panel1.ResumeLayout(false);

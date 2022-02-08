@@ -52,12 +52,12 @@ namespace VP_Unpack
             if (streamCheck.SequenceEqual(StreamType.data) | streamCheck.SequenceEqual(StreamType.gpu) | streamCheck.SequenceEqual(StreamType.stream))
             {
                 refHeaders = new RefHeader[2];
-                OutputConsole.SendMessage("2");
+                OutputConsole.SendMessage("2",false,"");
             }
             else
             {
                 refHeaders = new RefHeader[1];
-                OutputConsole.SendMessage("1");
+                OutputConsole.SendMessage("1", false, "");
             }
 
             streams[0].Seek(0, SeekOrigin.Begin);
@@ -83,7 +83,7 @@ namespace VP_Unpack
                 chunkNames[i] = Globals.ReadNullTerminatedString(streamBr);
                 chunkNames[i] = Globals.StripChunkName(chunkNames[i]);
                 Globals.mainForm.GetTreeView().Nodes[m_index].Nodes.Add(chunkNames[i]);
-                OutputConsole.SendMessage($"Chunk Name: {chunkNames[i]}");
+                OutputConsole.SendMessage($"Chunk Name: {chunkNames[i]}", true, "C:/Users/mag11/Documents/GitHub/VP-UnpackFork/VP Unpack/obj/OutputLog.txt");
             }
         }
     }

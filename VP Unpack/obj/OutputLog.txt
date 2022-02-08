@@ -1,0 +1,3155 @@
+Opening: C:\Users\mag11\Desktop\bundles_packages\3.pkg
+Chunk Name: aid_pip_pinata_misc_emergencyquit
+Chunk Name: aid_pip_pinata_alert_doctorclinicopen
+Chunk Name: aid_pip_pinata_misc_animalhunted
+Chunk Name: aid_model_pinata_avatar_projectile_mandrill_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_pip_pinata_misc_romancesweet
+Chunk Name: aid_pip_pinata_misc_firstlevelup
+Chunk Name: aid_pip_pinata_alert_beggarwatered
+Chunk Name: aid_pip_pinata_animalill_overcrowded
+Chunk Name: aid_pip_pinata_startgame_packetinfo
+Chunk Name: aid_pip_pinata_misc_eggdelivered
+Chunk Name: aid_pip_pinata_misc_dastardossmashed
+Chunk Name: aid_pip_pinata_animalill_trampled
+Chunk Name: aid_pip_pinata_promo_accessorydeal1
+Chunk Name: aid_pip_pinata_promo_accessorydeal2
+Chunk Name: aid_pip_pinata_promo_accessorydeal3
+Chunk Name: aid_pip_pinata_promo_accessorydeal4
+Chunk Name: aid_pip_pinata_misc_renameinstruction
+Chunk Name: aid_pip_pinata_alert_warningspade
+Chunk Name: aid_pip_pinata_startgame_twosparrows
+Chunk Name: aid_pip_pinata_startgame_newworkshed
+Chunk Name: aid_pip_pinata_animalill_badsweet
+Chunk Name: aid_pip_pinata_startgame_seedinfo
+Chunk Name: aid_pip_pinata_misc_animaleaten
+Chunk Name: aid_pip_pinata_misc_egghatched
+Chunk Name: aid_pip_pinata_misc_cratenospace
+Chunk Name: aid_pip_pinata_startgame_directprompt
+Chunk Name: aid_pip_pinata_startgame_menuinfo
+Chunk Name: aid_pip_pinata_alert_doctoroncall
+Chunk Name: aid_pip_pinata_startgame_clearground
+Chunk Name: aid_pip_pinata_empty
+Chunk Name: aid_pip_pinata_misc_animaldepressed
+Chunk Name: aid_pip_pinata_alert_dragonborn
+Chunk Name: aid_pip_pinata_challenges_dedos_reward
+Chunk Name: aid_pip_pinata_alert_produceready
+Chunk Name: aid_fxrumble_pinata_objectdestroyedsmall
+Chunk Name: aid_pip_pinata_helper_givepresent
+Chunk Name: aid_pip_pinata_alert_builderhouseready
+Chunk Name: aid_pip_pinata_misc_firsttrampled
+Chunk Name: aid_pip_pinata_startgame_targetprompt
+Chunk Name: aid_pip_pinata_live_newplayer
+Chunk Name: aid_action_pinata_interface_avatarshopkeeper
+Chunk Name: aid_pip_pinata_helper_outofwork_miner
+Chunk Name: aid_pip_pinata_startgame_wormhouse
+Chunk Name: aid_pip_pinata_animalill_poisoned
+Chunk Name: aid_pip_pinata_alert_wildcardborn
+Chunk Name: aid_pip_pinata_startgame_watermeter
+Chunk Name: aid_objparams_pinata_avatar_shopkeeper
+Chunk Name: aid_pip_pinata_animalill_null
+Chunk Name: aid_pip_pinata_misc_newvisitor
+Chunk Name: aid_pip_pinata_startgame_clock
+Chunk Name: aid_pip_pinata_startgame_money
+Chunk Name: aid_pip_pinata_startgame_spade
+Chunk Name: aid_pip_pinata_credits_unlocked
+Chunk Name: aid_action_pinata_list_actorhelperselected
+Chunk Name: aid_pip_pinata_startgame_mateadvice
+Chunk Name: aid_pip_pinata_startgame_directprompt2
+Chunk Name: aid_pip_pinata_startgame_directprompt3
+Chunk Name: aid_pip_pinata_misc_plantoverwatered
+Chunk Name: aid_pip_pinata_live_newplayernonhost
+Chunk Name: aid_pip_pinata_award_animal_breed
+Chunk Name: aid_pip_pinata_startgame_nightone
+Chunk Name: aid_pip_pinata_misc_animalill
+Chunk Name: aid_pip_pinata_alert_beggarenoughmoney
+Chunk Name: aid_pip_pinata_award_animal_visit
+Chunk Name: aid_pip_pinata_startgame_journal
+Chunk Name: aid_pip_pinata_misc_pestcocoon
+Chunk Name: aid_pip_pinata_award_default
+Chunk Name: aid_pip_pinata_alert_toolsallowed
+Chunk Name: aid_pip_pinata_startgame_firstalert
+Chunk Name: aid_pip_pinata_startgame_journalinfo
+Chunk Name: aid_pip_pinata_misc_levelup
+Chunk Name: aid_pip_pinata_helper_quittrapped
+Chunk Name: aid_action_pinata_list_actorpickedup
+Chunk Name: aid_pip_pinata_alert_confiscatespade
+Chunk Name: aid_pip_pinata_alert_toolsnotallowed
+Chunk Name: aid_pip_pinata_animalill_spade
+Chunk Name: aid_pip_pinata_alert_cantsendcrate
+Chunk Name: aid_pip_pinata_helper_quitunhappy
+Chunk Name: aid_pip_pinata_helper_quit
+Chunk Name: aid_pip_pinata_startgame_newseed
+Chunk Name: aid_pip_pinata_misc_newvisitor2
+Chunk Name: aid_pip_pinata_misc_newvisitor3
+Chunk Name: aid_pip_pinata_misc_avatarrotated
+Chunk Name: aid_pip_pinata_award_animal_master
+Chunk Name: aid_pip_pinata_animalill_fighting
+Chunk Name: aid_pip_pinata_misc_produceblocked
+Chunk Name: aid_pip_pinata_story_unlockedlast
+Chunk Name: aid_pip_pinata_award_plant_grow
+Chunk Name: aid_pip_pinata_misc_loggedin
+Chunk Name: aid_pip_pinata_award_plant_seed
+Chunk Name: aid_pip_pinata_misc_plantdriedout
+Chunk Name: aid_pip_pinata_helper_istrapped_weeder
+Chunk Name: aid_pip_pinata_helper_istrapped_dedos
+Chunk Name: aid_pip_pinata_helper_istrapped_miner
+Chunk Name: aid_action_pinata_list_actorsell
+Chunk Name: aid_pip_pinata_helper_istrapped_tinker
+Chunk Name: aid_action_pinata_list_actordirect
+Chunk Name: aid_pip_pinata_misc_spacefreedup
+Chunk Name: aid_pip_pinata_misc_cocoonhatched
+Chunk Name: aid_pip_pinata_helper_istrapped_doctor
+Chunk Name: aid_action_pinata_abilities_avatarshopkeeper
+Chunk Name: aid_action_pinata_list_actorstores
+Chunk Name: aid_pip_pinata_alert_dedostrapped
+Chunk Name: aid_pip_pinata_award_biftree_grow
+Chunk Name: aid_pip_pinata_animalill_oldage
+Chunk Name: aid_action_pinata_list_avatarstores
+Chunk Name: aid_pip_pinata_alert_returnspade
+Chunk Name: aid_pip_pinata_animalill_trapped
+Chunk Name: aid_pip_pinata_helper_outofwork_weeder
+Chunk Name: aid_pip_pinata_test
+Chunk Name: aid_pip_pinata_misc_animaldied
+Chunk Name: aid_pip_pinata_misc_crateadvice
+Chunk Name: aid_pip_pinata_misc_matetrouble
+Chunk Name: aid_action_pinata_list_actorbuy
+Chunk Name: aid_action_pinata_list_actorcrate
+Chunk Name: aid_pip_pinata_story_unlocked
+Chunk Name: aid_pip_pinata_alert_builderintro
+Chunk Name: aid_action_pinata_list_startgamemenu
+Chunk Name: aid_pip_pinata_animalill_created
+Chunk Name: aid_pip_pinata_misc_plantstunted
+Chunk Name: aid_pip_pinata_animalill_unhappy
+Chunk Name: aid_pip_pinata_misc_firstmail
+Chunk Name: aid_pip_pinata_misc_firstcocoon
+Chunk Name: aid_pip_pinata_live_playerleft
+CaffCount: 1
+Caff 0
+Size(bytes): 49953
+Offset(h): 2048
+.DATA chunk count: 126
+.GPU chunk count: 3
+0 offset(h): 120
+0 size(bytes) - Compressed: 2758 -> Uncompressed: 8732
+1 offset(h): 4926
+1 size(bytes) - Compressed: 206 -> Uncompressed: 392
+2 size(bytes) - Compressed: 3856 -> Uncompressed: 45280
+3 size(bytes) - Compressed: 43013 -> Uncompressed: 94208
+Opening: C:\Users\mag11\Desktop\bundles_packages\10.pkg
+Chunk Name: pool
+Chunk Name: aid_cutscene_pinata_actor_animal_bear_appear
+Chunk Name: aid_cutscene_pinata_actor_animal_bear_appear
+Chunk Name: aid_cutsceneevents_pinata_actor_animal_bear_appear_camera
+Chunk Name: aid_model_pinata_actor_animal_bear_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+CaffCount: 2
+Chunk Name: pool
+Chunk Name: aid_animevents_pinata_actor_animal_dragon_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_blackbutterfly_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_hedgehog_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_firefly_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_dastardos_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_pinkbutterfly_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_wolfnew_timeline
+Chunk Name: aid_expression_pinata_database_happy
+Chunk Name: aid_expression_pinata_database_angry
+Chunk Name: aid_animevents_pinata_actor_animal_raccoonpestnew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_canarynew_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_groundskeepernight_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_frog_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_weedier_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_yellowbutterflynew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_boomslang_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_chickennew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_bushbaby_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_cownew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_pignew_timeline
+Chunk Name: aid_expression_pinata_database_viseme_a
+Chunk Name: aid_expression_pinata_database_viseme_e
+Chunk Name: aid_expression_pinata_database_viseme_m
+Chunk Name: aid_expression_pinata_database_viseme_o
+Chunk Name: aid_animevents_pinata_actor_animal_eagle_timeline
+Chunk Name: aid_texture_pinata_misc_grassfur
+Chunk Name: aid_animevents_pinata_actor_animal_horse_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_pigeon_timeline
+Chunk Name: aid_anim_pinata_avatar_home_helperseedos_openin
+Chunk Name: aid_animevents_pinata_actor_animal_goose_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_dog_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_minernew_timeline
+Chunk Name: aid_texture_common_effect_perturbation_rainspot
+Chunk Name: aid_expression_pinata_database_viseme_closed
+Chunk Name: aid_anim_pinata_avatar_home_helperseedos_closein
+Chunk Name: aid_animevents_pinata_actor_animal_foxnew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_chameleon_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_ant_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_bat_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_bee_timeline
+Chunk Name: aid_entrypoint_pinata_actor_animal_101
+Chunk Name: aid_entrypoint_pinata_actor_animal_132
+Chunk Name: aid_entrypoint_pinata_actor_animal_134
+Chunk Name: aid_animevents_pinata_actor_animal_bear_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_batpest_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_badger_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_brownbutterfly_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_snailpest_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_mandrillnew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_molepest_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_zebranew_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_waterer_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_squirrelnew_timeline
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_talk1
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_talk2
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_talk3
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_talk4
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_talk5
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_leaveduetohits
+Chunk Name: aid_animevents_pinata_actor_animal_firesalamander_timeline
+Chunk Name: aid_anim_pinata_avatar_home_helperdedos_openin
+Chunk Name: aid_animevents_pinata_actor_animal_dragonfly_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_raccoonnew_timeline
+Chunk Name: aid_model_pinata_avatar_paving_slab_default2
+Chunk Name: aid_texture_common_effect_circlefade
+Chunk Name: aid_misc_pinata_speechphrase_builder_watered1
+Chunk Name: aid_misc_pinata_speechphrase_builder_watered2
+Chunk Name: aid_misc_pinata_speechphrase_builder_watered3
+Chunk Name: aid_animevents_pinata_actor_animal_crocodilepest_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_bluebottle_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_lion_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_moth_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_mole_timeline
+Chunk Name: aid_anim_pinata_avatar_home_helperdedos_default
+Chunk Name: aid_animevents_pinata_actor_animal_crowpestnew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_orangebutterflynew_timeline
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_watered1
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_watered2
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_watered3
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_enoughmoneyfortrader
+Chunk Name: aid_animevents_pinata_actor_animal_newt_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_professor_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_greenbutterflynew_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_dedosnew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_wormnew_timeline
+Chunk Name: aid_marker_pinata_game_competitionrace
+Chunk Name: aid_animevents_pinata_actor_animal_beavernew_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_seedos_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_sparrownew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_spider_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_snail_timeline
+Chunk Name: aid_misc_pinata_speechphrase_builder_hit1
+Chunk Name: aid_misc_pinata_speechphrase_builder_hit2
+Chunk Name: aid_misc_pinata_speechphrase_builder_hit3
+Chunk Name: aid_pip_pinata_confirmation_player_restartgame
+Chunk Name: aid_expression_pinata_bodyparams_shopkeeper_default
+Chunk Name: aid_animevents_pinata_actor_animal_mandrillpestnew_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_doctor_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_bluebutterflynew_timeline
+Chunk Name: aid_entrypoint_pinata_actor_animal_61
+Chunk Name: aid_entrypoint_pinata_actor_animal_62
+Chunk Name: aid_entrypoint_pinata_actor_animal_86
+Chunk Name: aid_entrypoint_pinata_actor_animal_87
+Chunk Name: aid_entrypoint_pinata_actor_animal_76
+Chunk Name: aid_misc_pinata_speechphrase_tinker_hit1
+Chunk Name: aid_misc_pinata_speechphrase_tinker_hit2
+Chunk Name: aid_misc_pinata_speechphrase_tinker_hit3
+Chunk Name: aid_animevents_pinata_actor_animal_wolfpestnew_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_builder_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_monkey_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_poisonfrog_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_hydra_timeline
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_firstspeech
+Chunk Name: aid_misc_pinata_speechphrase_tinker_watered1
+Chunk Name: aid_misc_pinata_speechphrase_tinker_watered2
+Chunk Name: aid_misc_pinata_speechphrase_tinker_watered3
+Chunk Name: aid_animevents_pinata_actor_animal_unicornnew_timeline
+Chunk Name: aid_expression_pinata_database_surprised
+Chunk Name: aid_objparams_pinata_actorstate_animal_explode
+Chunk Name: aid_animevents_pinata_actor_helper_harvesternew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_crocodile_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_rabbitnew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_parrotnew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_sheep_timeline
+Chunk Name: aid_anim_pinata_avatar_home_helperdedos_windspinner
+Chunk Name: aid_animevents_pinata_actor_animal_buzzardnew_timeline
+Chunk Name: aid_anim_pinata_avatar_home_helperdedos_closein
+Chunk Name: aid_animevents_pinata_actor_animal_ponynew_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_groundskeeper_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_grasssnake_timeline
+Chunk Name: aid_objparams_pinata_scenecontrol_competitionrace
+Chunk Name: aid_animevents_pinata_actor_animal_elephant_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_trader_timeline
+Chunk Name: aid_model_pinata_avatar_flowerhead_bulrush_default
+Chunk Name: aid_animevents_pinata_actor_animal_hippo_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_purplebutterflynew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_deer_timeline
+Chunk Name: aid_texture_common_effect_electricspark
+Chunk Name: aid_animevents_pinata_actor_animal_swan_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_whitebutterflynew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_crow_timeline
+Chunk Name: aid_expression_pinata_database_sad
+Chunk Name: aid_animevents_pinata_actor_animal_duck_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_flyingpig_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_redbutterflynew_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_ruffian1_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_ruffian2_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_ruffian3_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_ruffian4_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_catnew_timeline
+Chunk Name: aid_texture_common_effect_lightshaft
+Chunk Name: aid_anim_pinata_avatar_home_helperseedos_default
+Chunk Name: aid_callout_pinata_avatar_flowerhead_bulrush_default
+Chunk Name: aid_animevents_pinata_actor_helper_storkos_timeline
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_hit1
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_hit2
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_hit3
+Chunk Name: aid_animevents_pinata_actor_animal_mousenew_timeline
+CaffCount: 2
+Caff 0
+Size(bytes): 431875
+Offset(h): 2048
+.DATA chunk count: 10
+.GPU chunk count: 6
+0 offset(h): 120
+0 size(bytes) - Compressed: 364 -> Uncompressed: 792
+1 offset(h): 2532
+1 size(bytes) - Compressed: 1283 -> Uncompressed: 3000
+2 size(bytes) - Compressed: 89935 -> Uncompressed: 172492
+3 size(bytes) - Compressed: 340173 -> Uncompressed: 921600
+Caff 0
+Size(bytes): 431875
+Offset(h): 2048
+.DATA chunk count: 10
+.GPU chunk count: 6
+0 offset(h): 120
+0 size(bytes) - Compressed: 364 -> Uncompressed: 792
+1 offset(h): 2532
+1 size(bytes) - Compressed: 1283 -> Uncompressed: 3000
+2 size(bytes) - Compressed: 89935 -> Uncompressed: 172492
+3 size(bytes) - Compressed: 340173 -> Uncompressed: 921600
+Opening: C:\Users\mag11\Desktop\bundles_packages\10.pkg
+Chunk Name: pool
+Chunk Name: aid_cutscene_pinata_actor_animal_bear_appear
+Chunk Name: aid_cutscene_pinata_actor_animal_bear_appear
+Chunk Name: aid_cutsceneevents_pinata_actor_animal_bear_appear_camera
+Chunk Name: aid_model_pinata_actor_animal_bear_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+CaffCount: 2
+Chunk Name: pool
+Chunk Name: aid_animevents_pinata_actor_animal_dragon_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_blackbutterfly_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_hedgehog_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_firefly_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_dastardos_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_pinkbutterfly_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_wolfnew_timeline
+Chunk Name: aid_expression_pinata_database_happy
+Chunk Name: aid_expression_pinata_database_angry
+Chunk Name: aid_animevents_pinata_actor_animal_raccoonpestnew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_canarynew_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_groundskeepernight_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_frog_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_weedier_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_yellowbutterflynew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_boomslang_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_chickennew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_bushbaby_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_cownew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_pignew_timeline
+Chunk Name: aid_expression_pinata_database_viseme_a
+Chunk Name: aid_expression_pinata_database_viseme_e
+Chunk Name: aid_expression_pinata_database_viseme_m
+Chunk Name: aid_expression_pinata_database_viseme_o
+Chunk Name: aid_animevents_pinata_actor_animal_eagle_timeline
+Chunk Name: aid_texture_pinata_misc_grassfur
+Chunk Name: aid_animevents_pinata_actor_animal_horse_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_pigeon_timeline
+Chunk Name: aid_anim_pinata_avatar_home_helperseedos_openin
+Chunk Name: aid_animevents_pinata_actor_animal_goose_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_dog_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_minernew_timeline
+Chunk Name: aid_texture_common_effect_perturbation_rainspot
+Chunk Name: aid_expression_pinata_database_viseme_closed
+Chunk Name: aid_anim_pinata_avatar_home_helperseedos_closein
+Chunk Name: aid_animevents_pinata_actor_animal_foxnew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_chameleon_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_ant_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_bat_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_bee_timeline
+Chunk Name: aid_entrypoint_pinata_actor_animal_101
+Chunk Name: aid_entrypoint_pinata_actor_animal_132
+Chunk Name: aid_entrypoint_pinata_actor_animal_134
+Chunk Name: aid_animevents_pinata_actor_animal_bear_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_batpest_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_badger_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_brownbutterfly_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_snailpest_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_mandrillnew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_molepest_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_zebranew_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_waterer_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_squirrelnew_timeline
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_talk1
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_talk2
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_talk3
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_talk4
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_talk5
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_leaveduetohits
+Chunk Name: aid_animevents_pinata_actor_animal_firesalamander_timeline
+Chunk Name: aid_anim_pinata_avatar_home_helperdedos_openin
+Chunk Name: aid_animevents_pinata_actor_animal_dragonfly_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_raccoonnew_timeline
+Chunk Name: aid_model_pinata_avatar_paving_slab_default2
+Chunk Name: aid_texture_common_effect_circlefade
+Chunk Name: aid_misc_pinata_speechphrase_builder_watered1
+Chunk Name: aid_misc_pinata_speechphrase_builder_watered2
+Chunk Name: aid_misc_pinata_speechphrase_builder_watered3
+Chunk Name: aid_animevents_pinata_actor_animal_crocodilepest_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_bluebottle_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_lion_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_moth_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_mole_timeline
+Chunk Name: aid_anim_pinata_avatar_home_helperdedos_default
+Chunk Name: aid_animevents_pinata_actor_animal_crowpestnew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_orangebutterflynew_timeline
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_watered1
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_watered2
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_watered3
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_enoughmoneyfortrader
+Chunk Name: aid_animevents_pinata_actor_animal_newt_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_professor_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_greenbutterflynew_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_dedosnew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_wormnew_timeline
+Chunk Name: aid_marker_pinata_game_competitionrace
+Chunk Name: aid_animevents_pinata_actor_animal_beavernew_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_seedos_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_sparrownew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_spider_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_snail_timeline
+Chunk Name: aid_misc_pinata_speechphrase_builder_hit1
+Chunk Name: aid_misc_pinata_speechphrase_builder_hit2
+Chunk Name: aid_misc_pinata_speechphrase_builder_hit3
+Chunk Name: aid_pip_pinata_confirmation_player_restartgame
+Chunk Name: aid_expression_pinata_bodyparams_shopkeeper_default
+Chunk Name: aid_animevents_pinata_actor_animal_mandrillpestnew_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_doctor_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_bluebutterflynew_timeline
+Chunk Name: aid_entrypoint_pinata_actor_animal_61
+Chunk Name: aid_entrypoint_pinata_actor_animal_62
+Chunk Name: aid_entrypoint_pinata_actor_animal_86
+Chunk Name: aid_entrypoint_pinata_actor_animal_87
+Chunk Name: aid_entrypoint_pinata_actor_animal_76
+Chunk Name: aid_misc_pinata_speechphrase_tinker_hit1
+Chunk Name: aid_misc_pinata_speechphrase_tinker_hit2
+Chunk Name: aid_misc_pinata_speechphrase_tinker_hit3
+Chunk Name: aid_animevents_pinata_actor_animal_wolfpestnew_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_builder_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_monkey_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_poisonfrog_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_hydra_timeline
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_firstspeech
+Chunk Name: aid_misc_pinata_speechphrase_tinker_watered1
+Chunk Name: aid_misc_pinata_speechphrase_tinker_watered2
+Chunk Name: aid_misc_pinata_speechphrase_tinker_watered3
+Chunk Name: aid_animevents_pinata_actor_animal_unicornnew_timeline
+Chunk Name: aid_expression_pinata_database_surprised
+Chunk Name: aid_objparams_pinata_actorstate_animal_explode
+Chunk Name: aid_animevents_pinata_actor_helper_harvesternew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_crocodile_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_rabbitnew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_parrotnew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_sheep_timeline
+Chunk Name: aid_anim_pinata_avatar_home_helperdedos_windspinner
+Chunk Name: aid_animevents_pinata_actor_animal_buzzardnew_timeline
+Chunk Name: aid_anim_pinata_avatar_home_helperdedos_closein
+Chunk Name: aid_animevents_pinata_actor_animal_ponynew_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_groundskeeper_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_grasssnake_timeline
+Chunk Name: aid_objparams_pinata_scenecontrol_competitionrace
+Chunk Name: aid_animevents_pinata_actor_animal_elephant_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_trader_timeline
+Chunk Name: aid_model_pinata_avatar_flowerhead_bulrush_default
+Chunk Name: aid_animevents_pinata_actor_animal_hippo_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_purplebutterflynew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_deer_timeline
+Chunk Name: aid_texture_common_effect_electricspark
+Chunk Name: aid_animevents_pinata_actor_animal_swan_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_whitebutterflynew_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_crow_timeline
+Chunk Name: aid_expression_pinata_database_sad
+Chunk Name: aid_animevents_pinata_actor_animal_duck_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_flyingpig_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_redbutterflynew_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_ruffian1_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_ruffian2_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_ruffian3_timeline
+Chunk Name: aid_animevents_pinata_actor_helper_ruffian4_timeline
+Chunk Name: aid_animevents_pinata_actor_animal_catnew_timeline
+Chunk Name: aid_texture_common_effect_lightshaft
+Chunk Name: aid_anim_pinata_avatar_home_helperseedos_default
+Chunk Name: aid_callout_pinata_avatar_flowerhead_bulrush_default
+Chunk Name: aid_animevents_pinata_actor_helper_storkos_timeline
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_hit1
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_hit2
+Chunk Name: aid_misc_pinata_speechphrase_beggartrader_hit3
+Chunk Name: aid_animevents_pinata_actor_animal_mousenew_timeline
+CaffCount: 2
+Caff 0
+Size(bytes): 431875
+Offset(h): 2048
+.DATA chunk count: 10
+.GPU chunk count: 6
+0 offset(h): 120
+0 size(bytes) - Compressed: 364 -> Uncompressed: 792
+1 offset(h): 2532
+1 size(bytes) - Compressed: 1283 -> Uncompressed: 3000
+2 size(bytes) - Compressed: 89935 -> Uncompressed: 172492
+3 size(bytes) - Compressed: 340173 -> Uncompressed: 921600
+Opening: C:\Users\mag11\Desktop\bundles_packages\3.pkg
+Chunk Name: aid_pip_pinata_misc_emergencyquit
+Chunk Name: aid_pip_pinata_alert_doctorclinicopen
+Chunk Name: aid_pip_pinata_misc_animalhunted
+Chunk Name: aid_model_pinata_avatar_projectile_mandrill_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_pip_pinata_misc_romancesweet
+Chunk Name: aid_pip_pinata_misc_firstlevelup
+Chunk Name: aid_pip_pinata_alert_beggarwatered
+Chunk Name: aid_pip_pinata_animalill_overcrowded
+Chunk Name: aid_pip_pinata_startgame_packetinfo
+Chunk Name: aid_pip_pinata_misc_eggdelivered
+Chunk Name: aid_pip_pinata_misc_dastardossmashed
+Chunk Name: aid_pip_pinata_animalill_trampled
+Chunk Name: aid_pip_pinata_promo_accessorydeal1
+Chunk Name: aid_pip_pinata_promo_accessorydeal2
+Chunk Name: aid_pip_pinata_promo_accessorydeal3
+Chunk Name: aid_pip_pinata_promo_accessorydeal4
+Chunk Name: aid_pip_pinata_misc_renameinstruction
+Chunk Name: aid_pip_pinata_alert_warningspade
+Chunk Name: aid_pip_pinata_startgame_twosparrows
+Chunk Name: aid_pip_pinata_startgame_newworkshed
+Chunk Name: aid_pip_pinata_animalill_badsweet
+Chunk Name: aid_pip_pinata_startgame_seedinfo
+Chunk Name: aid_pip_pinata_misc_animaleaten
+Chunk Name: aid_pip_pinata_misc_egghatched
+Chunk Name: aid_pip_pinata_misc_cratenospace
+Chunk Name: aid_pip_pinata_startgame_directprompt
+Chunk Name: aid_pip_pinata_startgame_menuinfo
+Chunk Name: aid_pip_pinata_alert_doctoroncall
+Chunk Name: aid_pip_pinata_startgame_clearground
+Chunk Name: aid_pip_pinata_empty
+Chunk Name: aid_pip_pinata_misc_animaldepressed
+Chunk Name: aid_pip_pinata_alert_dragonborn
+Chunk Name: aid_pip_pinata_challenges_dedos_reward
+Chunk Name: aid_pip_pinata_alert_produceready
+Chunk Name: aid_fxrumble_pinata_objectdestroyedsmall
+Chunk Name: aid_pip_pinata_helper_givepresent
+Chunk Name: aid_pip_pinata_alert_builderhouseready
+Chunk Name: aid_pip_pinata_misc_firsttrampled
+Chunk Name: aid_pip_pinata_startgame_targetprompt
+Chunk Name: aid_pip_pinata_live_newplayer
+Chunk Name: aid_action_pinata_interface_avatarshopkeeper
+Chunk Name: aid_pip_pinata_helper_outofwork_miner
+Chunk Name: aid_pip_pinata_startgame_wormhouse
+Chunk Name: aid_pip_pinata_animalill_poisoned
+Chunk Name: aid_pip_pinata_alert_wildcardborn
+Chunk Name: aid_pip_pinata_startgame_watermeter
+Chunk Name: aid_objparams_pinata_avatar_shopkeeper
+Chunk Name: aid_pip_pinata_animalill_null
+Chunk Name: aid_pip_pinata_misc_newvisitor
+Chunk Name: aid_pip_pinata_startgame_clock
+Chunk Name: aid_pip_pinata_startgame_money
+Chunk Name: aid_pip_pinata_startgame_spade
+Chunk Name: aid_pip_pinata_credits_unlocked
+Chunk Name: aid_action_pinata_list_actorhelperselected
+Chunk Name: aid_pip_pinata_startgame_mateadvice
+Chunk Name: aid_pip_pinata_startgame_directprompt2
+Chunk Name: aid_pip_pinata_startgame_directprompt3
+Chunk Name: aid_pip_pinata_misc_plantoverwatered
+Chunk Name: aid_pip_pinata_live_newplayernonhost
+Chunk Name: aid_pip_pinata_award_animal_breed
+Chunk Name: aid_pip_pinata_startgame_nightone
+Chunk Name: aid_pip_pinata_misc_animalill
+Chunk Name: aid_pip_pinata_alert_beggarenoughmoney
+Chunk Name: aid_pip_pinata_award_animal_visit
+Chunk Name: aid_pip_pinata_startgame_journal
+Chunk Name: aid_pip_pinata_misc_pestcocoon
+Chunk Name: aid_pip_pinata_award_default
+Chunk Name: aid_pip_pinata_alert_toolsallowed
+Chunk Name: aid_pip_pinata_startgame_firstalert
+Chunk Name: aid_pip_pinata_startgame_journalinfo
+Chunk Name: aid_pip_pinata_misc_levelup
+Chunk Name: aid_pip_pinata_helper_quittrapped
+Chunk Name: aid_action_pinata_list_actorpickedup
+Chunk Name: aid_pip_pinata_alert_confiscatespade
+Chunk Name: aid_pip_pinata_alert_toolsnotallowed
+Chunk Name: aid_pip_pinata_animalill_spade
+Chunk Name: aid_pip_pinata_alert_cantsendcrate
+Chunk Name: aid_pip_pinata_helper_quitunhappy
+Chunk Name: aid_pip_pinata_helper_quit
+Chunk Name: aid_pip_pinata_startgame_newseed
+Chunk Name: aid_pip_pinata_misc_newvisitor2
+Chunk Name: aid_pip_pinata_misc_newvisitor3
+Chunk Name: aid_pip_pinata_misc_avatarrotated
+Chunk Name: aid_pip_pinata_award_animal_master
+Chunk Name: aid_pip_pinata_animalill_fighting
+Chunk Name: aid_pip_pinata_misc_produceblocked
+Chunk Name: aid_pip_pinata_story_unlockedlast
+Chunk Name: aid_pip_pinata_award_plant_grow
+Chunk Name: aid_pip_pinata_misc_loggedin
+Chunk Name: aid_pip_pinata_award_plant_seed
+Chunk Name: aid_pip_pinata_misc_plantdriedout
+Chunk Name: aid_pip_pinata_helper_istrapped_weeder
+Chunk Name: aid_pip_pinata_helper_istrapped_dedos
+Chunk Name: aid_pip_pinata_helper_istrapped_miner
+Chunk Name: aid_action_pinata_list_actorsell
+Chunk Name: aid_pip_pinata_helper_istrapped_tinker
+Chunk Name: aid_action_pinata_list_actordirect
+Chunk Name: aid_pip_pinata_misc_spacefreedup
+Chunk Name: aid_pip_pinata_misc_cocoonhatched
+Chunk Name: aid_pip_pinata_helper_istrapped_doctor
+Chunk Name: aid_action_pinata_abilities_avatarshopkeeper
+Chunk Name: aid_action_pinata_list_actorstores
+Chunk Name: aid_pip_pinata_alert_dedostrapped
+Chunk Name: aid_pip_pinata_award_biftree_grow
+Chunk Name: aid_pip_pinata_animalill_oldage
+Chunk Name: aid_action_pinata_list_avatarstores
+Chunk Name: aid_pip_pinata_alert_returnspade
+Chunk Name: aid_pip_pinata_animalill_trapped
+Chunk Name: aid_pip_pinata_helper_outofwork_weeder
+Chunk Name: aid_pip_pinata_test
+Chunk Name: aid_pip_pinata_misc_animaldied
+Chunk Name: aid_pip_pinata_misc_crateadvice
+Chunk Name: aid_pip_pinata_misc_matetrouble
+Chunk Name: aid_action_pinata_list_actorbuy
+Chunk Name: aid_action_pinata_list_actorcrate
+Chunk Name: aid_pip_pinata_story_unlocked
+Chunk Name: aid_pip_pinata_alert_builderintro
+Chunk Name: aid_action_pinata_list_startgamemenu
+Chunk Name: aid_pip_pinata_animalill_created
+Chunk Name: aid_pip_pinata_misc_plantstunted
+Chunk Name: aid_pip_pinata_animalill_unhappy
+Chunk Name: aid_pip_pinata_misc_firstmail
+Chunk Name: aid_pip_pinata_misc_firstcocoon
+Chunk Name: aid_pip_pinata_live_playerleft
+CaffCount: 1
+Caff 0
+Size(bytes): 49953
+Offset(h): 2048
+.DATA chunk count: 126
+.GPU chunk count: 3
+0 offset(h): 120
+0 size(bytes) - Compressed: 2758 -> Uncompressed: 8732
+1 offset(h): 4926
+1 size(bytes) - Compressed: 206 -> Uncompressed: 392
+2 size(bytes) - Compressed: 3856 -> Uncompressed: 45280
+3 size(bytes) - Compressed: 43013 -> Uncompressed: 94208
+Caff 0
+Size(bytes): 49953
+Offset(h): 2048
+.DATA chunk count: 126
+.GPU chunk count: 3
+0 offset(h): 120
+0 size(bytes) - Compressed: 2758 -> Uncompressed: 8732
+1 offset(h): 4926
+1 size(bytes) - Compressed: 206 -> Uncompressed: 392
+2 size(bytes) - Compressed: 3856 -> Uncompressed: 45280
+3 size(bytes) - Compressed: 43013 -> Uncompressed: 94208
+Caff 0
+Size(bytes): 49953
+Offset(h): 2048
+.DATA chunk count: 126
+.GPU chunk count: 3
+0 offset(h): 120
+0 size(bytes) - Compressed: 2758 -> Uncompressed: 8732
+1 offset(h): 4926
+1 size(bytes) - Compressed: 206 -> Uncompressed: 392
+2 size(bytes) - Compressed: 3856 -> Uncompressed: 45280
+3 size(bytes) - Compressed: 43013 -> Uncompressed: 94208
+Opening: C:\Users\mag11\Desktop\bundles_packages\3.pkg
+Chunk Name: aid_pip_pinata_misc_emergencyquit
+Chunk Name: aid_pip_pinata_alert_doctorclinicopen
+Chunk Name: aid_pip_pinata_misc_animalhunted
+Chunk Name: aid_model_pinata_avatar_projectile_mandrill_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_pip_pinata_misc_romancesweet
+Chunk Name: aid_pip_pinata_misc_firstlevelup
+Chunk Name: aid_pip_pinata_alert_beggarwatered
+Chunk Name: aid_pip_pinata_animalill_overcrowded
+Chunk Name: aid_pip_pinata_startgame_packetinfo
+Chunk Name: aid_pip_pinata_misc_eggdelivered
+Chunk Name: aid_pip_pinata_misc_dastardossmashed
+Chunk Name: aid_pip_pinata_animalill_trampled
+Chunk Name: aid_pip_pinata_promo_accessorydeal1
+Chunk Name: aid_pip_pinata_promo_accessorydeal2
+Chunk Name: aid_pip_pinata_promo_accessorydeal3
+Chunk Name: aid_pip_pinata_promo_accessorydeal4
+Chunk Name: aid_pip_pinata_misc_renameinstruction
+Chunk Name: aid_pip_pinata_alert_warningspade
+Chunk Name: aid_pip_pinata_startgame_twosparrows
+Chunk Name: aid_pip_pinata_startgame_newworkshed
+Chunk Name: aid_pip_pinata_animalill_badsweet
+Chunk Name: aid_pip_pinata_startgame_seedinfo
+Chunk Name: aid_pip_pinata_misc_animaleaten
+Chunk Name: aid_pip_pinata_misc_egghatched
+Chunk Name: aid_pip_pinata_misc_cratenospace
+Chunk Name: aid_pip_pinata_startgame_directprompt
+Chunk Name: aid_pip_pinata_startgame_menuinfo
+Chunk Name: aid_pip_pinata_alert_doctoroncall
+Chunk Name: aid_pip_pinata_startgame_clearground
+Chunk Name: aid_pip_pinata_empty
+Chunk Name: aid_pip_pinata_misc_animaldepressed
+Chunk Name: aid_pip_pinata_alert_dragonborn
+Chunk Name: aid_pip_pinata_challenges_dedos_reward
+Chunk Name: aid_pip_pinata_alert_produceready
+Chunk Name: aid_fxrumble_pinata_objectdestroyedsmall
+Chunk Name: aid_pip_pinata_helper_givepresent
+Chunk Name: aid_pip_pinata_alert_builderhouseready
+Chunk Name: aid_pip_pinata_misc_firsttrampled
+Chunk Name: aid_pip_pinata_startgame_targetprompt
+Chunk Name: aid_pip_pinata_live_newplayer
+Chunk Name: aid_action_pinata_interface_avatarshopkeeper
+Chunk Name: aid_pip_pinata_helper_outofwork_miner
+Chunk Name: aid_pip_pinata_startgame_wormhouse
+Chunk Name: aid_pip_pinata_animalill_poisoned
+Chunk Name: aid_pip_pinata_alert_wildcardborn
+Chunk Name: aid_pip_pinata_startgame_watermeter
+Chunk Name: aid_objparams_pinata_avatar_shopkeeper
+Chunk Name: aid_pip_pinata_animalill_null
+Chunk Name: aid_pip_pinata_misc_newvisitor
+Chunk Name: aid_pip_pinata_startgame_clock
+Chunk Name: aid_pip_pinata_startgame_money
+Chunk Name: aid_pip_pinata_startgame_spade
+Chunk Name: aid_pip_pinata_credits_unlocked
+Chunk Name: aid_action_pinata_list_actorhelperselected
+Chunk Name: aid_pip_pinata_startgame_mateadvice
+Chunk Name: aid_pip_pinata_startgame_directprompt2
+Chunk Name: aid_pip_pinata_startgame_directprompt3
+Chunk Name: aid_pip_pinata_misc_plantoverwatered
+Chunk Name: aid_pip_pinata_live_newplayernonhost
+Chunk Name: aid_pip_pinata_award_animal_breed
+Chunk Name: aid_pip_pinata_startgame_nightone
+Chunk Name: aid_pip_pinata_misc_animalill
+Chunk Name: aid_pip_pinata_alert_beggarenoughmoney
+Chunk Name: aid_pip_pinata_award_animal_visit
+Chunk Name: aid_pip_pinata_startgame_journal
+Chunk Name: aid_pip_pinata_misc_pestcocoon
+Chunk Name: aid_pip_pinata_award_default
+Chunk Name: aid_pip_pinata_alert_toolsallowed
+Chunk Name: aid_pip_pinata_startgame_firstalert
+Chunk Name: aid_pip_pinata_startgame_journalinfo
+Chunk Name: aid_pip_pinata_misc_levelup
+Chunk Name: aid_pip_pinata_helper_quittrapped
+Chunk Name: aid_action_pinata_list_actorpickedup
+Chunk Name: aid_pip_pinata_alert_confiscatespade
+Chunk Name: aid_pip_pinata_alert_toolsnotallowed
+Chunk Name: aid_pip_pinata_animalill_spade
+Chunk Name: aid_pip_pinata_alert_cantsendcrate
+Chunk Name: aid_pip_pinata_helper_quitunhappy
+Chunk Name: aid_pip_pinata_helper_quit
+Chunk Name: aid_pip_pinata_startgame_newseed
+Chunk Name: aid_pip_pinata_misc_newvisitor2
+Chunk Name: aid_pip_pinata_misc_newvisitor3
+Chunk Name: aid_pip_pinata_misc_avatarrotated
+Chunk Name: aid_pip_pinata_award_animal_master
+Chunk Name: aid_pip_pinata_animalill_fighting
+Chunk Name: aid_pip_pinata_misc_produceblocked
+Chunk Name: aid_pip_pinata_story_unlockedlast
+Chunk Name: aid_pip_pinata_award_plant_grow
+Chunk Name: aid_pip_pinata_misc_loggedin
+Chunk Name: aid_pip_pinata_award_plant_seed
+Chunk Name: aid_pip_pinata_misc_plantdriedout
+Chunk Name: aid_pip_pinata_helper_istrapped_weeder
+Chunk Name: aid_pip_pinata_helper_istrapped_dedos
+Chunk Name: aid_pip_pinata_helper_istrapped_miner
+Chunk Name: aid_action_pinata_list_actorsell
+Chunk Name: aid_pip_pinata_helper_istrapped_tinker
+Chunk Name: aid_action_pinata_list_actordirect
+Chunk Name: aid_pip_pinata_misc_spacefreedup
+Chunk Name: aid_pip_pinata_misc_cocoonhatched
+Chunk Name: aid_pip_pinata_helper_istrapped_doctor
+Chunk Name: aid_action_pinata_abilities_avatarshopkeeper
+Chunk Name: aid_action_pinata_list_actorstores
+Chunk Name: aid_pip_pinata_alert_dedostrapped
+Chunk Name: aid_pip_pinata_award_biftree_grow
+Chunk Name: aid_pip_pinata_animalill_oldage
+Chunk Name: aid_action_pinata_list_avatarstores
+Chunk Name: aid_pip_pinata_alert_returnspade
+Chunk Name: aid_pip_pinata_animalill_trapped
+Chunk Name: aid_pip_pinata_helper_outofwork_weeder
+Chunk Name: aid_pip_pinata_test
+Chunk Name: aid_pip_pinata_misc_animaldied
+Chunk Name: aid_pip_pinata_misc_crateadvice
+Chunk Name: aid_pip_pinata_misc_matetrouble
+Chunk Name: aid_action_pinata_list_actorbuy
+Chunk Name: aid_action_pinata_list_actorcrate
+Chunk Name: aid_pip_pinata_story_unlocked
+Chunk Name: aid_pip_pinata_alert_builderintro
+Chunk Name: aid_action_pinata_list_startgamemenu
+Chunk Name: aid_pip_pinata_animalill_created
+Chunk Name: aid_pip_pinata_misc_plantstunted
+Chunk Name: aid_pip_pinata_animalill_unhappy
+Chunk Name: aid_pip_pinata_misc_firstmail
+Chunk Name: aid_pip_pinata_misc_firstcocoon
+Chunk Name: aid_pip_pinata_live_playerleft
+CaffCount: 1
+Caff 0
+Size(bytes): 49953
+Offset(h): 2048
+.DATA chunk count: 126
+.GPU chunk count: 3
+0 offset(h): 120
+0 size(bytes) - Compressed: 2758 -> Uncompressed: 8732
+1 offset(h): 4926
+1 size(bytes) - Compressed: 206 -> Uncompressed: 392
+2 size(bytes) - Compressed: 3856 -> Uncompressed: 45280
+3 size(bytes) - Compressed: 43013 -> Uncompressed: 94208
+Caff 0
+Size(bytes): 49953
+Offset(h): 2048
+.DATA chunk count: 126
+.GPU chunk count: 3
+0 offset(h): 120
+0 size(bytes) - Compressed: 2758 -> Uncompressed: 8732
+1 offset(h): 4926
+1 size(bytes) - Compressed: 206 -> Uncompressed: 392
+2 size(bytes) - Compressed: 3856 -> Uncompressed: 45280
+3 size(bytes) - Compressed: 43013 -> Uncompressed: 94208
+Opening: C:\Users\mag11\Desktop\bundles_packages\3.pkg
+Opening: C:\Users\mag11\Desktop\bundles_packages\5.pkg
+Chunk Name: pool
+Chunk Name: aid_modelextras_pinata_avatar_home_helperdedos_default
+Chunk Name: aid_anim_pinata_avatar_wateringcan_optimax_putdown
+Chunk Name: aid_anim_pinata_avatar_wateringcan_optimax_pickup
+Chunk Name: aid_pip_pinata_confirmation_player_loadgardenlocation
+Chunk Name: aid_anim_pinata_avatar_wateringcan_optimax_stand1
+Chunk Name: aid_pip_pinata_confirmation_player_loadprofilelocation
+Chunk Name: aid_anim_pinata_avatar_wateringcan_optimax_pourinto
+Chunk Name: aid_pip_pinata_confirmation_tinker_cantaffordtotinker
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_optimax_pour
+Chunk Name: aid_texture_pinata_particle_earthsmashdust
+Chunk Name: aid_pip_pinata_helper_istrappedexiting_groundskeeper
+Chunk Name: aid_model_pinata_avatar_seed_turnip_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_model_pinata_avatar_flowerhead_sunflower_default
+Chunk Name: aid_pip_pinata_confirmation_doctor_cantaffordtoheal
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_optimax_putdown
+Chunk Name: aid_anim_pinata_avatar_wateringcan_optimax_onfloor
+Chunk Name: aid_fxemitter_pinata_misc_propsmashdust
+Chunk Name: aid_fxemitter_pinata_misc_sunfloweropen
+Chunk Name: aid_anim_pinata_avatar_wateringcan_optimax_pouroutof
+Chunk Name: aid_pip_pinata_helper_cantreachwork_groundskeepernight
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_optimax_pourinto
+Chunk Name: aid_callout_pinata_avatar_flowerhead_sunflower_default
+Chunk Name: aid_pip_pinata_helper_istrappedexiting_groundskeepernight
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_optimax_stand1
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_optimax_pickup
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_optimax_pouroutof
+Chunk Name: aid_texture_pinata_particle_impactflash
+Chunk Name: aid_texture_pinata_particle_seedpodpollen
+Chunk Name: aid_fxemitter_pinata_impactflash_spadehitanimalflashold
+Chunk Name: aid_anim_pinata_avatar_wateringcan_optimax_pour
+Chunk Name: aid_pip_pinata_helper_istrappedexiting_beggartrader
+Chunk Name: aid_fxparticle_pinata_misc_propsmashdust
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_optimax_onfloor
+Chunk Name: aid_fxparticle_pinata_misc_sunfloweropen
+CaffCount: 9
+Chunk Name: pool
+Chunk Name: aid_fxparticle_pinata_impactflash_spadehitanimalsmokering
+Chunk Name: aid_fxparticle_pinata_misc_earthdustsmall
+Chunk Name: aid_fxemitter_pinata_impactflash_spadehitanimalsmokering
+Chunk Name: aid_texture_pinata_particle_earthsmashdustnm
+Chunk Name: aid_cutscene_pinata_journalappear
+Chunk Name: aid_cutscene_pinata_journalappear
+Chunk Name: aid_cutscene_pinata_journalappear
+Chunk Name: aid_fxemitter_pinata_misc_earthdustsplatbig
+Chunk Name: aid_model_pinata_avatar_spadepart_seedhead_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_pinata_particle_earthsmashdust2
+Chunk Name: aid_fxparticle_pinata_misc_earthdustbig
+Chunk Name: aid_fxemitter_pinata_misc_earthdustbig
+Chunk Name: aid_cutsceneevents_pinata_journalappear_camera
+CaffCount: 9
+Chunk Name: pool
+Chunk Name: aid_action_pinata_list_seedpickedup
+Chunk Name: aid_action_pinata_interface_avatarseed
+Chunk Name: aid_model_pinata_avatar_seed_gem_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_model_pinata_avatar_produce_minemud_default
+Chunk Name: aid_model_pinata_avatar_produce_smallgoldnugget_default
+Chunk Name: aid_objparams_pinata_avatar_seed
+Chunk Name: aid_callout_pinata_avatar_seed_common
+Chunk Name: aid_model_pinata_avatar_seed_sunflower_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_callout_pinata_avatar_produce_minemud_default
+Chunk Name: aid_callout_pinata_avatar_produce_peanutbutter_default
+Chunk Name: aid_callout_pinata_avatar_produce_bone_default
+Chunk Name: aid_action_pinata_list_uiingameshopplaceseed
+Chunk Name: aid_animevents_pinata_avatar_seed_jump
+Chunk Name: aid_model_pinata_avatar_seed_poppy_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_fxparticle_pinata_misc_earthdigbig
+Chunk Name: aid_model_pinata_avatar_seed_chilli_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_model_pinata_avatar_seed_apple_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_fxemitter_pinata_misc_earthdigbig
+Chunk Name: aid_action_pinata_abilities_avatarseedhole
+Chunk Name: aid_action_pinata_list_avatarstoresseed
+Chunk Name: aid_model_pinata_avatar_seed_maize_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_anim_pinata_avatar_seed_standrot
+Chunk Name: aid_fxparticle_pinata_misc_producesmash
+Chunk Name: aid_model_pinata_avatar_seed_thistle_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_action_pinata_abilities_avatarproduce
+Chunk Name: aid_callout_pinata_avatar_seedhole_common
+Chunk Name: aid_model_pinata_avatar_produce_bone_default
+Chunk Name: aid_action_pinata_interface_avatarseedhole
+Chunk Name: aid_animevents_pinata_avatar_seed_standrot
+Chunk Name: aid_fxemitter_pinata_misc_seedsmash
+Chunk Name: aid_fxemitter_pinata_misc_producesmash
+Chunk Name: aid_model_pinata_avatar_produce_sapphire_default
+Chunk Name: aid_model_pinata_avatar_seed_watercress_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_animtable_pinata_avatar_seed
+Chunk Name: aid_anim_pinata_avatar_seed_rot
+Chunk Name: aid_model_pinata_avatar_produce_diamond_default
+Chunk Name: aid_model_pinata_avatar_produce_largegoldnugget_default
+Chunk Name: aid_model_pinata_avatar_seed_venusflytrap_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_fxparticle_pinata_misc_veggrowdirt
+Chunk Name: aid_model_pinata_avatar_seed_snapdragon_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_model_pinata_avatar_seed_blackberrybush_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_fxemitter_pinata_misc_seedplantdirt
+Chunk Name: aid_model_pinata_avatar_seed_carrot_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_action_pinata_abilities_avatarseed
+Chunk Name: aid_model_pinata_avatar_seed_gooseberrybush_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_animevents_pinata_avatar_seed_stand
+Chunk Name: aid_animevents_pinata_avatar_seed_plant
+Chunk Name: aid_fxemitter_pinata_misc_veggrowdirt
+Chunk Name: aid_model_pinata_avatar_seed_bulrush_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_model_pinata_avatar_seed_bluebell_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_callout_pinata_avatar_produce_common
+Chunk Name: aid_anim_pinata_avatar_seed_jump
+Chunk Name: aid_model_pinata_avatar_seed_buttercup_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_model_pinata_avatar_seed_hazelnut_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_callout_pinata_avatar_produce_nugget_default
+Chunk Name: aid_texture_pinata_particle_earthblob
+Chunk Name: aid_action_pinata_list_avatarstoresseedhole
+Chunk Name: aid_model_pinata_avatar_produce_peanutbutter_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_anim_pinata_avatar_seed_stand
+Chunk Name: aid_objparams_pinata_avatar_seedhole
+Chunk Name: aid_anim_pinata_avatar_seed_plant
+Chunk Name: aid_action_pinata_interface_avatarproduce
+Chunk Name: aid_fxparticle_pinata_misc_minemudhit
+Chunk Name: aid_animevents_pinata_avatar_seed_rot
+Chunk Name: aid_model_pinata_avatar_seed_nightshade_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_fxparticle_pinata_misc_seedsmash
+Chunk Name: aid_callout_pinata_avatar_seed_weed_default
+Chunk Name: aid_action_pinata_list_seedholepickedup
+Chunk Name: aid_fxparticle_pinata_misc_seedplantdirt
+Chunk Name: aid_fxemitter_pinata_misc_minemudhit
+Chunk Name: aid_model_pinata_avatar_seedhole_mound_default
+CaffCount: 9
+Chunk Name: pool
+Chunk Name: aid_fxrumble_pinata_gateopenclose
+Chunk Name: aid_objparams_pinata_actorbody_pincam
+Chunk Name: aid_objparams_pinata_actormind_pincam
+Chunk Name: aid_objparams_pinata_actormove_pincam_cut
+Chunk Name: aid_anim_pinata_avatar_wateringcan_iron_pour
+Chunk Name: aid_action_pinata_list_avatarcheckout
+Chunk Name: aid_action_pinata_list_uiingameshopplaceitem
+Chunk Name: aid_xuiloadlist_pinata_master
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_iron_pickup
+Chunk Name: aid_callout_pinata_avatar_flowerhead_snapdragon_default
+Chunk Name: aid_anim_pinata_avatar_wateringcan_iron_putdown
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_iron_stand1
+Chunk Name: aid_action_pinata_list_avatarsell
+Chunk Name: aid_model_pinata_avatar_flowerhead_snapdragon_default
+Chunk Name: aid_action_pinata_abilities_backgroundbackground
+Chunk Name: aid_action_pinata_list_avataraccessory
+Chunk Name: aid_script_pinata_game_uimastercontroller
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_iron_onfloor
+Chunk Name: aid_action_pinata_list_avatarbuy
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_iron_putdown
+Chunk Name: aid_action_pinata_list_startgame
+Chunk Name: aid_action_pinata_interface_backgroundbackground
+Chunk Name: aid_anim_pinata_avatar_wateringcan_iron_pickup
+Chunk Name: aid_objparams_pinata_actor_pincam
+Chunk Name: aid_anim_pinata_avatar_wateringcan_iron_stand1
+Chunk Name: aid_anim_pinata_avatar_wateringcan_iron_onfloor
+Chunk Name: aid_action_pinata_list_avatarselected
+Chunk Name: aid_action_pinata_list_avatarcrateunpack
+Chunk Name: aid_objparams_pinata_scenecontrol_introvideo_rare
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_iron_pouroutof
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_iron_pour
+Chunk Name: aid_texture_common_particle_genericdust
+Chunk Name: aid_objparams_pinata_scenecontrol_ui_master
+Chunk Name: aid_objparams_pinata_actormove_pincam_move
+Chunk Name: aid_action_pinata_list_uiingameshopsellitems
+Chunk Name: aid_action_pinata_list_default
+Chunk Name: aid_pip_pinata_startgame_shopnomoney
+Chunk Name: aid_fxemitter_pinata_misc_dustpuffsmall
+Chunk Name: aid_texture_common_effect_perturbation_waterdroplet
+Chunk Name: aid_anim_pinata_avatar_wateringcan_iron_pourinto
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_iron_pourinto
+Chunk Name: aid_script_pinata_game_newfrontend_introvideo_rare
+Chunk Name: aid_action_pinata_list_actoranimalheal
+Chunk Name: aid_model_pinata_avatar_wateringcan_iron_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_action_pinata_list_avatarcrate
+Chunk Name: aid_action_pinata_list_avatardirect
+Chunk Name: aid_anim_pinata_avatar_wateringcan_iron_pouroutof
+Chunk Name: aid_model_pinata_avatar_spadepart_platinumhandle_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_fxemitter_pinata_misc_watersplat
+Chunk Name: aid_action_pinata_list_avatartinker
+Chunk Name: aid_statetable_pinata_actor_pincam
+Chunk Name: aid_fxparticle_pinata_misc_water
+Chunk Name: aid_texture_common_effect_perturbation_waterdroplethighlight
+Chunk Name: aid_fxemitter_pinata_misc_water
+Chunk Name: aid_pip_pinata_startgame_shop
+Chunk Name: aid_objparams_pinata_actorstrategy_pincam
+Chunk Name: aid_fxparticle_pinata_misc_watersplat
+Chunk Name: aid_fxparticle_pinata_misc_dustpuffsmall
+CaffCount: 9
+Chunk Name: aid_pip_pinata_misc_emergencyquit
+Chunk Name: aid_pip_pinata_alert_doctorclinicopen
+Chunk Name: aid_pip_pinata_misc_animalhunted
+Chunk Name: aid_model_pinata_avatar_projectile_mandrill_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_pip_pinata_misc_romancesweet
+Chunk Name: aid_pip_pinata_misc_firstlevelup
+Chunk Name: aid_pip_pinata_alert_beggarwatered
+Chunk Name: aid_pip_pinata_animalill_overcrowded
+Chunk Name: aid_pip_pinata_startgame_packetinfo
+Chunk Name: aid_pip_pinata_misc_eggdelivered
+Chunk Name: aid_pip_pinata_misc_dastardossmashed
+Chunk Name: aid_pip_pinata_animalill_trampled
+Chunk Name: aid_pip_pinata_promo_accessorydeal1
+Chunk Name: aid_pip_pinata_promo_accessorydeal2
+Chunk Name: aid_pip_pinata_promo_accessorydeal3
+Chunk Name: aid_pip_pinata_promo_accessorydeal4
+Chunk Name: aid_pip_pinata_misc_renameinstruction
+Chunk Name: aid_pip_pinata_alert_warningspade
+Chunk Name: aid_pip_pinata_startgame_twosparrows
+Chunk Name: aid_pip_pinata_startgame_newworkshed
+Chunk Name: aid_pip_pinata_animalill_badsweet
+Chunk Name: aid_pip_pinata_startgame_seedinfo
+Chunk Name: aid_pip_pinata_misc_animaleaten
+Chunk Name: aid_pip_pinata_misc_egghatched
+Chunk Name: aid_pip_pinata_misc_cratenospace
+Chunk Name: aid_pip_pinata_startgame_directprompt
+Chunk Name: aid_pip_pinata_startgame_menuinfo
+Chunk Name: aid_pip_pinata_alert_doctoroncall
+Chunk Name: aid_pip_pinata_startgame_clearground
+Chunk Name: aid_pip_pinata_empty
+Chunk Name: aid_pip_pinata_misc_animaldepressed
+Chunk Name: aid_pip_pinata_alert_dragonborn
+Chunk Name: aid_pip_pinata_challenges_dedos_reward
+Chunk Name: aid_pip_pinata_alert_produceready
+Chunk Name: aid_fxrumble_pinata_objectdestroyedsmall
+Chunk Name: aid_pip_pinata_helper_givepresent
+Chunk Name: aid_pip_pinata_alert_builderhouseready
+Chunk Name: aid_pip_pinata_misc_firsttrampled
+Chunk Name: aid_pip_pinata_startgame_targetprompt
+Chunk Name: aid_pip_pinata_live_newplayer
+Chunk Name: aid_action_pinata_interface_avatarshopkeeper
+Chunk Name: aid_pip_pinata_helper_outofwork_miner
+Chunk Name: aid_pip_pinata_startgame_wormhouse
+Chunk Name: aid_pip_pinata_animalill_poisoned
+Chunk Name: aid_pip_pinata_alert_wildcardborn
+Chunk Name: aid_pip_pinata_startgame_watermeter
+Chunk Name: aid_objparams_pinata_avatar_shopkeeper
+Chunk Name: aid_pip_pinata_animalill_null
+Chunk Name: aid_pip_pinata_misc_newvisitor
+Chunk Name: aid_pip_pinata_startgame_clock
+Chunk Name: aid_pip_pinata_startgame_money
+Chunk Name: aid_pip_pinata_startgame_spade
+Chunk Name: aid_pip_pinata_credits_unlocked
+Chunk Name: aid_action_pinata_list_actorhelperselected
+Chunk Name: aid_pip_pinata_startgame_mateadvice
+Chunk Name: aid_pip_pinata_startgame_directprompt2
+Chunk Name: aid_pip_pinata_startgame_directprompt3
+Chunk Name: aid_pip_pinata_misc_plantoverwatered
+Chunk Name: aid_pip_pinata_live_newplayernonhost
+Chunk Name: aid_pip_pinata_award_animal_breed
+Chunk Name: aid_pip_pinata_startgame_nightone
+Chunk Name: aid_pip_pinata_misc_animalill
+Chunk Name: aid_pip_pinata_alert_beggarenoughmoney
+Chunk Name: aid_pip_pinata_award_animal_visit
+Chunk Name: aid_pip_pinata_startgame_journal
+Chunk Name: aid_pip_pinata_misc_pestcocoon
+Chunk Name: aid_pip_pinata_award_default
+Chunk Name: aid_pip_pinata_alert_toolsallowed
+Chunk Name: aid_pip_pinata_startgame_firstalert
+Chunk Name: aid_pip_pinata_startgame_journalinfo
+Chunk Name: aid_pip_pinata_misc_levelup
+Chunk Name: aid_pip_pinata_helper_quittrapped
+Chunk Name: aid_action_pinata_list_actorpickedup
+Chunk Name: aid_pip_pinata_alert_confiscatespade
+Chunk Name: aid_pip_pinata_alert_toolsnotallowed
+Chunk Name: aid_pip_pinata_animalill_spade
+Chunk Name: aid_pip_pinata_alert_cantsendcrate
+Chunk Name: aid_pip_pinata_helper_quitunhappy
+Chunk Name: aid_pip_pinata_helper_quit
+Chunk Name: aid_pip_pinata_startgame_newseed
+Chunk Name: aid_pip_pinata_misc_newvisitor2
+Chunk Name: aid_pip_pinata_misc_newvisitor3
+Chunk Name: aid_pip_pinata_misc_avatarrotated
+Chunk Name: aid_pip_pinata_award_animal_master
+Chunk Name: aid_pip_pinata_animalill_fighting
+Chunk Name: aid_pip_pinata_misc_produceblocked
+Chunk Name: aid_pip_pinata_story_unlockedlast
+Chunk Name: aid_pip_pinata_award_plant_grow
+Chunk Name: aid_pip_pinata_misc_loggedin
+Chunk Name: aid_pip_pinata_award_plant_seed
+Chunk Name: aid_pip_pinata_misc_plantdriedout
+Chunk Name: aid_pip_pinata_helper_istrapped_weeder
+Chunk Name: aid_pip_pinata_helper_istrapped_dedos
+Chunk Name: aid_pip_pinata_helper_istrapped_miner
+Chunk Name: aid_action_pinata_list_actorsell
+Chunk Name: aid_pip_pinata_helper_istrapped_tinker
+Chunk Name: aid_action_pinata_list_actordirect
+Chunk Name: aid_pip_pinata_misc_spacefreedup
+Chunk Name: aid_pip_pinata_misc_cocoonhatched
+Chunk Name: aid_pip_pinata_helper_istrapped_doctor
+Chunk Name: aid_action_pinata_abilities_avatarshopkeeper
+Chunk Name: aid_action_pinata_list_actorstores
+Chunk Name: aid_pip_pinata_alert_dedostrapped
+Chunk Name: aid_pip_pinata_award_biftree_grow
+Chunk Name: aid_pip_pinata_animalill_oldage
+Chunk Name: aid_action_pinata_list_avatarstores
+Chunk Name: aid_pip_pinata_alert_returnspade
+Chunk Name: aid_pip_pinata_animalill_trapped
+Chunk Name: aid_pip_pinata_helper_outofwork_weeder
+Chunk Name: aid_pip_pinata_test
+Chunk Name: aid_pip_pinata_misc_animaldied
+Chunk Name: aid_pip_pinata_misc_crateadvice
+Chunk Name: aid_pip_pinata_misc_matetrouble
+Chunk Name: aid_action_pinata_list_actorbuy
+Chunk Name: aid_action_pinata_list_actorcrate
+Chunk Name: aid_pip_pinata_story_unlocked
+Chunk Name: aid_pip_pinata_alert_builderintro
+Chunk Name: aid_action_pinata_list_startgamemenu
+Chunk Name: aid_pip_pinata_animalill_created
+Chunk Name: aid_pip_pinata_misc_plantstunted
+Chunk Name: aid_pip_pinata_animalill_unhappy
+Chunk Name: aid_pip_pinata_misc_firstmail
+Chunk Name: aid_pip_pinata_misc_firstcocoon
+Chunk Name: aid_pip_pinata_live_playerleft
+CaffCount: 9
+Chunk Name: pool
+Chunk Name: aid_action_pinata_abilities_avatarbifplant
+Chunk Name: aid_callout_pinata_avatar_biftree_common
+Chunk Name: aid_fxparticle_pinata_misc_poisonivygas
+Chunk Name: aid_action_pinata_interface_avatarhome
+Chunk Name: aid_fxparticle_pinata_misc_plantgrowdust
+Chunk Name: aid_fxemitter_pinata_misc_rotgas
+Chunk Name: aid_objparams_pinata_avatar_home
+Chunk Name: aid_texture_pinata_homes_frog_default
+Chunk Name: aid_animevents_pinata_avatar_prop_sweet_givesweet
+Chunk Name: aid_model_pinata_avatar_fence_iron_default
+Chunk Name: aid_callout_pinata_avatar_home_common
+Chunk Name: aid_fxemitter_pinata_misc_poisonivygas
+Chunk Name: aid_action_pinata_abilities_avatarlifesweet
+Chunk Name: aid_action_pinata_interface_avatarbifplant
+Chunk Name: aid_action_pinata_abilities_avatarflowerhead
+Chunk Name: aid_model_pinata_avatar_sweet_romance_default
+Chunk Name: aid_fxparticle_pinata_misc_rotgas
+Chunk Name: aid_anim_pinata_avatar_gate_closeout
+Chunk Name: aid_animevents_pinata_avatar_gate_closeout
+Chunk Name: aid_model_pinata_avatar_lifesweet_default
+Chunk Name: aid_texture_pinata_particle_budleaves
+Chunk Name: aid_animevents_pinata_avatar_gate_openin
+Chunk Name: aid_texture_pinata_particle_soapbubble
+Chunk Name: aid_action_pinata_interface_avatarlifesweet
+Chunk Name: aid_action_pinata_abilities_avatarbiftree
+Chunk Name: aid_fxemitter_pinata_misc_plantpetals
+Chunk Name: aid_texture_pinata_particle_flashwhite
+Chunk Name: aid_action_pinata_list_avatarhomeselected
+Chunk Name: aid_texture_pinata_particle_twinklieorange
+Chunk Name: aid_fxparticle_pinata_misc_plantpetals
+Chunk Name: aid_action_pinata_abilities_avatarprojectile
+Chunk Name: aid_animtable_pinata_avatar_home
+Chunk Name: aid_objparams_pinata_avatar_fence
+Chunk Name: aid_anim_pinata_avatar_gate_openin
+Chunk Name: aid_action_pinata_interface_avatarfence
+Chunk Name: aid_callout_pinata_avatar_bifplant_common
+Chunk Name: aid_callout_pinata_avatar_projectile_common
+Chunk Name: aid_fxemitter_pinata_misc_carrotmaturedirt
+Chunk Name: aid_fxemitter_pinata_misc_carrotmatureland
+Chunk Name: aid_fxemitter_pinata_misc_toadstoolgas
+Chunk Name: aid_objparams_pinata_avatar_bifplant
+Chunk Name: aid_animtable_pinata_avatar_fence
+Chunk Name: aid_objparams_pinata_avatar_biftree
+Chunk Name: aid_texture_pinata_particle_dirtkickup
+Chunk Name: aid_action_pinata_abilities_avatarhome
+Chunk Name: aid_fxemitter_pinata_misc_plantgrowdust
+Chunk Name: aid_anim_pinata_avatar_prop_sweet_givesweet
+Chunk Name: aid_objparams_pinata_avatar_flowerhead
+Chunk Name: aid_fxemitter_pinata_misc_veglanddirt
+Chunk Name: aid_callout_pinata_avatar_fence_common
+Chunk Name: aid_texture_pinata_particle_dasiypetals
+Chunk Name: aid_fxparticle_pinata_misc_toadstoolgas
+Chunk Name: aid_texture_pinata_particle_fruitrotgasnew
+Chunk Name: aid_callout_pinata_avatar_flowerhead_common
+Chunk Name: aid_action_pinata_interface_avatarflowerhead
+Chunk Name: aid_fxparticle_pinata_misc_veglanddirt
+Chunk Name: aid_fxparticle_pinata_misc_producehit
+Chunk Name: aid_fxparticle_pinata_misc_producefly
+Chunk Name: aid_fxemitter_pinata_impactflash_spadehitanimalflash
+Chunk Name: aid_callout_pinata_avatar_home_poisonfrog_default
+Chunk Name: aid_animevents_pinata_avatar_gate_closein
+Chunk Name: aid_anim_pinata_avatar_gate_openout
+Chunk Name: aid_callout_pinata_avatar_home_hydra_default
+Chunk Name: aid_callout_pinata_avatar_home_spider_default
+Chunk Name: aid_fxemitter_pinata_misc_treeexplodeleaves
+Chunk Name: aid_action_pinata_interface_avatarbiftree
+Chunk Name: aid_fxemitter_pinata_misc_producehit
+Chunk Name: aid_fxemitter_pinata_misc_producefly
+Chunk Name: aid_callout_pinata_avatar_fence_irongate_default
+Chunk Name: aid_fxparticle_pinata_misc_carrotmaturedirt
+Chunk Name: aid_fxparticle_pinata_misc_carrotmatureland
+Chunk Name: aid_action_pinata_interface_avatarprojectile
+Chunk Name: aid_fxparticle_pinata_misc_treeexplodeleaves
+Chunk Name: aid_anim_pinata_avatar_gate_closein
+Chunk Name: aid_action_pinata_abilities_avatarfence
+Chunk Name: aid_animevents_pinata_avatar_gate_openout
+Chunk Name: aid_animtable_pinata_avatar_bifplant
+Chunk Name: aid_animtable_pinata_avatar_biftree
+CaffCount: 9
+Chunk Name: aid_action_pinata_list_avatarfertiliserpilepickedup
+Chunk Name: aid_action_pinata_abilities_avatarfertiliserpile
+Chunk Name: aid_fxparticle_pinata_misc_sickdeath
+Chunk Name: aid_action_pinata_list_avatarfertiliserpile
+Chunk Name: aid_action_pinata_interface_avatarfertiliserpile
+Chunk Name: aid_texture_pinata_particle_breakpuff
+Chunk Name: aid_texture_pinata_particle_sheepfire
+Chunk Name: aid_fxrumble_pinata_spadetap
+Chunk Name: aid_fxrumble_pinata_spadehit
+Chunk Name: aid_texture_pinata_particle_whiteglow
+Chunk Name: aid_model_pinata_avatar_fertiliserpile_red_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_fxemitter_pinata_misc_breakpuff
+Chunk Name: aid_fxrumble_pinata_set_hatchfromeggorcocoon
+Chunk Name: aid_texture_pinata_ui_characters_dastardos
+Chunk Name: aid_fxparticle_pinata_actor_misc_dustcloud
+Chunk Name: aid_fxemitter_pinata_misc_sickdeath
+Chunk Name: aid_objparams_pinata_avatar_fertiliserpile
+Chunk Name: aid_fxparticle_pinata_impactflash_spadehitanimalflash
+Chunk Name: aid_callout_pinata_avatar_sweet_common
+Chunk Name: aid_model_pinata_avatar_sweet_happy_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_fxemitter_pinata_misc_sweetsmash
+Chunk Name: aid_fxparticle_pinata_misc_breakpuff
+Chunk Name: aid_fxrumble_pinata_set_vshortweak
+Chunk Name: aid_fxemitter_pinata_actor_misc_dustcloud
+Chunk Name: aid_fxparticle_pinata_misc_sweetsmash
+Chunk Name: aid_misc_pinata_avatar_squash
+Chunk Name: aid_misc_pinata_avatar_wobble
+CaffCount: 9
+Chunk Name: aid_model_pinata_avatar_spadepart_woodhandle_default
+Chunk Name: aid_animtable_pinata_avatar_spadepart
+Chunk Name: aid_action_pinata_list_avatarpickedup
+Chunk Name: aid_model_pinata_avatar_projectile_bee_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_pip_pinata_confirmation_player_disconnectedmemoryunitingame
+Chunk Name: aid_model_pinata_avatar_projectile_bushbaby_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_pip_pinata_alert_matingdanceinterruptedanimalremoved
+Chunk Name: aid_pip_pinata_confirmation_player_devicehasprofilealready
+Chunk Name: aid_action_pinata_interface_avatarjournal
+Chunk Name: aid_texture_pinata_avatar_cursor_flash
+Chunk Name: aid_action_pinata_list_avatarjournal
+Chunk Name: aid_fxemitter_pinata_actor_misc_cursor_selectred
+Chunk Name: aid_model_pinata_avatar_spadepart_rustyhead_default
+Chunk Name: aid_action_pinata_interface_avatarspadepart
+Chunk Name: aid_model_pinata_avatar_spadepart_deathhead_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_pip_pinata_alert_matingdanceinterruptedhouseremoved
+Chunk Name: aid_pip_pinata_confirmation_player_disconnectedmemoryunit
+Chunk Name: aid_model_pinata_avatar_seed_tulip_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_fxparticle_pinata_actor_misc_cursor_selectred
+Chunk Name: aid_action_pinata_list_avatarspade
+Chunk Name: aid_action_pinata_abilities_avatarspadepart
+Chunk Name: aid_pip_pinata_alert_tinker_cantreachpickeduptinkeravatar
+Chunk Name: aid_objparams_pinata_avatar_spadepart
+Chunk Name: aid_action_pinata_abilities_avatarjournal
+CaffCount: 9
+Chunk Name: pool
+Chunk Name: aid_animevents_pinata_avatar_spade_multioutof
+Chunk Name: aid_callout_pinata_avatar_wateringcan_common
+Chunk Name: aid_texture_pinata_particle_discardconfetti
+Chunk Name: aid_model_pinata_avatar_spade_stripped_default
+Chunk Name: aid_fxrumble_pinata_wateringcan
+Chunk Name: aid_anim_pinata_avatar_spade_whack
+Chunk Name: aid_anim_pinata_avatar_spade_stand
+Chunk Name: aid_objparams_pinata_avatar_wateringcan
+Chunk Name: aid_action_pinata_interface_avatarwateringcan
+Chunk Name: aid_texture_pinata_particle_grassblades
+Chunk Name: aid_animevents_pinata_avatar_spade_multihitfloor1
+Chunk Name: aid_fxparticle_pinata_misc_earthdustsmash
+Chunk Name: aid_anim_pinata_avatar_spade_whackinto
+Chunk Name: aid_anim_pinata_avatar_spade_whackaday
+Chunk Name: aid_anim_pinata_avatar_spade_whackloop
+Chunk Name: aid_animevents_pinata_avatar_spade_spankground
+Chunk Name: aid_fxrumble_pinata_set_medmed
+Chunk Name: aid_texture_pinata_particle_puddle
+Chunk Name: aid_anim_pinata_avatar_spade_tap
+Chunk Name: aid_anim_pinata_avatar_spade_multioutof
+Chunk Name: aid_anim_pinata_avatar_spade_choplast
+Chunk Name: aid_fxrumble_pinata_set_medweak
+Chunk Name: aid_anim_pinata_avatar_spade_multiinto
+Chunk Name: aid_animevents_pinata_avatar_spade_multiscythe1
+Chunk Name: aid_objparams_pinata_avatar_spade
+Chunk Name: aid_action_pinata_interface_avatarspade
+Chunk Name: aid_fxrumble_pinata_set_shortmed
+Chunk Name: aid_fxparticle_pinata_misc_discardtool
+Chunk Name: aid_animevents_pinata_avatar_spade_scythe
+Chunk Name: aid_animevents_pinata_avatar_spade_fill
+Chunk Name: aid_fxemitter_pinata_misc_discardtool
+Chunk Name: aid_anim_pinata_avatar_spade_multiscythe1
+Chunk Name: aid_action_pinata_abilities_avatarwateringcan
+Chunk Name: aid_animevents_pinata_avatar_spade_digpond
+Chunk Name: aid_animevents_pinata_avatar_spade_digseed
+Chunk Name: aid_animtable_pinata_avatar_spade
+Chunk Name: aid_anim_pinata_avatar_spade_whackoutof
+Chunk Name: aid_action_pinata_list_avatarwateringcan
+Chunk Name: aid_fxrumble_pinata_scythegrass
+Chunk Name: aid_anim_pinata_avatar_spade_scythe
+Chunk Name: aid_anim_pinata_avatar_spade_digseed
+Chunk Name: aid_anim_pinata_avatar_spade_digpond
+Chunk Name: aid_animevents_pinata_avatar_spade_stand
+Chunk Name: aid_animevents_pinata_avatar_spade_whack
+Chunk Name: aid_animevents_pinata_avatar_spade_whackinto
+Chunk Name: aid_animevents_pinata_avatar_spade_whackaday
+Chunk Name: aid_animevents_pinata_avatar_spade_whackloop
+Chunk Name: aid_callout_pinata_avatar_spade_common
+Chunk Name: aid_anim_pinata_avatar_spade_multihitfloor1
+Chunk Name: aid_fxparticle_pinata_misc_grassdigup
+Chunk Name: aid_fxemitter_pinata_misc_earthfillbig
+Chunk Name: aid_anim_pinata_avatar_spade_chop
+Chunk Name: aid_anim_pinata_avatar_spade_fill
+Chunk Name: aid_fxemitter_pinata_misc_earthdustsmash
+Chunk Name: aid_animevents_pinata_avatar_spade_tap
+Chunk Name: aid_animevents_pinata_avatar_spade_multiinto
+Chunk Name: aid_animtable_pinata_avatar_wateringcan
+Chunk Name: aid_action_pinata_abilities_avatarspade
+Chunk Name: aid_animevents_pinata_avatar_spade_whackoutof
+Chunk Name: aid_anim_pinata_avatar_spade_spankground
+Chunk Name: aid_fxemitter_pinata_misc_grassdigup
+Chunk Name: aid_fxparticle_pinata_misc_earthfillbig
+CaffCount: 9
+Caff 0
+Size(bytes): 145955
+Offset(h): 2048
+.DATA chunk count: 40
+.GPU chunk count: 10
+0 offset(h): 120
+0 size(bytes) - Compressed: 1232 -> Uncompressed: 3412
+1 offset(h): 3400
+1 size(bytes) - Compressed: 1216 -> Uncompressed: 3244
+2 size(bytes) - Compressed: 9882 -> Uncompressed: 37936
+3 size(bytes) - Compressed: 133505 -> Uncompressed: 450560
+Opening: C:\Users\mag11\Desktop\bundles_packages\3.pkg
+Chunk Name: aid_pip_pinata_misc_emergencyquit
+Chunk Name: aid_pip_pinata_alert_doctorclinicopen
+Chunk Name: aid_pip_pinata_misc_animalhunted
+Chunk Name: aid_model_pinata_avatar_projectile_mandrill_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_pip_pinata_misc_romancesweet
+Chunk Name: aid_pip_pinata_misc_firstlevelup
+Chunk Name: aid_pip_pinata_alert_beggarwatered
+Chunk Name: aid_pip_pinata_animalill_overcrowded
+Chunk Name: aid_pip_pinata_startgame_packetinfo
+Chunk Name: aid_pip_pinata_misc_eggdelivered
+Chunk Name: aid_pip_pinata_misc_dastardossmashed
+Chunk Name: aid_pip_pinata_animalill_trampled
+Chunk Name: aid_pip_pinata_promo_accessorydeal1
+Chunk Name: aid_pip_pinata_promo_accessorydeal2
+Chunk Name: aid_pip_pinata_promo_accessorydeal3
+Chunk Name: aid_pip_pinata_promo_accessorydeal4
+Chunk Name: aid_pip_pinata_misc_renameinstruction
+Chunk Name: aid_pip_pinata_alert_warningspade
+Chunk Name: aid_pip_pinata_startgame_twosparrows
+Chunk Name: aid_pip_pinata_startgame_newworkshed
+Chunk Name: aid_pip_pinata_animalill_badsweet
+Chunk Name: aid_pip_pinata_startgame_seedinfo
+Chunk Name: aid_pip_pinata_misc_animaleaten
+Chunk Name: aid_pip_pinata_misc_egghatched
+Chunk Name: aid_pip_pinata_misc_cratenospace
+Chunk Name: aid_pip_pinata_startgame_directprompt
+Chunk Name: aid_pip_pinata_startgame_menuinfo
+Chunk Name: aid_pip_pinata_alert_doctoroncall
+Chunk Name: aid_pip_pinata_startgame_clearground
+Chunk Name: aid_pip_pinata_empty
+Chunk Name: aid_pip_pinata_misc_animaldepressed
+Chunk Name: aid_pip_pinata_alert_dragonborn
+Chunk Name: aid_pip_pinata_challenges_dedos_reward
+Chunk Name: aid_pip_pinata_alert_produceready
+Chunk Name: aid_fxrumble_pinata_objectdestroyedsmall
+Chunk Name: aid_pip_pinata_helper_givepresent
+Chunk Name: aid_pip_pinata_alert_builderhouseready
+Chunk Name: aid_pip_pinata_misc_firsttrampled
+Chunk Name: aid_pip_pinata_startgame_targetprompt
+Chunk Name: aid_pip_pinata_live_newplayer
+Chunk Name: aid_action_pinata_interface_avatarshopkeeper
+Chunk Name: aid_pip_pinata_helper_outofwork_miner
+Chunk Name: aid_pip_pinata_startgame_wormhouse
+Chunk Name: aid_pip_pinata_animalill_poisoned
+Chunk Name: aid_pip_pinata_alert_wildcardborn
+Chunk Name: aid_pip_pinata_startgame_watermeter
+Chunk Name: aid_objparams_pinata_avatar_shopkeeper
+Chunk Name: aid_pip_pinata_animalill_null
+Chunk Name: aid_pip_pinata_misc_newvisitor
+Chunk Name: aid_pip_pinata_startgame_clock
+Chunk Name: aid_pip_pinata_startgame_money
+Chunk Name: aid_pip_pinata_startgame_spade
+Chunk Name: aid_pip_pinata_credits_unlocked
+Chunk Name: aid_action_pinata_list_actorhelperselected
+Chunk Name: aid_pip_pinata_startgame_mateadvice
+Chunk Name: aid_pip_pinata_startgame_directprompt2
+Chunk Name: aid_pip_pinata_startgame_directprompt3
+Chunk Name: aid_pip_pinata_misc_plantoverwatered
+Chunk Name: aid_pip_pinata_live_newplayernonhost
+Chunk Name: aid_pip_pinata_award_animal_breed
+Chunk Name: aid_pip_pinata_startgame_nightone
+Chunk Name: aid_pip_pinata_misc_animalill
+Chunk Name: aid_pip_pinata_alert_beggarenoughmoney
+Chunk Name: aid_pip_pinata_award_animal_visit
+Chunk Name: aid_pip_pinata_startgame_journal
+Chunk Name: aid_pip_pinata_misc_pestcocoon
+Chunk Name: aid_pip_pinata_award_default
+Chunk Name: aid_pip_pinata_alert_toolsallowed
+Chunk Name: aid_pip_pinata_startgame_firstalert
+Chunk Name: aid_pip_pinata_startgame_journalinfo
+Chunk Name: aid_pip_pinata_misc_levelup
+Chunk Name: aid_pip_pinata_helper_quittrapped
+Chunk Name: aid_action_pinata_list_actorpickedup
+Chunk Name: aid_pip_pinata_alert_confiscatespade
+Chunk Name: aid_pip_pinata_alert_toolsnotallowed
+Chunk Name: aid_pip_pinata_animalill_spade
+Chunk Name: aid_pip_pinata_alert_cantsendcrate
+Chunk Name: aid_pip_pinata_helper_quitunhappy
+Chunk Name: aid_pip_pinata_helper_quit
+Chunk Name: aid_pip_pinata_startgame_newseed
+Chunk Name: aid_pip_pinata_misc_newvisitor2
+Chunk Name: aid_pip_pinata_misc_newvisitor3
+Chunk Name: aid_pip_pinata_misc_avatarrotated
+Chunk Name: aid_pip_pinata_award_animal_master
+Chunk Name: aid_pip_pinata_animalill_fighting
+Chunk Name: aid_pip_pinata_misc_produceblocked
+Chunk Name: aid_pip_pinata_story_unlockedlast
+Chunk Name: aid_pip_pinata_award_plant_grow
+Chunk Name: aid_pip_pinata_misc_loggedin
+Chunk Name: aid_pip_pinata_award_plant_seed
+Chunk Name: aid_pip_pinata_misc_plantdriedout
+Chunk Name: aid_pip_pinata_helper_istrapped_weeder
+Chunk Name: aid_pip_pinata_helper_istrapped_dedos
+Chunk Name: aid_pip_pinata_helper_istrapped_miner
+Chunk Name: aid_action_pinata_list_actorsell
+Chunk Name: aid_pip_pinata_helper_istrapped_tinker
+Chunk Name: aid_action_pinata_list_actordirect
+Chunk Name: aid_pip_pinata_misc_spacefreedup
+Chunk Name: aid_pip_pinata_misc_cocoonhatched
+Chunk Name: aid_pip_pinata_helper_istrapped_doctor
+Chunk Name: aid_action_pinata_abilities_avatarshopkeeper
+Chunk Name: aid_action_pinata_list_actorstores
+Chunk Name: aid_pip_pinata_alert_dedostrapped
+Chunk Name: aid_pip_pinata_award_biftree_grow
+Chunk Name: aid_pip_pinata_animalill_oldage
+Chunk Name: aid_action_pinata_list_avatarstores
+Chunk Name: aid_pip_pinata_alert_returnspade
+Chunk Name: aid_pip_pinata_animalill_trapped
+Chunk Name: aid_pip_pinata_helper_outofwork_weeder
+Chunk Name: aid_pip_pinata_test
+Chunk Name: aid_pip_pinata_misc_animaldied
+Chunk Name: aid_pip_pinata_misc_crateadvice
+Chunk Name: aid_pip_pinata_misc_matetrouble
+Chunk Name: aid_action_pinata_list_actorbuy
+Chunk Name: aid_action_pinata_list_actorcrate
+Chunk Name: aid_pip_pinata_story_unlocked
+Chunk Name: aid_pip_pinata_alert_builderintro
+Chunk Name: aid_action_pinata_list_startgamemenu
+Chunk Name: aid_pip_pinata_animalill_created
+Chunk Name: aid_pip_pinata_misc_plantstunted
+Chunk Name: aid_pip_pinata_animalill_unhappy
+Chunk Name: aid_pip_pinata_misc_firstmail
+Chunk Name: aid_pip_pinata_misc_firstcocoon
+Chunk Name: aid_pip_pinata_live_playerleft
+CaffCount: 1
+Caff 0
+Size(bytes): 49953
+Offset(h): 2048
+.DATA chunk count: 126
+.GPU chunk count: 3
+0 offset(h): 120
+0 size(bytes) - Compressed: 2758 -> Uncompressed: 8732
+1 offset(h): 4926
+1 size(bytes) - Compressed: 206 -> Uncompressed: 392
+2 size(bytes) - Compressed: 3856 -> Uncompressed: 45280
+3 size(bytes) - Compressed: 43013 -> Uncompressed: 94208
+Opening: C:\Users\mag11\Desktop\bundles_packages\6.pkg
+Chunk Name: pool
+Chunk Name: aid_misc_pinata_speechphrase_doctor_watered1
+Chunk Name: aid_misc_pinata_speechphrase_doctor_watered2
+Chunk Name: aid_misc_pinata_speechphrase_doctor_watered3
+Chunk Name: aid_pip_pinata_award_upgrades_tageditor
+Chunk Name: aid_model_pinata_avatar_seed_birdofparadiseplant_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_pip_pinata_helper_istrapped_builder
+Chunk Name: aid_pip_pinata_helper_istrapped_bygate1
+Chunk Name: aid_pip_pinata_helper_istrapped_bygate2
+Chunk Name: aid_pip_pinata_helper_istrapped_bygate3
+Chunk Name: aid_pip_pinata_mateminigame_runninganimal
+Chunk Name: aid_pip_pinata_helper_outofwork_waterer
+Chunk Name: aid_pip_pinata_alert_storkoshomeremoved
+Chunk Name: aid_pip_pinata_alert_doctoranimalkilled
+Chunk Name: aid_pip_pinata_startgame_wateringcan
+Chunk Name: aid_action_pinata_abilities_avatarvegetable
+Chunk Name: aid_pip_pinata_startgame_avatarinfoprompt
+Chunk Name: aid_cutscene_pinata_wateringcanloop
+Chunk Name: aid_cutscene_pinata_wateringcanloop
+Chunk Name: aid_cutscene_pinata_wateringcanloop
+Chunk Name: aid_pip_pinata_helper_cantreachwork_miner
+Chunk Name: aid_pip_pinata_misc_plantonexcludedsurface
+Chunk Name: aid_objparams_pinata_avatar_vegetable
+Chunk Name: aid_pip_pinata_startgame_smashhouseblock
+Chunk Name: aid_callout_pinata_avatar_fence_wire_default
+Chunk Name: aid_action_pinata_interface_avatarvegetable
+Chunk Name: aid_pip_pinata_mateminigame_gamecompleted
+Chunk Name: aid_callout_pinata_avatar_fertiliser_red_default
+Chunk Name: aid_pip_pinata_alert_gardenfullcantmate
+Chunk Name: aid_pip_pinata_alert_doctorgiveuponpatient
+Chunk Name: aid_pip_pinata_alert_tinker_outtinkering
+Chunk Name: aid_pip_pinata_challenges_factory_reminder
+Chunk Name: aid_pip_pinata_helper_groundskeepernight
+Chunk Name: aid_pip_pinata_alert_kickedoutofpostoffice
+Chunk Name: aid_pip_pinata_alert_doctorreachpatient
+Chunk Name: aid_misc_pinata_speechphrase_doctor_hit1
+Chunk Name: aid_misc_pinata_speechphrase_doctor_hit2
+Chunk Name: aid_misc_pinata_speechphrase_doctor_hit3
+Chunk Name: aid_script_pinata_game_garden_blank
+Chunk Name: aid_pip_pinata_alert_warningwateringcan
+Chunk Name: aid_pip_pinata_misc_competitionsunlocked
+Chunk Name: aid_pip_pinata_helper_outofwork_harvester
+Chunk Name: aid_fxparticle_pinata_misc_fertiliserred
+Chunk Name: aid_pip_pinata_startgame_packetreminder
+Chunk Name: aid_pip_pinata_challenges_dedos_completed
+Chunk Name: aid_pip_pinata_award_animal_dragonresident
+Chunk Name: aid_pip_pinata_animalill_cannotexit
+Chunk Name: aid_pip_pinata_alert_returnwateringcan
+Chunk Name: aid_pip_pinata_startgame_mouse_move
+Chunk Name: aid_pip_pinata_startgame_mouse_look
+Chunk Name: aid_pip_pinata_startgame_experiencebar
+Chunk Name: aid_pip_pinata_startgame_wateringcaninfo
+Chunk Name: aid_pip_pinata_challenges_factory_failed
+Chunk Name: aid_pip_pinata_startgame_toolmenureminder
+Chunk Name: aid_script_pinata_game_garden_load
+Chunk Name: aid_pip_pinata_mateminigame_gamefailed
+Chunk Name: aid_pip_pinata_startgame_happymeter
+Chunk Name: aid_pip_pinata_alert_doctordirectadvice
+Chunk Name: aid_pip_pinata_animalill_hypochondriac
+Chunk Name: aid_callout_pinata_avatar_vegetable_common
+Chunk Name: aid_pip_pinata_startgame_spadereminder
+Chunk Name: aid_pip_pinata_misc_loggedinnoprofile
+Chunk Name: aid_pip_pinata_mateminigame_movingloathers
+Chunk Name: aid_pip_pinata_helper_istrapped_waterer
+Chunk Name: aid_pip_pinata_misc_plantattackedbypest
+Chunk Name: aid_pip_pinata_misc_plantattackedbyruffian
+Chunk Name: aid_pip_pinata_alert_tinker_giveuponavatar
+Chunk Name: aid_pip_pinata_award_shop_unlock_builder
+Chunk Name: aid_pip_pinata_alert_tinker_givequote
+Chunk Name: aid_pip_pinata_misc_emergencyreload
+Chunk Name: aid_pip_pinata_helper_istrapped_harvester
+Chunk Name: aid_pip_pinata_startgame_directreminder
+Chunk Name: aid_pip_pinata_alert_tinker_directadvice
+Chunk Name: aid_pip_pinata_startgame_wormappear
+Chunk Name: aid_pip_pinata_alert_confiscatewateringcan
+Chunk Name: aid_pip_pinata_startgame_newwormhouse
+Chunk Name: aid_animtable_pinata_avatar_vegetable
+Chunk Name: aid_fxemitter_pinata_misc_fertiliserred
+Chunk Name: aid_pip_pinata_award_animal_resident
+Chunk Name: aid_pip_pinata_helper_cantreachwork_weeder
+Chunk Name: aid_pip_pinata_alert_tinker_caravanopen
+Chunk Name: aid_pip_pinata_alert_raccoonreturned
+Chunk Name: aid_pip_pinata_misc_experiencepoints
+Chunk Name: aid_pip_pinata_misc_spacerunningout
+Chunk Name: aid_pip_pinata_startgame_mouse_select
+CaffCount: 1
+Caff 0
+Size(bytes): 66343
+Offset(h): 2048
+.DATA chunk count: 90
+.GPU chunk count: 6
+0 offset(h): 120
+0 size(bytes) - Compressed: 2298 -> Uncompressed: 6720
+1 offset(h): 4466
+1 size(bytes) - Compressed: 622 -> Uncompressed: 1508
+2 size(bytes) - Compressed: 9340 -> Uncompressed: 61100
+3 size(bytes) - Compressed: 53963 -> Uncompressed: 249856
+Opening: C:\Users\mag11\Desktop\bundles_packages\72.pkg
+Chunk Name: aid_objparams_pinata_scenecontrol_journal
+Chunk Name: aid_objparams_pinata_scenecontrol_leaderboardsread
+Chunk Name: aid_script_pinata_game_journal
+Chunk Name: aid_callout_pinata_avatar_produce_bread_default
+Chunk Name: aid_model_pinata_avatar_projectile_firesalamander_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_model_pinata_avatar_produce_milk_default
+Chunk Name: aid_texture_pinata_ui_journal_background
+Chunk Name: aid_model_pinata_avatar_produce_bread_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+CaffCount: 1
+Caff 0
+Size(bytes): 79264
+Offset(h): 2048
+.DATA chunk count: 12
+.GPU chunk count: 8
+0 offset(h): 120
+0 size(bytes) - Compressed: 508 -> Uncompressed: 1044
+1 offset(h): 2676
+1 size(bytes) - Compressed: 689 -> Uncompressed: 1704
+2 size(bytes) - Compressed: 4026 -> Uncompressed: 22584
+3 size(bytes) - Compressed: 73921 -> Uncompressed: 188416
+Opening: C:\Users\mag11\Desktop\bundles_packages\95.pkg
+Chunk Name: pool
+Chunk Name: aid_script_pinata_houseinterior_mate_animal_chameleon
+Chunk Name: aid_animevents_pinata_avatar_crate_regular_rest1
+Chunk Name: aid_animevents_pinata_avatar_crate_regular_rest2
+Chunk Name: aid_animevents_pinata_avatar_crate_regular_rest3
+Chunk Name: aid_animevents_pinata_avatar_crate_regular_stand
+Chunk Name: aid_fxparticle_pinata_misc_lanternflame
+Chunk Name: aid_script_pinata_houseinterior_mate_animal_monkey
+Chunk Name: aid_callout_pinata_avatar_prop_oillamp_default
+Chunk Name: aid_anim_pinata_avatar_crate_regular_jiggle
+Chunk Name: aid_script_pinata_houseinterior_subscripts_materoom
+Chunk Name: aid_objparams_pinata_scenecontrol_houseinterior_bedroom
+Chunk Name: aid_pip_pinata_challenges_factory_introduction
+Chunk Name: aid_model_pinata_avatar_projectile_zebra_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_anim_pinata_avatar_crate_regular_stand
+Chunk Name: aid_anim_pinata_avatar_crate_regular_rest1
+Chunk Name: aid_anim_pinata_avatar_crate_regular_rest2
+Chunk Name: aid_anim_pinata_avatar_crate_regular_rest3
+Chunk Name: aid_script_pinata_houseinterior_subscripts_bedroom
+Chunk Name: aid_animevents_pinata_avatar_crate_regular_openned
+Chunk Name: aid_callout_pinata_avatar_fence_stone_default
+Chunk Name: aid_objparams_pinata_scenecontrol_debug_animalinfo
+Chunk Name: aid_model_pinata_avatar_prop_oillamp_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_animevents_pinata_avatar_crate_regular_closing
+Chunk Name: aid_fxparticle_pinata_misc_tulipopen
+Chunk Name: aid_cutsceneevents_pinata_background_factory_camera
+Chunk Name: aid_anim_pinata_avatar_crate_regular_disappear
+Chunk Name: aid_animevents_pinata_avatar_crate_regular_land
+Chunk Name: aid_animevents_pinata_avatar_crate_regular_open
+Chunk Name: aid_animevents_pinata_avatar_crate_regular_rock
+Chunk Name: aid_objparams_pinata_scenecontrol_houseinterior_materoom
+Chunk Name: aid_script_pinata_game_subscripts_visualsetup
+Chunk Name: aid_objparams_pinata_scenecontrol_competitionlobby
+Chunk Name: aid_misc_pinata_mateminigame_blackbutterfly
+Chunk Name: aid_anim_pinata_avatar_crate_regular_land
+Chunk Name: aid_anim_pinata_avatar_crate_regular_open
+Chunk Name: aid_anim_pinata_avatar_crate_regular_rock
+Chunk Name: aid_marker_pinata_game_competitionlobby
+Chunk Name: aid_animevents_pinata_avatar_crate_regular_jiggle
+Chunk Name: aid_model_pinata_avatar_projectile_beaver_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_animevents_pinata_avatar_crate_regular_disappear
+Chunk Name: aid_cutscene_pinata_background_factory
+Chunk Name: aid_anim_pinata_avatar_crate_regular_openned
+Chunk Name: aid_objparams_pinata_scenecontrol_live
+Chunk Name: aid_fxemitter_pinata_misc_lanternflame
+Chunk Name: aid_anim_pinata_avatar_crate_regular_closing
+Chunk Name: aid_fxemitter_pinata_misc_tulipopen
+CaffCount: 1
+Caff 0
+Size(bytes): 100708
+Offset(h): 2048
+.DATA chunk count: 53
+.GPU chunk count: 9
+0 offset(h): 120
+0 size(bytes) - Compressed: 1516 -> Uncompressed: 4268
+1 offset(h): 3684
+1 size(bytes) - Compressed: 1169 -> Uncompressed: 3584
+2 size(bytes) - Compressed: 16962 -> Uncompressed: 60236
+3 size(bytes) - Compressed: 80941 -> Uncompressed: 204800
+Opening: C:\Users\mag11\Desktop\bundles_packages\481.pkg
+Chunk Name: aid_action_pinata_list_avatarfertiliserpilepickedup
+Chunk Name: aid_action_pinata_abilities_avatarfertiliserpile
+Chunk Name: aid_fxparticle_pinata_misc_sickdeath
+Chunk Name: aid_action_pinata_list_avatarfertiliserpile
+Chunk Name: aid_action_pinata_interface_avatarfertiliserpile
+Chunk Name: aid_texture_pinata_particle_breakpuff
+Chunk Name: aid_texture_pinata_particle_sheepfire
+Chunk Name: aid_fxrumble_pinata_spadetap
+Chunk Name: aid_fxrumble_pinata_spadehit
+Chunk Name: aid_texture_pinata_particle_whiteglow
+Chunk Name: aid_model_pinata_avatar_fertiliserpile_red_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_fxemitter_pinata_misc_breakpuff
+Chunk Name: aid_fxrumble_pinata_set_hatchfromeggorcocoon
+Chunk Name: aid_texture_pinata_ui_characters_dastardos
+Chunk Name: aid_fxparticle_pinata_actor_misc_dustcloud
+Chunk Name: aid_fxemitter_pinata_misc_sickdeath
+Chunk Name: aid_objparams_pinata_avatar_fertiliserpile
+Chunk Name: aid_fxparticle_pinata_impactflash_spadehitanimalflash
+Chunk Name: aid_callout_pinata_avatar_sweet_common
+Chunk Name: aid_model_pinata_avatar_sweet_happy_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_fxemitter_pinata_misc_sweetsmash
+Chunk Name: aid_fxparticle_pinata_misc_breakpuff
+Chunk Name: aid_fxrumble_pinata_set_vshortweak
+Chunk Name: aid_fxemitter_pinata_actor_misc_dustcloud
+Chunk Name: aid_fxparticle_pinata_misc_sweetsmash
+Chunk Name: aid_misc_pinata_avatar_squash
+Chunk Name: aid_misc_pinata_avatar_wobble
+CaffCount: 1
+Caff 0
+Size(bytes): 126402
+Offset(h): 2048
+.DATA chunk count: 31
+.GPU chunk count: 10
+0 offset(h): 120
+0 size(bytes) - Compressed: 1001 -> Uncompressed: 2444
+1 offset(h): 3169
+1 size(bytes) - Compressed: 440 -> Uncompressed: 1016
+2 size(bytes) - Compressed: 5010 -> Uncompressed: 29480
+3 size(bytes) - Compressed: 119831 -> Uncompressed: 397312
+Opening: C:\Users\mag11\Desktop\bundles_packages\306.pkg
+Chunk Name: aid_model_pinata_avatar_money_gold_default
+Chunk Name: aid_fxemitter_pinata_misc_juicebrown
+Chunk Name: aid_script_pinata_houseinterior_mate_animal_badger
+Chunk Name: aid_objparams_pinata_scenecontrol_houseinterior_gym
+Chunk Name: aid_script_pinata_game_gardenemptysmall
+Chunk Name: aid_fxparticle_pinata_misc_juicebrown
+Chunk Name: aid_objparams_pinata_scenecontrol_introvideo_climax
+Chunk Name: aid_fxparticle_pinata_misc_juiceyellow
+Chunk Name: aid_model_pinata_avatar_money_biggold_default
+Chunk Name: aid_fxemitter_pinata_misc_juiceyellow
+Chunk Name: aid_callout_pinata_avatar_fruit_banana_default
+Chunk Name: aid_model_pinata_avatar_money_bronze_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_objparams_pinata_avatar_fruit
+Chunk Name: aid_objparams_pinata_avatar_money
+Chunk Name: aid_action_pinata_interface_avatarsweet
+Chunk Name: aid_action_pinata_interface_avatarfruit
+Chunk Name: aid_action_pinata_interface_avatarmoney
+Chunk Name: aid_script_pinata_game_newfrontend_introvideo_climax
+Chunk Name: aid_callout_pinata_avatar_prop_perimeterstone_default
+Chunk Name: aid_script_pinata_houseinterior_subscripts_gym
+Chunk Name: aid_callout_pinata_avatar_fruit_apple_default
+Chunk Name: aid_pip_pinata_confirmation_player_newgardendestructivewarning
+Chunk Name: aid_pip_pinata_confirmation_player_newgardennotyetsaved
+Chunk Name: aid_script_pinata_houseinterior_viewhouse_animalgym_default
+Chunk Name: aid_callout_pinata_avatar_money_common
+Chunk Name: aid_script_pinata_game_newfrontend_introvideo_4kids
+Chunk Name: aid_callout_pinata_avatar_fruit_common
+Chunk Name: aid_model_pinata_avatar_prop_perimeterstone_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_pip_pinata_confirmation_player_tageditorclosewithoutsaving
+Chunk Name: aid_objparams_pinata_scenecontrol_introvideo_4kids
+Chunk Name: aid_texture_common_effect_starflare
+Chunk Name: aid_action_pinata_abilities_avatarsweet
+Chunk Name: aid_action_pinata_abilities_avatarfruit
+Chunk Name: aid_action_pinata_abilities_avatarmoney
+CaffCount: 1
+Caff 0
+Size(bytes): 128064
+Offset(h): 2048
+.DATA chunk count: 41
+.GPU chunk count: 12
+0 offset(h): 120
+0 size(bytes) - Compressed: 1287 -> Uncompressed: 3336
+1 offset(h): 3455
+1 size(bytes) - Compressed: 776 -> Uncompressed: 2676
+2 size(bytes) - Compressed: 6673 -> Uncompressed: 63812
+3 size(bytes) - Compressed: 119208 -> Uncompressed: 278528
+Opening: C:\Users\mag11\Desktop\bundles_packages\49.pkg
+Chunk Name: pool
+Chunk Name: aid_modelextras_pinata_avatar_home_helperdedos_default
+Chunk Name: aid_anim_pinata_avatar_wateringcan_optimax_putdown
+Chunk Name: aid_anim_pinata_avatar_wateringcan_optimax_pickup
+Chunk Name: aid_pip_pinata_confirmation_player_loadgardenlocation
+Chunk Name: aid_anim_pinata_avatar_wateringcan_optimax_stand1
+Chunk Name: aid_pip_pinata_confirmation_player_loadprofilelocation
+Chunk Name: aid_anim_pinata_avatar_wateringcan_optimax_pourinto
+Chunk Name: aid_pip_pinata_confirmation_tinker_cantaffordtotinker
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_optimax_pour
+Chunk Name: aid_texture_pinata_particle_earthsmashdust
+Chunk Name: aid_pip_pinata_helper_istrappedexiting_groundskeeper
+Chunk Name: aid_model_pinata_avatar_seed_turnip_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_model_pinata_avatar_flowerhead_sunflower_default
+Chunk Name: aid_pip_pinata_confirmation_doctor_cantaffordtoheal
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_optimax_putdown
+Chunk Name: aid_anim_pinata_avatar_wateringcan_optimax_onfloor
+Chunk Name: aid_fxemitter_pinata_misc_propsmashdust
+Chunk Name: aid_fxemitter_pinata_misc_sunfloweropen
+Chunk Name: aid_anim_pinata_avatar_wateringcan_optimax_pouroutof
+Chunk Name: aid_pip_pinata_helper_cantreachwork_groundskeepernight
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_optimax_pourinto
+Chunk Name: aid_callout_pinata_avatar_flowerhead_sunflower_default
+Chunk Name: aid_pip_pinata_helper_istrappedexiting_groundskeepernight
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_optimax_stand1
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_optimax_pickup
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_optimax_pouroutof
+Chunk Name: aid_texture_pinata_particle_impactflash
+Chunk Name: aid_texture_pinata_particle_seedpodpollen
+Chunk Name: aid_fxemitter_pinata_impactflash_spadehitanimalflashold
+Chunk Name: aid_anim_pinata_avatar_wateringcan_optimax_pour
+Chunk Name: aid_pip_pinata_helper_istrappedexiting_beggartrader
+Chunk Name: aid_fxparticle_pinata_misc_propsmashdust
+Chunk Name: aid_animevents_pinata_avatar_wateringcan_optimax_onfloor
+Chunk Name: aid_fxparticle_pinata_misc_sunfloweropen
+CaffCount: 1
+Caff 0
+Size(bytes): 145955
+Offset(h): 2048
+.DATA chunk count: 40
+.GPU chunk count: 10
+0 offset(h): 120
+0 size(bytes) - Compressed: 1232 -> Uncompressed: 3412
+1 offset(h): 3400
+1 size(bytes) - Compressed: 1216 -> Uncompressed: 3244
+2 size(bytes) - Compressed: 9882 -> Uncompressed: 37936
+3 size(bytes) - Compressed: 133505 -> Uncompressed: 450560
+Opening: C:\Users\mag11\Desktop\bundles_packages\158.pkg
+Chunk Name: aid_model_pinata_avatar_spadepart_woodhandle_default
+Chunk Name: aid_animtable_pinata_avatar_spadepart
+Chunk Name: aid_action_pinata_list_avatarpickedup
+Chunk Name: aid_model_pinata_avatar_projectile_bee_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_pip_pinata_confirmation_player_disconnectedmemoryunitingame
+Chunk Name: aid_model_pinata_avatar_projectile_bushbaby_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_pip_pinata_alert_matingdanceinterruptedanimalremoved
+Chunk Name: aid_pip_pinata_confirmation_player_devicehasprofilealready
+Chunk Name: aid_action_pinata_interface_avatarjournal
+Chunk Name: aid_texture_pinata_avatar_cursor_flash
+Chunk Name: aid_action_pinata_list_avatarjournal
+Chunk Name: aid_fxemitter_pinata_actor_misc_cursor_selectred
+Chunk Name: aid_model_pinata_avatar_spadepart_rustyhead_default
+Chunk Name: aid_action_pinata_interface_avatarspadepart
+Chunk Name: aid_model_pinata_avatar_spadepart_deathhead_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_pip_pinata_alert_matingdanceinterruptedhouseremoved
+Chunk Name: aid_pip_pinata_confirmation_player_disconnectedmemoryunit
+Chunk Name: aid_model_pinata_avatar_seed_tulip_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_fxparticle_pinata_actor_misc_cursor_selectred
+Chunk Name: aid_action_pinata_list_avatarspade
+Chunk Name: aid_action_pinata_abilities_avatarspadepart
+Chunk Name: aid_pip_pinata_alert_tinker_cantreachpickeduptinkeravatar
+Chunk Name: aid_objparams_pinata_avatar_spadepart
+Chunk Name: aid_action_pinata_abilities_avatarjournal
+CaffCount: 1
+Caff 0
+Size(bytes): 181695
+Offset(h): 2048
+.DATA chunk count: 35
+.GPU chunk count: 18
+0 offset(h): 120
+0 size(bytes) - Compressed: 1120 -> Uncompressed: 2900
+1 offset(h): 3288
+1 size(bytes) - Compressed: 918 -> Uncompressed: 2672
+2 size(bytes) - Compressed: 5413 -> Uncompressed: 45884
+3 size(bytes) - Compressed: 174124 -> Uncompressed: 462848
+Opening: C:\Users\mag11\Desktop\bundles_packages\119.pkg
+Chunk Name: pool
+Chunk Name: aid_cutscene_pinata_actor_animal_badger_appear
+Chunk Name: aid_cutscene_pinata_actor_animal_badger_appear
+Chunk Name: aid_cutsceneevents_pinata_actor_animal_badger_appear_camera
+Chunk Name: aid_model_pinata_actor_animal_badger_appearfix
+CaffCount: 1
+Caff 0
+Size(bytes): 196400
+Offset(h): 2048
+.DATA chunk count: 5
+.GPU chunk count: 1
+0 offset(h): 120
+0 size(bytes) - Compressed: 246 -> Uncompressed: 460
+1 offset(h): 2414
+1 size(bytes) - Compressed: 1420 -> Uncompressed: 3368
+2 size(bytes) - Compressed: 79491 -> Uncompressed: 176748
+3 size(bytes) - Compressed: 115123 -> Uncompressed: 277120
+Opening: C:\Users\mag11\Desktop\bundles_packages\467.pkg
+Chunk Name: pool
+Chunk Name: aid_anim_pinata_avatar_egg_break
+Chunk Name: aid_callout_pinata_avatar_egg_common
+Chunk Name: aid_action_pinata_interface_avatarprop
+Chunk Name: aid_objparams_pinata_avatar_prop
+Chunk Name: aid_anim_pinata_avatar_egg_wobble
+Chunk Name: aid_model_pinata_avatar_paving_hollywood_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_animevents_pinata_avatar_egg_wobble
+Chunk Name: aid_animtable_pinata_avatar_egg
+Chunk Name: aid_animtable_pinata_avatar_prop
+Chunk Name: aid_objparams_pinata_avatar_egg
+Chunk Name: aid_animevents_pinata_avatar_egg_break
+Chunk Name: aid_action_pinata_abilities_avataregg
+Chunk Name: aid_action_pinata_abilities_avatarprop
+Chunk Name: aid_objparams_pinata_avatar_produce
+Chunk Name: aid_model_pinata_avatar_seed_monkeynut_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_model_pinata_avatar_egg_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_callout_pinata_avatar_flowerhead_birdofparadiseplant_default
+Chunk Name: aid_animevents_pinata_avatar_egg_prehatch
+Chunk Name: aid_model_pinata_avatar_prop_junkpond_default
+Chunk Name: aid_objparams_pinata_scenecontrol_introvideo_mgs
+Chunk Name: aid_action_pinata_interface_avataregg
+Chunk Name: aid_model_pinata_avatar_flowerhead_birdofparadiseplant_default
+Chunk Name: aid_pip_pinata_misc_temp
+Chunk Name: aid_anim_pinata_avatar_egg_prehatch
+CaffCount: 1
+Caff 0
+Size(bytes): 200577
+Offset(h): 2048
+.DATA chunk count: 36
+.GPU chunk count: 15
+0 offset(h): 120
+0 size(bytes) - Compressed: 1087 -> Uncompressed: 2696
+1 offset(h): 3255
+1 size(bytes) - Compressed: 1212 -> Uncompressed: 3048
+2 size(bytes) - Compressed: 13340 -> Uncompressed: 68824
+3 size(bytes) - Compressed: 184818 -> Uncompressed: 499712
+Caff 0
+Size(bytes): 200577
+Offset(h): 2048
+.DATA chunk count: 36
+.GPU chunk count: 15
+0 offset(h): 120
+0 size(bytes) - Compressed: 1087 -> Uncompressed: 2696
+1 offset(h): 3255
+1 size(bytes) - Compressed: 1212 -> Uncompressed: 3048
+2 size(bytes) - Compressed: 13340 -> Uncompressed: 68824
+3 size(bytes) - Compressed: 184818 -> Uncompressed: 499712
+Caff 0
+Size(bytes): 200577
+Offset(h): 2048
+.DATA chunk count: 36
+.GPU chunk count: 15
+0 offset(h): 120
+0 size(bytes) - Compressed: 1087 -> Uncompressed: 2696
+1 offset(h): 3255
+1 size(bytes) - Compressed: 1212 -> Uncompressed: 3048
+2 size(bytes) - Compressed: 13340 -> Uncompressed: 68824
+3 size(bytes) - Compressed: 184818 -> Uncompressed: 499712
+Opening: C:\Users\mag11\Desktop\bundles_packages\72.pkg
+Chunk Name: aid_objparams_pinata_scenecontrol_journal
+Chunk Name: aid_objparams_pinata_scenecontrol_leaderboardsread
+Chunk Name: aid_script_pinata_game_journal
+Chunk Name: aid_callout_pinata_avatar_produce_bread_default
+Chunk Name: aid_model_pinata_avatar_projectile_firesalamander_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_model_pinata_avatar_produce_milk_default
+Chunk Name: aid_texture_pinata_ui_journal_background
+Chunk Name: aid_model_pinata_avatar_produce_bread_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup
+CaffCount: 1
+Caff 0
+Size(bytes): 79264
+Offset(h): 2048
+.DATA chunk count: 12
+.GPU chunk count: 8
+0 offset(h): 120
+0 size(bytes) - Compressed: 508 -> Uncompressed: 1044
+1 offset(h): 2676
+1 size(bytes) - Compressed: 689 -> Uncompressed: 1704
+2 size(bytes) - Compressed: 4026 -> Uncompressed: 22584
+3 size(bytes) - Compressed: 73921 -> Uncompressed: 188416
+Caff 0
+Size(bytes): 200577
+Offset(h): 2048
+.DATA chunk count: 36
+.GPU chunk count: 15
+0 offset(h): 120
+0 size(bytes) - Compressed: 1087 -> Uncompressed: 2696
+1 offset(h): 3255
+1 size(bytes) - Compressed: 1212 -> Uncompressed: 3048
+2 size(bytes) - Compressed: 13340 -> Uncompressed: 68824
+3 size(bytes) - Compressed: 184818 -> Uncompressed: 499712
+Opening: C:\Users\mag11\Desktop\bundles_packages\6.pkg
+Chunk Name: pool
+Chunk Name: aid_misc_pinata_speechphrase_doctor_watered1
+Chunk Name: aid_misc_pinata_speechphrase_doctor_watered2
+Chunk Name: aid_misc_pinata_speechphrase_doctor_watered3
+Chunk Name: aid_pip_pinata_award_upgrades_tageditor
+Chunk Name: aid_model_pinata_avatar_seed_birdofparadiseplant_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_pip_pinata_helper_istrapped_builder
+Chunk Name: aid_pip_pinata_helper_istrapped_bygate1
+Chunk Name: aid_pip_pinata_helper_istrapped_bygate2
+Chunk Name: aid_pip_pinata_helper_istrapped_bygate3
+Chunk Name: aid_pip_pinata_mateminigame_runninganimal
+Chunk Name: aid_pip_pinata_helper_outofwork_waterer
+Chunk Name: aid_pip_pinata_alert_storkoshomeremoved
+Chunk Name: aid_pip_pinata_alert_doctoranimalkilled
+Chunk Name: aid_pip_pinata_startgame_wateringcan
+Chunk Name: aid_action_pinata_abilities_avatarvegetable
+Chunk Name: aid_pip_pinata_startgame_avatarinfoprompt
+Chunk Name: aid_cutscene_pinata_wateringcanloop
+Chunk Name: aid_cutscene_pinata_wateringcanloop
+Chunk Name: aid_cutscene_pinata_wateringcanloop
+Chunk Name: aid_pip_pinata_helper_cantreachwork_miner
+Chunk Name: aid_pip_pinata_misc_plantonexcludedsurface
+Chunk Name: aid_objparams_pinata_avatar_vegetable
+Chunk Name: aid_pip_pinata_startgame_smashhouseblock
+Chunk Name: aid_callout_pinata_avatar_fence_wire_default
+Chunk Name: aid_action_pinata_interface_avatarvegetable
+Chunk Name: aid_pip_pinata_mateminigame_gamecompleted
+Chunk Name: aid_callout_pinata_avatar_fertiliser_red_default
+Chunk Name: aid_pip_pinata_alert_gardenfullcantmate
+Chunk Name: aid_pip_pinata_alert_doctorgiveuponpatient
+Chunk Name: aid_pip_pinata_alert_tinker_outtinkering
+Chunk Name: aid_pip_pinata_challenges_factory_reminder
+Chunk Name: aid_pip_pinata_helper_groundskeepernight
+Chunk Name: aid_pip_pinata_alert_kickedoutofpostoffice
+Chunk Name: aid_pip_pinata_alert_doctorreachpatient
+Chunk Name: aid_misc_pinata_speechphrase_doctor_hit1
+Chunk Name: aid_misc_pinata_speechphrase_doctor_hit2
+Chunk Name: aid_misc_pinata_speechphrase_doctor_hit3
+Chunk Name: aid_script_pinata_game_garden_blank
+Chunk Name: aid_pip_pinata_alert_warningwateringcan
+Chunk Name: aid_pip_pinata_misc_competitionsunlocked
+Chunk Name: aid_pip_pinata_helper_outofwork_harvester
+Chunk Name: aid_fxparticle_pinata_misc_fertiliserred
+Chunk Name: aid_pip_pinata_startgame_packetreminder
+Chunk Name: aid_pip_pinata_challenges_dedos_completed
+Chunk Name: aid_pip_pinata_award_animal_dragonresident
+Chunk Name: aid_pip_pinata_animalill_cannotexit
+Chunk Name: aid_pip_pinata_alert_returnwateringcan
+Chunk Name: aid_pip_pinata_startgame_mouse_move
+Chunk Name: aid_pip_pinata_startgame_mouse_look
+Chunk Name: aid_pip_pinata_startgame_experiencebar
+Chunk Name: aid_pip_pinata_startgame_wateringcaninfo
+Chunk Name: aid_pip_pinata_challenges_factory_failed
+Chunk Name: aid_pip_pinata_startgame_toolmenureminder
+Chunk Name: aid_script_pinata_game_garden_load
+Chunk Name: aid_pip_pinata_mateminigame_gamefailed
+Chunk Name: aid_pip_pinata_startgame_happymeter
+Chunk Name: aid_pip_pinata_alert_doctordirectadvice
+Chunk Name: aid_pip_pinata_animalill_hypochondriac
+Chunk Name: aid_callout_pinata_avatar_vegetable_common
+Chunk Name: aid_pip_pinata_startgame_spadereminder
+Chunk Name: aid_pip_pinata_misc_loggedinnoprofile
+Chunk Name: aid_pip_pinata_mateminigame_movingloathers
+Chunk Name: aid_pip_pinata_helper_istrapped_waterer
+Chunk Name: aid_pip_pinata_misc_plantattackedbypest
+Chunk Name: aid_pip_pinata_misc_plantattackedbyruffian
+Chunk Name: aid_pip_pinata_alert_tinker_giveuponavatar
+Chunk Name: aid_pip_pinata_award_shop_unlock_builder
+Chunk Name: aid_pip_pinata_alert_tinker_givequote
+Chunk Name: aid_pip_pinata_misc_emergencyreload
+Chunk Name: aid_pip_pinata_helper_istrapped_harvester
+Chunk Name: aid_pip_pinata_startgame_directreminder
+Chunk Name: aid_pip_pinata_alert_tinker_directadvice
+Chunk Name: aid_pip_pinata_startgame_wormappear
+Chunk Name: aid_pip_pinata_alert_confiscatewateringcan
+Chunk Name: aid_pip_pinata_startgame_newwormhouse
+Chunk Name: aid_animtable_pinata_avatar_vegetable
+Chunk Name: aid_fxemitter_pinata_misc_fertiliserred
+Chunk Name: aid_pip_pinata_award_animal_resident
+Chunk Name: aid_pip_pinata_helper_cantreachwork_weeder
+Chunk Name: aid_pip_pinata_alert_tinker_caravanopen
+Chunk Name: aid_pip_pinata_alert_raccoonreturned
+Chunk Name: aid_pip_pinata_misc_experiencepoints
+Chunk Name: aid_pip_pinata_misc_spacerunningout
+Chunk Name: aid_pip_pinata_startgame_mouse_select
+CaffCount: 1
+Caff 0
+Size(bytes): 66343
+Offset(h): 2048
+.DATA chunk count: 90
+.GPU chunk count: 6
+0 offset(h): 120
+0 size(bytes) - Compressed: 2298 -> Uncompressed: 6720
+1 offset(h): 4466
+1 size(bytes) - Compressed: 622 -> Uncompressed: 1508
+2 size(bytes) - Compressed: 9340 -> Uncompressed: 61100
+3 size(bytes) - Compressed: 53963 -> Uncompressed: 249856
+Caff 0
+Size(bytes): 66343
+Offset(h): 2048
+.DATA chunk count: 90
+.GPU chunk count: 6
+0 offset(h): 120
+0 size(bytes) - Compressed: 2298 -> Uncompressed: 6720
+1 offset(h): 4466
+1 size(bytes) - Compressed: 622 -> Uncompressed: 1508
+2 size(bytes) - Compressed: 9340 -> Uncompressed: 61100
+3 size(bytes) - Compressed: 53963 -> Uncompressed: 249856
+Opening: C:\Users\mag11\Desktop\bundles_packages\6.pkg
+Chunk Name: pool
+Chunk Name: aid_misc_pinata_speechphrase_doctor_watered1
+Chunk Name: aid_misc_pinata_speechphrase_doctor_watered2
+Chunk Name: aid_misc_pinata_speechphrase_doctor_watered3
+Chunk Name: aid_pip_pinata_award_upgrades_tageditor
+Chunk Name: aid_model_pinata_avatar_seed_birdofparadiseplant_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_pip_pinata_helper_istrapped_builder
+Chunk Name: aid_pip_pinata_helper_istrapped_bygate1
+Chunk Name: aid_pip_pinata_helper_istrapped_bygate2
+Chunk Name: aid_pip_pinata_helper_istrapped_bygate3
+Chunk Name: aid_pip_pinata_mateminigame_runninganimal
+Chunk Name: aid_pip_pinata_helper_outofwork_waterer
+Chunk Name: aid_pip_pinata_alert_storkoshomeremoved
+Chunk Name: aid_pip_pinata_alert_doctoranimalkilled
+Chunk Name: aid_pip_pinata_startgame_wateringcan
+Chunk Name: aid_action_pinata_abilities_avatarvegetable
+Chunk Name: aid_pip_pinata_startgame_avatarinfoprompt
+Chunk Name: aid_cutscene_pinata_wateringcanloop
+Chunk Name: aid_cutscene_pinata_wateringcanloop
+Chunk Name: aid_cutscene_pinata_wateringcanloop
+Chunk Name: aid_pip_pinata_helper_cantreachwork_miner
+Chunk Name: aid_pip_pinata_misc_plantonexcludedsurface
+Chunk Name: aid_objparams_pinata_avatar_vegetable
+Chunk Name: aid_pip_pinata_startgame_smashhouseblock
+Chunk Name: aid_callout_pinata_avatar_fence_wire_default
+Chunk Name: aid_action_pinata_interface_avatarvegetable
+Chunk Name: aid_pip_pinata_mateminigame_gamecompleted
+Chunk Name: aid_callout_pinata_avatar_fertiliser_red_default
+Chunk Name: aid_pip_pinata_alert_gardenfullcantmate
+Chunk Name: aid_pip_pinata_alert_doctorgiveuponpatient
+Chunk Name: aid_pip_pinata_alert_tinker_outtinkering
+Chunk Name: aid_pip_pinata_challenges_factory_reminder
+Chunk Name: aid_pip_pinata_helper_groundskeepernight
+Chunk Name: aid_pip_pinata_alert_kickedoutofpostoffice
+Chunk Name: aid_pip_pinata_alert_doctorreachpatient
+Chunk Name: aid_misc_pinata_speechphrase_doctor_hit1
+Chunk Name: aid_misc_pinata_speechphrase_doctor_hit2
+Chunk Name: aid_misc_pinata_speechphrase_doctor_hit3
+Chunk Name: aid_script_pinata_game_garden_blank
+Chunk Name: aid_pip_pinata_alert_warningwateringcan
+Chunk Name: aid_pip_pinata_misc_competitionsunlocked
+Chunk Name: aid_pip_pinata_helper_outofwork_harvester
+Chunk Name: aid_fxparticle_pinata_misc_fertiliserred
+Chunk Name: aid_pip_pinata_startgame_packetreminder
+Chunk Name: aid_pip_pinata_challenges_dedos_completed
+Chunk Name: aid_pip_pinata_award_animal_dragonresident
+Chunk Name: aid_pip_pinata_animalill_cannotexit
+Chunk Name: aid_pip_pinata_alert_returnwateringcan
+Chunk Name: aid_pip_pinata_startgame_mouse_move
+Chunk Name: aid_pip_pinata_startgame_mouse_look
+Chunk Name: aid_pip_pinata_startgame_experiencebar
+Chunk Name: aid_pip_pinata_startgame_wateringcaninfo
+Chunk Name: aid_pip_pinata_challenges_factory_failed
+Chunk Name: aid_pip_pinata_startgame_toolmenureminder
+Chunk Name: aid_script_pinata_game_garden_load
+Chunk Name: aid_pip_pinata_mateminigame_gamefailed
+Chunk Name: aid_pip_pinata_startgame_happymeter
+Chunk Name: aid_pip_pinata_alert_doctordirectadvice
+Chunk Name: aid_pip_pinata_animalill_hypochondriac
+Chunk Name: aid_callout_pinata_avatar_vegetable_common
+Chunk Name: aid_pip_pinata_startgame_spadereminder
+Chunk Name: aid_pip_pinata_misc_loggedinnoprofile
+Chunk Name: aid_pip_pinata_mateminigame_movingloathers
+Chunk Name: aid_pip_pinata_helper_istrapped_waterer
+Chunk Name: aid_pip_pinata_misc_plantattackedbypest
+Chunk Name: aid_pip_pinata_misc_plantattackedbyruffian
+Chunk Name: aid_pip_pinata_alert_tinker_giveuponavatar
+Chunk Name: aid_pip_pinata_award_shop_unlock_builder
+Chunk Name: aid_pip_pinata_alert_tinker_givequote
+Chunk Name: aid_pip_pinata_misc_emergencyreload
+Chunk Name: aid_pip_pinata_helper_istrapped_harvester
+Chunk Name: aid_pip_pinata_startgame_directreminder
+Chunk Name: aid_pip_pinata_alert_tinker_directadvice
+Chunk Name: aid_pip_pinata_startgame_wormappear
+Chunk Name: aid_pip_pinata_alert_confiscatewateringcan
+Chunk Name: aid_pip_pinata_startgame_newwormhouse
+Chunk Name: aid_animtable_pinata_avatar_vegetable
+Chunk Name: aid_fxemitter_pinata_misc_fertiliserred
+Chunk Name: aid_pip_pinata_award_animal_resident
+Chunk Name: aid_pip_pinata_helper_cantreachwork_weeder
+Chunk Name: aid_pip_pinata_alert_tinker_caravanopen
+Chunk Name: aid_pip_pinata_alert_raccoonreturned
+Chunk Name: aid_pip_pinata_misc_experiencepoints
+Chunk Name: aid_pip_pinata_misc_spacerunningout
+Chunk Name: aid_pip_pinata_startgame_mouse_select
+CaffCount: 1
+Caff 0
+Size(bytes): 66343
+Offset(h): 2048
+.DATA chunk count: 90
+.GPU chunk count: 6
+0 offset(h): 120
+0 size(bytes) - Compressed: 2298 -> Uncompressed: 6720
+1 offset(h): 4466
+1 size(bytes) - Compressed: 622 -> Uncompressed: 1508
+2 size(bytes) - Compressed: 9340 -> Uncompressed: 61100
+3 size(bytes) - Compressed: 53963 -> Uncompressed: 249856
+Opening: C:\Users\mag11\Desktop\bundles_packages\3.pkg
+Chunk Name: aid_pip_pinata_misc_emergencyquit
+Chunk Name: aid_pip_pinata_alert_doctorclinicopen
+Chunk Name: aid_pip_pinata_misc_animalhunted
+Chunk Name: aid_model_pinata_avatar_projectile_mandrill_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_pip_pinata_misc_romancesweet
+Chunk Name: aid_pip_pinata_misc_firstlevelup
+Chunk Name: aid_pip_pinata_alert_beggarwatered
+Chunk Name: aid_pip_pinata_animalill_overcrowded
+Chunk Name: aid_pip_pinata_startgame_packetinfo
+Chunk Name: aid_pip_pinata_misc_eggdelivered
+Chunk Name: aid_pip_pinata_misc_dastardossmashed
+Chunk Name: aid_pip_pinata_animalill_trampled
+Chunk Name: aid_pip_pinata_promo_accessorydeal1
+Chunk Name: aid_pip_pinata_promo_accessorydeal2
+Chunk Name: aid_pip_pinata_promo_accessorydeal3
+Chunk Name: aid_pip_pinata_promo_accessorydeal4
+Chunk Name: aid_pip_pinata_misc_renameinstruction
+Chunk Name: aid_pip_pinata_alert_warningspade
+Chunk Name: aid_pip_pinata_startgame_twosparrows
+Chunk Name: aid_pip_pinata_startgame_newworkshed
+Chunk Name: aid_pip_pinata_animalill_badsweet
+Chunk Name: aid_pip_pinata_startgame_seedinfo
+Chunk Name: aid_pip_pinata_misc_animaleaten
+Chunk Name: aid_pip_pinata_misc_egghatched
+Chunk Name: aid_pip_pinata_misc_cratenospace
+Chunk Name: aid_pip_pinata_startgame_directprompt
+Chunk Name: aid_pip_pinata_startgame_menuinfo
+Chunk Name: aid_pip_pinata_alert_doctoroncall
+Chunk Name: aid_pip_pinata_startgame_clearground
+Chunk Name: aid_pip_pinata_empty
+Chunk Name: aid_pip_pinata_misc_animaldepressed
+Chunk Name: aid_pip_pinata_alert_dragonborn
+Chunk Name: aid_pip_pinata_challenges_dedos_reward
+Chunk Name: aid_pip_pinata_alert_produceready
+Chunk Name: aid_fxrumble_pinata_objectdestroyedsmall
+Chunk Name: aid_pip_pinata_helper_givepresent
+Chunk Name: aid_pip_pinata_alert_builderhouseready
+Chunk Name: aid_pip_pinata_misc_firsttrampled
+Chunk Name: aid_pip_pinata_startgame_targetprompt
+Chunk Name: aid_pip_pinata_live_newplayer
+Chunk Name: aid_action_pinata_interface_avatarshopkeeper
+Chunk Name: aid_pip_pinata_helper_outofwork_miner
+Chunk Name: aid_pip_pinata_startgame_wormhouse
+Chunk Name: aid_pip_pinata_animalill_poisoned
+Chunk Name: aid_pip_pinata_alert_wildcardborn
+Chunk Name: aid_pip_pinata_startgame_watermeter
+Chunk Name: aid_objparams_pinata_avatar_shopkeeper
+Chunk Name: aid_pip_pinata_animalill_null
+Chunk Name: aid_pip_pinata_misc_newvisitor
+Chunk Name: aid_pip_pinata_startgame_clock
+Chunk Name: aid_pip_pinata_startgame_money
+Chunk Name: aid_pip_pinata_startgame_spade
+Chunk Name: aid_pip_pinata_credits_unlocked
+Chunk Name: aid_action_pinata_list_actorhelperselected
+Chunk Name: aid_pip_pinata_startgame_mateadvice
+Chunk Name: aid_pip_pinata_startgame_directprompt2
+Chunk Name: aid_pip_pinata_startgame_directprompt3
+Chunk Name: aid_pip_pinata_misc_plantoverwatered
+Chunk Name: aid_pip_pinata_live_newplayernonhost
+Chunk Name: aid_pip_pinata_award_animal_breed
+Chunk Name: aid_pip_pinata_startgame_nightone
+Chunk Name: aid_pip_pinata_misc_animalill
+Chunk Name: aid_pip_pinata_alert_beggarenoughmoney
+Chunk Name: aid_pip_pinata_award_animal_visit
+Chunk Name: aid_pip_pinata_startgame_journal
+Chunk Name: aid_pip_pinata_misc_pestcocoon
+Chunk Name: aid_pip_pinata_award_default
+Chunk Name: aid_pip_pinata_alert_toolsallowed
+Chunk Name: aid_pip_pinata_startgame_firstalert
+Chunk Name: aid_pip_pinata_startgame_journalinfo
+Chunk Name: aid_pip_pinata_misc_levelup
+Chunk Name: aid_pip_pinata_helper_quittrapped
+Chunk Name: aid_action_pinata_list_actorpickedup
+Chunk Name: aid_pip_pinata_alert_confiscatespade
+Chunk Name: aid_pip_pinata_alert_toolsnotallowed
+Chunk Name: aid_pip_pinata_animalill_spade
+Chunk Name: aid_pip_pinata_alert_cantsendcrate
+Chunk Name: aid_pip_pinata_helper_quitunhappy
+Chunk Name: aid_pip_pinata_helper_quit
+Chunk Name: aid_pip_pinata_startgame_newseed
+Chunk Name: aid_pip_pinata_misc_newvisitor2
+Chunk Name: aid_pip_pinata_misc_newvisitor3
+Chunk Name: aid_pip_pinata_misc_avatarrotated
+Chunk Name: aid_pip_pinata_award_animal_master
+Chunk Name: aid_pip_pinata_animalill_fighting
+Chunk Name: aid_pip_pinata_misc_produceblocked
+Chunk Name: aid_pip_pinata_story_unlockedlast
+Chunk Name: aid_pip_pinata_award_plant_grow
+Chunk Name: aid_pip_pinata_misc_loggedin
+Chunk Name: aid_pip_pinata_award_plant_seed
+Chunk Name: aid_pip_pinata_misc_plantdriedout
+Chunk Name: aid_pip_pinata_helper_istrapped_weeder
+Chunk Name: aid_pip_pinata_helper_istrapped_dedos
+Chunk Name: aid_pip_pinata_helper_istrapped_miner
+Chunk Name: aid_action_pinata_list_actorsell
+Chunk Name: aid_pip_pinata_helper_istrapped_tinker
+Chunk Name: aid_action_pinata_list_actordirect
+Chunk Name: aid_pip_pinata_misc_spacefreedup
+Chunk Name: aid_pip_pinata_misc_cocoonhatched
+Chunk Name: aid_pip_pinata_helper_istrapped_doctor
+Chunk Name: aid_action_pinata_abilities_avatarshopkeeper
+Chunk Name: aid_action_pinata_list_actorstores
+Chunk Name: aid_pip_pinata_alert_dedostrapped
+Chunk Name: aid_pip_pinata_award_biftree_grow
+Chunk Name: aid_pip_pinata_animalill_oldage
+Chunk Name: aid_action_pinata_list_avatarstores
+Chunk Name: aid_pip_pinata_alert_returnspade
+Chunk Name: aid_pip_pinata_animalill_trapped
+Chunk Name: aid_pip_pinata_helper_outofwork_weeder
+Chunk Name: aid_pip_pinata_test
+Chunk Name: aid_pip_pinata_misc_animaldied
+Chunk Name: aid_pip_pinata_misc_crateadvice
+Chunk Name: aid_pip_pinata_misc_matetrouble
+Chunk Name: aid_action_pinata_list_actorbuy
+Chunk Name: aid_action_pinata_list_actorcrate
+Chunk Name: aid_pip_pinata_story_unlocked
+Chunk Name: aid_pip_pinata_alert_builderintro
+Chunk Name: aid_action_pinata_list_startgamemenu
+Chunk Name: aid_pip_pinata_animalill_created
+Chunk Name: aid_pip_pinata_misc_plantstunted
+Chunk Name: aid_pip_pinata_animalill_unhappy
+Chunk Name: aid_pip_pinata_misc_firstmail
+Chunk Name: aid_pip_pinata_misc_firstcocoon
+Chunk Name: aid_pip_pinata_live_playerleft
+CaffCount: 1
+Caff 0
+Size(bytes): 49953
+Offset(h): 2048
+.DATA chunk count: 126
+.GPU chunk count: 3
+0 offset(h): 120
+0 size(bytes) - Compressed: 2758 -> Uncompressed: 8732
+1 offset(h): 4926
+1 size(bytes) - Compressed: 206 -> Uncompressed: 392
+2 size(bytes) - Compressed: 3856 -> Uncompressed: 45280
+3 size(bytes) - Compressed: 43013 -> Uncompressed: 94208
+Opening: C:\Users\mag11\Desktop\bundles_packages\3.pkg
+Chunk Name: aid_pip_pinata_misc_emergencyquit
+Chunk Name: aid_pip_pinata_alert_doctorclinicopen
+Chunk Name: aid_pip_pinata_misc_animalhunted
+Chunk Name: aid_model_pinata_avatar_projectile_mandrill_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_pip_pinata_misc_romancesweet
+Chunk Name: aid_pip_pinata_misc_firstlevelup
+Chunk Name: aid_pip_pinata_alert_beggarwatered
+Chunk Name: aid_pip_pinata_animalill_overcrowded
+Chunk Name: aid_pip_pinata_startgame_packetinfo
+Chunk Name: aid_pip_pinata_misc_eggdelivered
+Chunk Name: aid_pip_pinata_misc_dastardossmashed
+Chunk Name: aid_pip_pinata_animalill_trampled
+Chunk Name: aid_pip_pinata_promo_accessorydeal1
+Chunk Name: aid_pip_pinata_promo_accessorydeal2
+Chunk Name: aid_pip_pinata_promo_accessorydeal3
+Chunk Name: aid_pip_pinata_promo_accessorydeal4
+Chunk Name: aid_pip_pinata_misc_renameinstruction
+Chunk Name: aid_pip_pinata_alert_warningspade
+Chunk Name: aid_pip_pinata_startgame_twosparrows
+Chunk Name: aid_pip_pinata_startgame_newworkshed
+Chunk Name: aid_pip_pinata_animalill_badsweet
+Chunk Name: aid_pip_pinata_startgame_seedinfo
+Chunk Name: aid_pip_pinata_misc_animaleaten
+Chunk Name: aid_pip_pinata_misc_egghatched
+Chunk Name: aid_pip_pinata_misc_cratenospace
+Chunk Name: aid_pip_pinata_startgame_directprompt
+Chunk Name: aid_pip_pinata_startgame_menuinfo
+Chunk Name: aid_pip_pinata_alert_doctoroncall
+Chunk Name: aid_pip_pinata_startgame_clearground
+Chunk Name: aid_pip_pinata_empty
+Chunk Name: aid_pip_pinata_misc_animaldepressed
+Chunk Name: aid_pip_pinata_alert_dragonborn
+Chunk Name: aid_pip_pinata_challenges_dedos_reward
+Chunk Name: aid_pip_pinata_alert_produceready
+Chunk Name: aid_fxrumble_pinata_objectdestroyedsmall
+Chunk Name: aid_pip_pinata_helper_givepresent
+Chunk Name: aid_pip_pinata_alert_builderhouseready
+Chunk Name: aid_pip_pinata_misc_firsttrampled
+Chunk Name: aid_pip_pinata_startgame_targetprompt
+Chunk Name: aid_pip_pinata_live_newplayer
+Chunk Name: aid_action_pinata_interface_avatarshopkeeper
+Chunk Name: aid_pip_pinata_helper_outofwork_miner
+Chunk Name: aid_pip_pinata_startgame_wormhouse
+Chunk Name: aid_pip_pinata_animalill_poisoned
+Chunk Name: aid_pip_pinata_alert_wildcardborn
+Chunk Name: aid_pip_pinata_startgame_watermeter
+Chunk Name: aid_objparams_pinata_avatar_shopkeeper
+Chunk Name: aid_pip_pinata_animalill_null
+Chunk Name: aid_pip_pinata_misc_newvisitor
+Chunk Name: aid_pip_pinata_startgame_clock
+Chunk Name: aid_pip_pinata_startgame_money
+Chunk Name: aid_pip_pinata_startgame_spade
+Chunk Name: aid_pip_pinata_credits_unlocked
+Chunk Name: aid_action_pinata_list_actorhelperselected
+Chunk Name: aid_pip_pinata_startgame_mateadvice
+Chunk Name: aid_pip_pinata_startgame_directprompt2
+Chunk Name: aid_pip_pinata_startgame_directprompt3
+Chunk Name: aid_pip_pinata_misc_plantoverwatered
+Chunk Name: aid_pip_pinata_live_newplayernonhost
+Chunk Name: aid_pip_pinata_award_animal_breed
+Chunk Name: aid_pip_pinata_startgame_nightone
+Chunk Name: aid_pip_pinata_misc_animalill
+Chunk Name: aid_pip_pinata_alert_beggarenoughmoney
+Chunk Name: aid_pip_pinata_award_animal_visit
+Chunk Name: aid_pip_pinata_startgame_journal
+Chunk Name: aid_pip_pinata_misc_pestcocoon
+Chunk Name: aid_pip_pinata_award_default
+Chunk Name: aid_pip_pinata_alert_toolsallowed
+Chunk Name: aid_pip_pinata_startgame_firstalert
+Chunk Name: aid_pip_pinata_startgame_journalinfo
+Chunk Name: aid_pip_pinata_misc_levelup
+Chunk Name: aid_pip_pinata_helper_quittrapped
+Chunk Name: aid_action_pinata_list_actorpickedup
+Chunk Name: aid_pip_pinata_alert_confiscatespade
+Chunk Name: aid_pip_pinata_alert_toolsnotallowed
+Chunk Name: aid_pip_pinata_animalill_spade
+Chunk Name: aid_pip_pinata_alert_cantsendcrate
+Chunk Name: aid_pip_pinata_helper_quitunhappy
+Chunk Name: aid_pip_pinata_helper_quit
+Chunk Name: aid_pip_pinata_startgame_newseed
+Chunk Name: aid_pip_pinata_misc_newvisitor2
+Chunk Name: aid_pip_pinata_misc_newvisitor3
+Chunk Name: aid_pip_pinata_misc_avatarrotated
+Chunk Name: aid_pip_pinata_award_animal_master
+Chunk Name: aid_pip_pinata_animalill_fighting
+Chunk Name: aid_pip_pinata_misc_produceblocked
+Chunk Name: aid_pip_pinata_story_unlockedlast
+Chunk Name: aid_pip_pinata_award_plant_grow
+Chunk Name: aid_pip_pinata_misc_loggedin
+Chunk Name: aid_pip_pinata_award_plant_seed
+Chunk Name: aid_pip_pinata_misc_plantdriedout
+Chunk Name: aid_pip_pinata_helper_istrapped_weeder
+Chunk Name: aid_pip_pinata_helper_istrapped_dedos
+Chunk Name: aid_pip_pinata_helper_istrapped_miner
+Chunk Name: aid_action_pinata_list_actorsell
+Chunk Name: aid_pip_pinata_helper_istrapped_tinker
+Chunk Name: aid_action_pinata_list_actordirect
+Chunk Name: aid_pip_pinata_misc_spacefreedup
+Chunk Name: aid_pip_pinata_misc_cocoonhatched
+Chunk Name: aid_pip_pinata_helper_istrapped_doctor
+Chunk Name: aid_action_pinata_abilities_avatarshopkeeper
+Chunk Name: aid_action_pinata_list_actorstores
+Chunk Name: aid_pip_pinata_alert_dedostrapped
+Chunk Name: aid_pip_pinata_award_biftree_grow
+Chunk Name: aid_pip_pinata_animalill_oldage
+Chunk Name: aid_action_pinata_list_avatarstores
+Chunk Name: aid_pip_pinata_alert_returnspade
+Chunk Name: aid_pip_pinata_animalill_trapped
+Chunk Name: aid_pip_pinata_helper_outofwork_weeder
+Chunk Name: aid_pip_pinata_test
+Chunk Name: aid_pip_pinata_misc_animaldied
+Chunk Name: aid_pip_pinata_misc_crateadvice
+Chunk Name: aid_pip_pinata_misc_matetrouble
+Chunk Name: aid_action_pinata_list_actorbuy
+Chunk Name: aid_action_pinata_list_actorcrate
+Chunk Name: aid_pip_pinata_story_unlocked
+Chunk Name: aid_pip_pinata_alert_builderintro
+Chunk Name: aid_action_pinata_list_startgamemenu
+Chunk Name: aid_pip_pinata_animalill_created
+Chunk Name: aid_pip_pinata_misc_plantstunted
+Chunk Name: aid_pip_pinata_animalill_unhappy
+Chunk Name: aid_pip_pinata_misc_firstmail
+Chunk Name: aid_pip_pinata_misc_firstcocoon
+Chunk Name: aid_pip_pinata_live_playerleft
+CaffCount: 1
+Caff 0
+Size(bytes): 49953
+Offset(h): 2048
+.DATA chunk count: 126
+.GPU chunk count: 3
+0 offset(h): 120
+0 size(bytes) - Compressed: 2758 -> Uncompressed: 8732
+1 offset(h): 4926
+1 size(bytes) - Compressed: 206 -> Uncompressed: 392
+2 size(bytes) - Compressed: 3856 -> Uncompressed: 45280
+3 size(bytes) - Compressed: 43013 -> Uncompressed: 94208
+Caff 0
+Size(bytes): 49953
+Offset(h): 2048
+.DATA chunk count: 126
+.GPU chunk count: 3
+0 offset(h): 120
+0 size(bytes) - Compressed: 2758 -> Uncompressed: 8732
+1 offset(h): 4926
+1 size(bytes) - Compressed: 206 -> Uncompressed: 392
+2 size(bytes) - Compressed: 3856 -> Uncompressed: 45280
+3 size(bytes) - Compressed: 43013 -> Uncompressed: 94208
+Opening: C:\Users\mag11\Desktop\bundles_packages\3.pkg
+Chunk Name: aid_pip_pinata_misc_emergencyquit
+Chunk Name: aid_pip_pinata_alert_doctorclinicopen
+Chunk Name: aid_pip_pinata_misc_animalhunted
+Chunk Name: aid_model_pinata_avatar_projectile_mandrill_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_pip_pinata_misc_romancesweet
+Chunk Name: aid_pip_pinata_misc_firstlevelup
+Chunk Name: aid_pip_pinata_alert_beggarwatered
+Chunk Name: aid_pip_pinata_animalill_overcrowded
+Chunk Name: aid_pip_pinata_startgame_packetinfo
+Chunk Name: aid_pip_pinata_misc_eggdelivered
+Chunk Name: aid_pip_pinata_misc_dastardossmashed
+Chunk Name: aid_pip_pinata_animalill_trampled
+Chunk Name: aid_pip_pinata_promo_accessorydeal1
+Chunk Name: aid_pip_pinata_promo_accessorydeal2
+Chunk Name: aid_pip_pinata_promo_accessorydeal3
+Chunk Name: aid_pip_pinata_promo_accessorydeal4
+Chunk Name: aid_pip_pinata_misc_renameinstruction
+Chunk Name: aid_pip_pinata_alert_warningspade
+Chunk Name: aid_pip_pinata_startgame_twosparrows
+Chunk Name: aid_pip_pinata_startgame_newworkshed
+Chunk Name: aid_pip_pinata_animalill_badsweet
+Chunk Name: aid_pip_pinata_startgame_seedinfo
+Chunk Name: aid_pip_pinata_misc_animaleaten
+Chunk Name: aid_pip_pinata_misc_egghatched
+Chunk Name: aid_pip_pinata_misc_cratenospace
+Chunk Name: aid_pip_pinata_startgame_directprompt
+Chunk Name: aid_pip_pinata_startgame_menuinfo
+Chunk Name: aid_pip_pinata_alert_doctoroncall
+Chunk Name: aid_pip_pinata_startgame_clearground
+Chunk Name: aid_pip_pinata_empty
+Chunk Name: aid_pip_pinata_misc_animaldepressed
+Chunk Name: aid_pip_pinata_alert_dragonborn
+Chunk Name: aid_pip_pinata_challenges_dedos_reward
+Chunk Name: aid_pip_pinata_alert_produceready
+Chunk Name: aid_fxrumble_pinata_objectdestroyedsmall
+Chunk Name: aid_pip_pinata_helper_givepresent
+Chunk Name: aid_pip_pinata_alert_builderhouseready
+Chunk Name: aid_pip_pinata_misc_firsttrampled
+Chunk Name: aid_pip_pinata_startgame_targetprompt
+Chunk Name: aid_pip_pinata_live_newplayer
+Chunk Name: aid_action_pinata_interface_avatarshopkeeper
+Chunk Name: aid_pip_pinata_helper_outofwork_miner
+Chunk Name: aid_pip_pinata_startgame_wormhouse
+Chunk Name: aid_pip_pinata_animalill_poisoned
+Chunk Name: aid_pip_pinata_alert_wildcardborn
+Chunk Name: aid_pip_pinata_startgame_watermeter
+Chunk Name: aid_objparams_pinata_avatar_shopkeeper
+Chunk Name: aid_pip_pinata_animalill_null
+Chunk Name: aid_pip_pinata_misc_newvisitor
+Chunk Name: aid_pip_pinata_startgame_clock
+Chunk Name: aid_pip_pinata_startgame_money
+Chunk Name: aid_pip_pinata_startgame_spade
+Chunk Name: aid_pip_pinata_credits_unlocked
+Chunk Name: aid_action_pinata_list_actorhelperselected
+Chunk Name: aid_pip_pinata_startgame_mateadvice
+Chunk Name: aid_pip_pinata_startgame_directprompt2
+Chunk Name: aid_pip_pinata_startgame_directprompt3
+Chunk Name: aid_pip_pinata_misc_plantoverwatered
+Chunk Name: aid_pip_pinata_live_newplayernonhost
+Chunk Name: aid_pip_pinata_award_animal_breed
+Chunk Name: aid_pip_pinata_startgame_nightone
+Chunk Name: aid_pip_pinata_misc_animalill
+Chunk Name: aid_pip_pinata_alert_beggarenoughmoney
+Chunk Name: aid_pip_pinata_award_animal_visit
+Chunk Name: aid_pip_pinata_startgame_journal
+Chunk Name: aid_pip_pinata_misc_pestcocoon
+Chunk Name: aid_pip_pinata_award_default
+Chunk Name: aid_pip_pinata_alert_toolsallowed
+Chunk Name: aid_pip_pinata_startgame_firstalert
+Chunk Name: aid_pip_pinata_startgame_journalinfo
+Chunk Name: aid_pip_pinata_misc_levelup
+Chunk Name: aid_pip_pinata_helper_quittrapped
+Chunk Name: aid_action_pinata_list_actorpickedup
+Chunk Name: aid_pip_pinata_alert_confiscatespade
+Chunk Name: aid_pip_pinata_alert_toolsnotallowed
+Chunk Name: aid_pip_pinata_animalill_spade
+Chunk Name: aid_pip_pinata_alert_cantsendcrate
+Chunk Name: aid_pip_pinata_helper_quitunhappy
+Chunk Name: aid_pip_pinata_helper_quit
+Chunk Name: aid_pip_pinata_startgame_newseed
+Chunk Name: aid_pip_pinata_misc_newvisitor2
+Chunk Name: aid_pip_pinata_misc_newvisitor3
+Chunk Name: aid_pip_pinata_misc_avatarrotated
+Chunk Name: aid_pip_pinata_award_animal_master
+Chunk Name: aid_pip_pinata_animalill_fighting
+Chunk Name: aid_pip_pinata_misc_produceblocked
+Chunk Name: aid_pip_pinata_story_unlockedlast
+Chunk Name: aid_pip_pinata_award_plant_grow
+Chunk Name: aid_pip_pinata_misc_loggedin
+Chunk Name: aid_pip_pinata_award_plant_seed
+Chunk Name: aid_pip_pinata_misc_plantdriedout
+Chunk Name: aid_pip_pinata_helper_istrapped_weeder
+Chunk Name: aid_pip_pinata_helper_istrapped_dedos
+Chunk Name: aid_pip_pinata_helper_istrapped_miner
+Chunk Name: aid_action_pinata_list_actorsell
+Chunk Name: aid_pip_pinata_helper_istrapped_tinker
+Chunk Name: aid_action_pinata_list_actordirect
+Chunk Name: aid_pip_pinata_misc_spacefreedup
+Chunk Name: aid_pip_pinata_misc_cocoonhatched
+Chunk Name: aid_pip_pinata_helper_istrapped_doctor
+Chunk Name: aid_action_pinata_abilities_avatarshopkeeper
+Chunk Name: aid_action_pinata_list_actorstores
+Chunk Name: aid_pip_pinata_alert_dedostrapped
+Chunk Name: aid_pip_pinata_award_biftree_grow
+Chunk Name: aid_pip_pinata_animalill_oldage
+Chunk Name: aid_action_pinata_list_avatarstores
+Chunk Name: aid_pip_pinata_alert_returnspade
+Chunk Name: aid_pip_pinata_animalill_trapped
+Chunk Name: aid_pip_pinata_helper_outofwork_weeder
+Chunk Name: aid_pip_pinata_test
+Chunk Name: aid_pip_pinata_misc_animaldied
+Chunk Name: aid_pip_pinata_misc_crateadvice
+Chunk Name: aid_pip_pinata_misc_matetrouble
+Chunk Name: aid_action_pinata_list_actorbuy
+Chunk Name: aid_action_pinata_list_actorcrate
+Chunk Name: aid_pip_pinata_story_unlocked
+Chunk Name: aid_pip_pinata_alert_builderintro
+Chunk Name: aid_action_pinata_list_startgamemenu
+Chunk Name: aid_pip_pinata_animalill_created
+Chunk Name: aid_pip_pinata_misc_plantstunted
+Chunk Name: aid_pip_pinata_animalill_unhappy
+Chunk Name: aid_pip_pinata_misc_firstmail
+Chunk Name: aid_pip_pinata_misc_firstcocoon
+Chunk Name: aid_pip_pinata_live_playerleft
+CaffCount: 1
+Caff 0
+Size(bytes): 49953
+Offset(h): 2048
+.DATA chunk count: 126
+.GPU chunk count: 3
+0 offset(h): 120
+0 size(bytes) - Compressed: 2758 -> Uncompressed: 8732
+1 offset(h): 4926
+1 size(bytes) - Compressed: 206 -> Uncompressed: 392
+2 size(bytes) - Compressed: 3856 -> Uncompressed: 45280
+3 size(bytes) - Compressed: 43013 -> Uncompressed: 94208
+Opening: C:\Users\mag11\Desktop\bundles_packages\6.pkg
+Chunk Name: pool
+Chunk Name: aid_misc_pinata_speechphrase_doctor_watered1
+Chunk Name: aid_misc_pinata_speechphrase_doctor_watered2
+Chunk Name: aid_misc_pinata_speechphrase_doctor_watered3
+Chunk Name: aid_pip_pinata_award_upgrades_tageditor
+Chunk Name: aid_model_pinata_avatar_seed_birdofparadiseplant_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_pip_pinata_helper_istrapped_builder
+Chunk Name: aid_pip_pinata_helper_istrapped_bygate1
+Chunk Name: aid_pip_pinata_helper_istrapped_bygate2
+Chunk Name: aid_pip_pinata_helper_istrapped_bygate3
+Chunk Name: aid_pip_pinata_mateminigame_runninganimal
+Chunk Name: aid_pip_pinata_helper_outofwork_waterer
+Chunk Name: aid_pip_pinata_alert_storkoshomeremoved
+Chunk Name: aid_pip_pinata_alert_doctoranimalkilled
+Chunk Name: aid_pip_pinata_startgame_wateringcan
+Chunk Name: aid_action_pinata_abilities_avatarvegetable
+Chunk Name: aid_pip_pinata_startgame_avatarinfoprompt
+Chunk Name: aid_cutscene_pinata_wateringcanloop
+Chunk Name: aid_cutscene_pinata_wateringcanloop
+Chunk Name: aid_cutscene_pinata_wateringcanloop
+Chunk Name: aid_pip_pinata_helper_cantreachwork_miner
+Chunk Name: aid_pip_pinata_misc_plantonexcludedsurface
+Chunk Name: aid_objparams_pinata_avatar_vegetable
+Chunk Name: aid_pip_pinata_startgame_smashhouseblock
+Chunk Name: aid_callout_pinata_avatar_fence_wire_default
+Chunk Name: aid_action_pinata_interface_avatarvegetable
+Chunk Name: aid_pip_pinata_mateminigame_gamecompleted
+Chunk Name: aid_callout_pinata_avatar_fertiliser_red_default
+Chunk Name: aid_pip_pinata_alert_gardenfullcantmate
+Chunk Name: aid_pip_pinata_alert_doctorgiveuponpatient
+Chunk Name: aid_pip_pinata_alert_tinker_outtinkering
+Chunk Name: aid_pip_pinata_challenges_factory_reminder
+Chunk Name: aid_pip_pinata_helper_groundskeepernight
+Chunk Name: aid_pip_pinata_alert_kickedoutofpostoffice
+Chunk Name: aid_pip_pinata_alert_doctorreachpatient
+Chunk Name: aid_misc_pinata_speechphrase_doctor_hit1
+Chunk Name: aid_misc_pinata_speechphrase_doctor_hit2
+Chunk Name: aid_misc_pinata_speechphrase_doctor_hit3
+Chunk Name: aid_script_pinata_game_garden_blank
+Chunk Name: aid_pip_pinata_alert_warningwateringcan
+Chunk Name: aid_pip_pinata_misc_competitionsunlocked
+Chunk Name: aid_pip_pinata_helper_outofwork_harvester
+Chunk Name: aid_fxparticle_pinata_misc_fertiliserred
+Chunk Name: aid_pip_pinata_startgame_packetreminder
+Chunk Name: aid_pip_pinata_challenges_dedos_completed
+Chunk Name: aid_pip_pinata_award_animal_dragonresident
+Chunk Name: aid_pip_pinata_animalill_cannotexit
+Chunk Name: aid_pip_pinata_alert_returnwateringcan
+Chunk Name: aid_pip_pinata_startgame_mouse_move
+Chunk Name: aid_pip_pinata_startgame_mouse_look
+Chunk Name: aid_pip_pinata_startgame_experiencebar
+Chunk Name: aid_pip_pinata_startgame_wateringcaninfo
+Chunk Name: aid_pip_pinata_challenges_factory_failed
+Chunk Name: aid_pip_pinata_startgame_toolmenureminder
+Chunk Name: aid_script_pinata_game_garden_load
+Chunk Name: aid_pip_pinata_mateminigame_gamefailed
+Chunk Name: aid_pip_pinata_startgame_happymeter
+Chunk Name: aid_pip_pinata_alert_doctordirectadvice
+Chunk Name: aid_pip_pinata_animalill_hypochondriac
+Chunk Name: aid_callout_pinata_avatar_vegetable_common
+Chunk Name: aid_pip_pinata_startgame_spadereminder
+Chunk Name: aid_pip_pinata_misc_loggedinnoprofile
+Chunk Name: aid_pip_pinata_mateminigame_movingloathers
+Chunk Name: aid_pip_pinata_helper_istrapped_waterer
+Chunk Name: aid_pip_pinata_misc_plantattackedbypest
+Chunk Name: aid_pip_pinata_misc_plantattackedbyruffian
+Chunk Name: aid_pip_pinata_alert_tinker_giveuponavatar
+Chunk Name: aid_pip_pinata_award_shop_unlock_builder
+Chunk Name: aid_pip_pinata_alert_tinker_givequote
+Chunk Name: aid_pip_pinata_misc_emergencyreload
+Chunk Name: aid_pip_pinata_helper_istrapped_harvester
+Chunk Name: aid_pip_pinata_startgame_directreminder
+Chunk Name: aid_pip_pinata_alert_tinker_directadvice
+Chunk Name: aid_pip_pinata_startgame_wormappear
+Chunk Name: aid_pip_pinata_alert_confiscatewateringcan
+Chunk Name: aid_pip_pinata_startgame_newwormhouse
+Chunk Name: aid_animtable_pinata_avatar_vegetable
+Chunk Name: aid_fxemitter_pinata_misc_fertiliserred
+Chunk Name: aid_pip_pinata_award_animal_resident
+Chunk Name: aid_pip_pinata_helper_cantreachwork_weeder
+Chunk Name: aid_pip_pinata_alert_tinker_caravanopen
+Chunk Name: aid_pip_pinata_alert_raccoonreturned
+Chunk Name: aid_pip_pinata_misc_experiencepoints
+Chunk Name: aid_pip_pinata_misc_spacerunningout
+Chunk Name: aid_pip_pinata_startgame_mouse_select
+CaffCount: 1
+Caff 0
+Size(bytes): 66343
+Offset(h): 2048
+.DATA chunk count: 90
+.GPU chunk count: 6
+0 offset(h): 120
+0 size(bytes) - Compressed: 2298 -> Uncompressed: 6720
+1 offset(h): 4466
+1 size(bytes) - Compressed: 622 -> Uncompressed: 1508
+2 size(bytes) - Compressed: 9340 -> Uncompressed: 61100
+3 size(bytes) - Compressed: 53963 -> Uncompressed: 249856
+Opening: C:\Users\mag11\Desktop\bundles_packages\6.pkg
+Chunk Name: pool
+Chunk Name: aid_misc_pinata_speechphrase_doctor_watered1
+Chunk Name: aid_misc_pinata_speechphrase_doctor_watered2
+Chunk Name: aid_misc_pinata_speechphrase_doctor_watered3
+Chunk Name: aid_pip_pinata_award_upgrades_tageditor
+Chunk Name: aid_model_pinata_avatar_seed_birdofparadiseplant_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_texture_madeup(2)
+Chunk Name: aid_pip_pinata_helper_istrapped_builder
+Chunk Name: aid_pip_pinata_helper_istrapped_bygate1
+Chunk Name: aid_pip_pinata_helper_istrapped_bygate2
+Chunk Name: aid_pip_pinata_helper_istrapped_bygate3
+Chunk Name: aid_pip_pinata_mateminigame_runninganimal
+Chunk Name: aid_pip_pinata_helper_outofwork_waterer
+Chunk Name: aid_pip_pinata_alert_storkoshomeremoved
+Chunk Name: aid_pip_pinata_alert_doctoranimalkilled
+Chunk Name: aid_pip_pinata_startgame_wateringcan
+Chunk Name: aid_action_pinata_abilities_avatarvegetable
+Chunk Name: aid_pip_pinata_startgame_avatarinfoprompt
+Chunk Name: aid_cutscene_pinata_wateringcanloop
+Chunk Name: aid_cutscene_pinata_wateringcanloop
+Chunk Name: aid_cutscene_pinata_wateringcanloop
+Chunk Name: aid_pip_pinata_helper_cantreachwork_miner
+Chunk Name: aid_pip_pinata_misc_plantonexcludedsurface
+Chunk Name: aid_objparams_pinata_avatar_vegetable
+Chunk Name: aid_pip_pinata_startgame_smashhouseblock
+Chunk Name: aid_callout_pinata_avatar_fence_wire_default
+Chunk Name: aid_action_pinata_interface_avatarvegetable
+Chunk Name: aid_pip_pinata_mateminigame_gamecompleted
+Chunk Name: aid_callout_pinata_avatar_fertiliser_red_default
+Chunk Name: aid_pip_pinata_alert_gardenfullcantmate
+Chunk Name: aid_pip_pinata_alert_doctorgiveuponpatient
+Chunk Name: aid_pip_pinata_alert_tinker_outtinkering
+Chunk Name: aid_pip_pinata_challenges_factory_reminder
+Chunk Name: aid_pip_pinata_helper_groundskeepernight
+Chunk Name: aid_pip_pinata_alert_kickedoutofpostoffice
+Chunk Name: aid_pip_pinata_alert_doctorreachpatient
+Chunk Name: aid_misc_pinata_speechphrase_doctor_hit1
+Chunk Name: aid_misc_pinata_speechphrase_doctor_hit2
+Chunk Name: aid_misc_pinata_speechphrase_doctor_hit3
+Chunk Name: aid_script_pinata_game_garden_blank
+Chunk Name: aid_pip_pinata_alert_warningwateringcan
+Chunk Name: aid_pip_pinata_misc_competitionsunlocked
+Chunk Name: aid_pip_pinata_helper_outofwork_harvester
+Chunk Name: aid_fxparticle_pinata_misc_fertiliserred
+Chunk Name: aid_pip_pinata_startgame_packetreminder
+Chunk Name: aid_pip_pinata_challenges_dedos_completed
+Chunk Name: aid_pip_pinata_award_animal_dragonresident
+Chunk Name: aid_pip_pinata_animalill_cannotexit
+Chunk Name: aid_pip_pinata_alert_returnwateringcan
+Chunk Name: aid_pip_pinata_startgame_mouse_move
+Chunk Name: aid_pip_pinata_startgame_mouse_look
+Chunk Name: aid_pip_pinata_startgame_experiencebar
+Chunk Name: aid_pip_pinata_startgame_wateringcaninfo
+Chunk Name: aid_pip_pinata_challenges_factory_failed
+Chunk Name: aid_pip_pinata_startgame_toolmenureminder
+Chunk Name: aid_script_pinata_game_garden_load
+Chunk Name: aid_pip_pinata_mateminigame_gamefailed
+Chunk Name: aid_pip_pinata_startgame_happymeter
+Chunk Name: aid_pip_pinata_alert_doctordirectadvice
+Chunk Name: aid_pip_pinata_animalill_hypochondriac
+Chunk Name: aid_callout_pinata_avatar_vegetable_common
+Chunk Name: aid_pip_pinata_startgame_spadereminder
+Chunk Name: aid_pip_pinata_misc_loggedinnoprofile
+Chunk Name: aid_pip_pinata_mateminigame_movingloathers
+Chunk Name: aid_pip_pinata_helper_istrapped_waterer
+Chunk Name: aid_pip_pinata_misc_plantattackedbypest
+Chunk Name: aid_pip_pinata_misc_plantattackedbyruffian
+Chunk Name: aid_pip_pinata_alert_tinker_giveuponavatar
+Chunk Name: aid_pip_pinata_award_shop_unlock_builder
+Chunk Name: aid_pip_pinata_alert_tinker_givequote
+Chunk Name: aid_pip_pinata_misc_emergencyreload
+Chunk Name: aid_pip_pinata_helper_istrapped_harvester
+Chunk Name: aid_pip_pinata_startgame_directreminder
+Chunk Name: aid_pip_pinata_alert_tinker_directadvice
+Chunk Name: aid_pip_pinata_startgame_wormappear
+Chunk Name: aid_pip_pinata_alert_confiscatewateringcan
+Chunk Name: aid_pip_pinata_startgame_newwormhouse
+Chunk Name: aid_animtable_pinata_avatar_vegetable
+Chunk Name: aid_fxemitter_pinata_misc_fertiliserred
+Chunk Name: aid_pip_pinata_award_animal_resident
+Chunk Name: aid_pip_pinata_helper_cantreachwork_weeder
+Chunk Name: aid_pip_pinata_alert_tinker_caravanopen
+Chunk Name: aid_pip_pinata_alert_raccoonreturned
+Chunk Name: aid_pip_pinata_misc_experiencepoints
+Chunk Name: aid_pip_pinata_misc_spacerunningout
+Chunk Name: aid_pip_pinata_startgame_mouse_select
+CaffCount: 1
+Caff 0
+Size(bytes): 66343
+Offset(h): 2048
+.DATA chunk count: 90
+.GPU chunk count: 6
+0 offset(h): 120
+0 size(bytes) - Compressed: 2298 -> Uncompressed: 6720
+1 offset(h): 4466
+1 size(bytes) - Compressed: 622 -> Uncompressed: 1508
+2 size(bytes) - Compressed: 9340 -> Uncompressed: 61100
+3 size(bytes) - Compressed: 53963 -> Uncompressed: 249856
+Caff 0
+Size(bytes): 66343
+Offset(h): 2048
+.DATA chunk count: 90
+.GPU chunk count: 6
+0 offset(h): 120
+0 size(bytes) - Compressed: 2298 -> Uncompressed: 6720
+1 offset(h): 4466
+1 size(bytes) - Compressed: 622 -> Uncompressed: 1508
+2 size(bytes) - Compressed: 9340 -> Uncompressed: 61100
+3 size(bytes) - Compressed: 53963 -> Uncompressed: 249856
+Caff 0
+Size(bytes): 66343
+Offset(h): 2048
+.DATA chunk count: 90
+.GPU chunk count: 6
+0 offset(h): 120
+0 size(bytes) - Compressed: 2298 -> Uncompressed: 6720
+1 offset(h): 4466
+1 size(bytes) - Compressed: 622 -> Uncompressed: 1508
+2 size(bytes) - Compressed: 9340 -> Uncompressed: 61100
+3 size(bytes) - Compressed: 53963 -> Uncompressed: 249856
+Caff 0
+Size(bytes): 66343
+Offset(h): 2048
+.DATA chunk count: 90
+.GPU chunk count: 6
+0 offset(h): 120
+0 size(bytes) - Compressed: 2298 -> Uncompressed: 6720
+1 offset(h): 4466
+1 size(bytes) - Compressed: 622 -> Uncompressed: 1508
+2 size(bytes) - Compressed: 9340 -> Uncompressed: 61100
+3 size(bytes) - Compressed: 53963 -> Uncompressed: 249856
+Opening: C:\Users\mag11\Desktop\bundles_packages\3.pkg
+Chunk Name: aid_pip_pinata_misc_emergencyquit
+Chunk Name: aid_pip_pinata_alert_doctorclinicopen
+Chunk Name: aid_pip_pinata_misc_animalhunted
+Chunk Name: aid_model_pinata_avatar_projectile_mandrill_default
+Chunk Name: aid_texture_madeup
+Chunk Name: aid_texture_madeup(1)
+Chunk Name: aid_pip_pinata_misc_romancesweet
+Chunk Name: aid_pip_pinata_misc_firstlevelup
+Chunk Name: aid_pip_pinata_alert_beggarwatered
+Chunk Name: aid_pip_pinata_animalill_overcrowded
+Chunk Name: aid_pip_pinata_startgame_packetinfo
+Chunk Name: aid_pip_pinata_misc_eggdelivered
+Chunk Name: aid_pip_pinata_misc_dastardossmashed
+Chunk Name: aid_pip_pinata_animalill_trampled
+Chunk Name: aid_pip_pinata_promo_accessorydeal1
+Chunk Name: aid_pip_pinata_promo_accessorydeal2
+Chunk Name: aid_pip_pinata_promo_accessorydeal3
+Chunk Name: aid_pip_pinata_promo_accessorydeal4
+Chunk Name: aid_pip_pinata_misc_renameinstruction
+Chunk Name: aid_pip_pinata_alert_warningspade
+Chunk Name: aid_pip_pinata_startgame_twosparrows
+Chunk Name: aid_pip_pinata_startgame_newworkshed
+Chunk Name: aid_pip_pinata_animalill_badsweet
+Chunk Name: aid_pip_pinata_startgame_seedinfo
+Chunk Name: aid_pip_pinata_misc_animaleaten
+Chunk Name: aid_pip_pinata_misc_egghatched
+Chunk Name: aid_pip_pinata_misc_cratenospace
+Chunk Name: aid_pip_pinata_startgame_directprompt
+Chunk Name: aid_pip_pinata_startgame_menuinfo
+Chunk Name: aid_pip_pinata_alert_doctoroncall
+Chunk Name: aid_pip_pinata_startgame_clearground
+Chunk Name: aid_pip_pinata_empty
+Chunk Name: aid_pip_pinata_misc_animaldepressed
+Chunk Name: aid_pip_pinata_alert_dragonborn
+Chunk Name: aid_pip_pinata_challenges_dedos_reward
+Chunk Name: aid_pip_pinata_alert_produceready
+Chunk Name: aid_fxrumble_pinata_objectdestroyedsmall
+Chunk Name: aid_pip_pinata_helper_givepresent
+Chunk Name: aid_pip_pinata_alert_builderhouseready
+Chunk Name: aid_pip_pinata_misc_firsttrampled
+Chunk Name: aid_pip_pinata_startgame_targetprompt
+Chunk Name: aid_pip_pinata_live_newplayer
+Chunk Name: aid_action_pinata_interface_avatarshopkeeper
+Chunk Name: aid_pip_pinata_helper_outofwork_miner
+Chunk Name: aid_pip_pinata_startgame_wormhouse
+Chunk Name: aid_pip_pinata_animalill_poisoned
+Chunk Name: aid_pip_pinata_alert_wildcardborn
+Chunk Name: aid_pip_pinata_startgame_watermeter
+Chunk Name: aid_objparams_pinata_avatar_shopkeeper
+Chunk Name: aid_pip_pinata_animalill_null
+Chunk Name: aid_pip_pinata_misc_newvisitor
+Chunk Name: aid_pip_pinata_startgame_clock
+Chunk Name: aid_pip_pinata_startgame_money
+Chunk Name: aid_pip_pinata_startgame_spade
+Chunk Name: aid_pip_pinata_credits_unlocked
+Chunk Name: aid_action_pinata_list_actorhelperselected
+Chunk Name: aid_pip_pinata_startgame_mateadvice
+Chunk Name: aid_pip_pinata_startgame_directprompt2
+Chunk Name: aid_pip_pinata_startgame_directprompt3
+Chunk Name: aid_pip_pinata_misc_plantoverwatered
+Chunk Name: aid_pip_pinata_live_newplayernonhost
+Chunk Name: aid_pip_pinata_award_animal_breed
+Chunk Name: aid_pip_pinata_startgame_nightone
+Chunk Name: aid_pip_pinata_misc_animalill
+Chunk Name: aid_pip_pinata_alert_beggarenoughmoney
+Chunk Name: aid_pip_pinata_award_animal_visit
+Chunk Name: aid_pip_pinata_startgame_journal
+Chunk Name: aid_pip_pinata_misc_pestcocoon
+Chunk Name: aid_pip_pinata_award_default
+Chunk Name: aid_pip_pinata_alert_toolsallowed
+Chunk Name: aid_pip_pinata_startgame_firstalert
+Chunk Name: aid_pip_pinata_startgame_journalinfo
+Chunk Name: aid_pip_pinata_misc_levelup
+Chunk Name: aid_pip_pinata_helper_quittrapped
+Chunk Name: aid_action_pinata_list_actorpickedup
+Chunk Name: aid_pip_pinata_alert_confiscatespade
+Chunk Name: aid_pip_pinata_alert_toolsnotallowed
+Chunk Name: aid_pip_pinata_animalill_spade
+Chunk Name: aid_pip_pinata_alert_cantsendcrate
+Chunk Name: aid_pip_pinata_helper_quitunhappy
+Chunk Name: aid_pip_pinata_helper_quit
+Chunk Name: aid_pip_pinata_startgame_newseed
+Chunk Name: aid_pip_pinata_misc_newvisitor2
+Chunk Name: aid_pip_pinata_misc_newvisitor3
+Chunk Name: aid_pip_pinata_misc_avatarrotated
+Chunk Name: aid_pip_pinata_award_animal_master
+Chunk Name: aid_pip_pinata_animalill_fighting
+Chunk Name: aid_pip_pinata_misc_produceblocked
+Chunk Name: aid_pip_pinata_story_unlockedlast
+Chunk Name: aid_pip_pinata_award_plant_grow
+Chunk Name: aid_pip_pinata_misc_loggedin
+Chunk Name: aid_pip_pinata_award_plant_seed
+Chunk Name: aid_pip_pinata_misc_plantdriedout
+Chunk Name: aid_pip_pinata_helper_istrapped_weeder
+Chunk Name: aid_pip_pinata_helper_istrapped_dedos
+Chunk Name: aid_pip_pinata_helper_istrapped_miner
+Chunk Name: aid_action_pinata_list_actorsell
+Chunk Name: aid_pip_pinata_helper_istrapped_tinker
+Chunk Name: aid_action_pinata_list_actordirect
+Chunk Name: aid_pip_pinata_misc_spacefreedup
+Chunk Name: aid_pip_pinata_misc_cocoonhatched
+Chunk Name: aid_pip_pinata_helper_istrapped_doctor
+Chunk Name: aid_action_pinata_abilities_avatarshopkeeper
+Chunk Name: aid_action_pinata_list_actorstores
+Chunk Name: aid_pip_pinata_alert_dedostrapped
+Chunk Name: aid_pip_pinata_award_biftree_grow
+Chunk Name: aid_pip_pinata_animalill_oldage
+Chunk Name: aid_action_pinata_list_avatarstores
+Chunk Name: aid_pip_pinata_alert_returnspade
+Chunk Name: aid_pip_pinata_animalill_trapped
+Chunk Name: aid_pip_pinata_helper_outofwork_weeder
+Chunk Name: aid_pip_pinata_test
+Chunk Name: aid_pip_pinata_misc_animaldied
+Chunk Name: aid_pip_pinata_misc_crateadvice
+Chunk Name: aid_pip_pinata_misc_matetrouble
+Chunk Name: aid_action_pinata_list_actorbuy
+Chunk Name: aid_action_pinata_list_actorcrate
+Chunk Name: aid_pip_pinata_story_unlocked
+Chunk Name: aid_pip_pinata_alert_builderintro
+Chunk Name: aid_action_pinata_list_startgamemenu
+Chunk Name: aid_pip_pinata_animalill_created
+Chunk Name: aid_pip_pinata_misc_plantstunted
+Chunk Name: aid_pip_pinata_animalill_unhappy
+Chunk Name: aid_pip_pinata_misc_firstmail
+Chunk Name: aid_pip_pinata_misc_firstcocoon
+Chunk Name: aid_pip_pinata_live_playerleft
+CaffCount: 1
+Caff 0
+Size(bytes): 49953
+Offset(h): 2048
+.DATA chunk count: 126
+.GPU chunk count: 3
+0 offset(h): 120
+0 size(bytes) - Compressed: 2758 -> Uncompressed: 8732
+1 offset(h): 4926
+1 size(bytes) - Compressed: 206 -> Uncompressed: 392
+2 size(bytes) - Compressed: 3856 -> Uncompressed: 45280
+3 size(bytes) - Compressed: 43013 -> Uncompressed: 94208

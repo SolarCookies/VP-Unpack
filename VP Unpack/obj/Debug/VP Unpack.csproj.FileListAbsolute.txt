@@ -11,3 +11,4 @@ C:\Users\mag11\Documents\GitHub\VP-UnpackFork\VP Unpack\obj\Debug\VP Unpack.cspr
 C:\Users\mag11\Documents\GitHub\VP-UnpackFork\VP Unpack\obj\Debug\VP Unpack.csproj.CoreCompileInputs.cache
 C:\Users\mag11\Documents\GitHub\VP-UnpackFork\VP Unpack\obj\Debug\VP Unpack.exe
 C:\Users\mag11\Documents\GitHub\VP-UnpackFork\VP Unpack\obj\Debug\VP Unpack.pdb
+C:\Users\mag11\Documents\GitHub\VP-UnpackFork\VP Unpack\obj\Debug\VP Unpack.csproj.AssemblyReference.cache

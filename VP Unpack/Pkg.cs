@@ -28,7 +28,7 @@ namespace VP_Unpack
         {
             pkgPath = filePath;
             pkgName = Path.GetFileName(filePath);
-            OutputConsole.SendMessage($"Opening: {pkgPath}");
+            OutputConsole.SendMessage($"Opening: {pkgPath}", true, "C:/Users/mag11/Documents/GitHub/VP-UnpackFork/VP Unpack/obj/OutputLog.txt");
             pkg = new FileStream(pkgPath, FileMode.Open);
             pkgBR = new BinaryReader(pkg);
 
@@ -48,7 +48,7 @@ namespace VP_Unpack
             for (int i = 0; i < caffCount; i++)
             {
                 caffs[i] = new Caff(pkgBR, caffHeaderInfo[i], pkgHeaderInfo[i].caffOffset, i);
-                OutputConsole.SendMessage($"Caff: {caffCount}");
+                OutputConsole.SendMessage($"CaffCount: {caffCount}", true, "C:/Users/mag11/Documents/GitHub/VP-UnpackFork/VP Unpack/obj/OutputLog.txt");
             }
             UpdateMainPanel(0);
         }
@@ -82,6 +82,7 @@ namespace VP_Unpack
                 }
             }
             Globals.caffHeaderControl.UpdateInfo(pkgHeaderInfo[index], caffHeaderInfo[index], index);
+            
         }
     }
 }

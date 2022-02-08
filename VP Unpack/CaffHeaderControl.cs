@@ -45,6 +45,18 @@ namespace VP_Unpack
             Stream2Size.Text = $"2 size(bytes) - Compressed: {caffHeader.stream2CSize} -> Uncompressed: {caffHeader.stream2UncSize}";
 
             Stream3Size.Text = $"3 size(bytes) - Compressed: {caffHeader.stream3CSize} -> Uncompressed: {caffHeader.stream3UncSize}";
+            OutputConsole.SendMessage($"Caff {index}", true, "C:/Users/mag11/Documents/GitHub/VP-UnpackFork/VP Unpack/obj/OutputLog.txt");
+            OutputConsole.SendMessage($"Size(bytes): {pkgHeader.caffSize}", true, "C:/Users/mag11/Documents/GitHub/VP-UnpackFork/VP Unpack/obj/OutputLog.txt");
+            OutputConsole.SendMessage($"Offset(h): {pkgHeader.caffOffset}", true, "C:/Users/mag11/Documents/GitHub/VP-UnpackFork/VP Unpack/obj/OutputLog.txt");
+            OutputConsole.SendMessage($".DATA chunk count: {caffHeader.chunkCount}", true, "C:/Users/mag11/Documents/GitHub/VP-UnpackFork/VP Unpack/obj/OutputLog.txt");
+            OutputConsole.SendMessage($".GPU chunk count: {caffHeader.chunkSpreadCount - caffHeader.chunkCount}", true, "C:/Users/mag11/Documents/GitHub/VP-UnpackFork/VP Unpack/obj/OutputLog.txt");
+            OutputConsole.SendMessage($"0 offset(h): {caffHeader.stream0Offset}", true, "C:/Users/mag11/Documents/GitHub/VP-UnpackFork/VP Unpack/obj/OutputLog.txt");
+            OutputConsole.SendMessage($"0 size(bytes) - Compressed: {caffHeader.stream0CSize} -> Uncompressed: {caffHeader.stream0UncSize}", true, "C:/Users/mag11/Documents/GitHub/VP-UnpackFork/VP Unpack/obj/OutputLog.txt");
+            OutputConsole.SendMessage($"1 offset(h): {caffHeader.stream0Offset + caffHeader.stream0CSize + pkgHeader.caffOffset}", true, "C:/Users/mag11/Documents/GitHub/VP-UnpackFork/VP Unpack/obj/OutputLog.txt");
+            OutputConsole.SendMessage($"1 size(bytes) - Compressed: {caffHeader.stream1CSize} -> Uncompressed: {caffHeader.stream1UncSize}", true, "C:/Users/mag11/Documents/GitHub/VP-UnpackFork/VP Unpack/obj/OutputLog.txt");
+            OutputConsole.SendMessage($"2 size(bytes) - Compressed: {caffHeader.stream2CSize} -> Uncompressed: {caffHeader.stream2UncSize}", true, "C:/Users/mag11/Documents/GitHub/VP-UnpackFork/VP Unpack/obj/OutputLog.txt");
+            OutputConsole.SendMessage($"3 size(bytes) - Compressed: {caffHeader.stream3CSize} -> Uncompressed: {caffHeader.stream3UncSize}", true, "C:/Users/mag11/Documents/GitHub/VP-UnpackFork/VP Unpack/obj/OutputLog.txt");
+
         }
     }
 }

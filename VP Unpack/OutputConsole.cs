@@ -18,15 +18,18 @@ namespace VP_Unpack
             output = Globals.mainForm.outputConsole;
         }
 
-        public static void SendMessage(string message)
+        public static void SendMessage(string message,bool Output,string OutputPath)
         {
+            //"C:/Users/mag11/Documents/GitHub/VP-UnpackFork/VP Unpack/obj/OutputLog.txt"
             string[] s = new string[output.Lines.Length + 1];
             output.Lines.CopyTo(s, 0);
             s[output.Lines.Length] = message;
             output.Lines = s;
             output.SelectionStart = output.Text.Length;
             output.ScrollToCaret();
-            File.AppendAllText("C:/Users/mag11/Documents/GitHub/VP-Unpack/VP Unpack/obj/WriteLines2.txt", string.Format("{0}{1}", message, Environment.NewLine));
+            if (Output) {
+                File.AppendAllText(OutputPath, string.Format("{0}{1}", message, Environment.NewLine));
+            }
         }
      
     public static void ClearMessages()
