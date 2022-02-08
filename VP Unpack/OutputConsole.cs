@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
+
 
 namespace VP_Unpack
 {
@@ -24,9 +26,10 @@ namespace VP_Unpack
             output.Lines = s;
             output.SelectionStart = output.Text.Length;
             output.ScrollToCaret();
+            File.AppendAllText("C:/Users/mag11/Documents/GitHub/VP-Unpack/VP Unpack/obj/WriteLines2.txt", string.Format("{0}{1}", message, Environment.NewLine));
         }
-
-        public static void ClearMessages()
+     
+    public static void ClearMessages()
         {
             output.Lines = null;
         }

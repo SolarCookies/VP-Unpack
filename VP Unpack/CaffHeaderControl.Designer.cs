@@ -54,8 +54,9 @@ namespace VP_Unpack
             this.CaffName.Dock = System.Windows.Forms.DockStyle.Top;
             this.CaffName.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.CaffName.Location = new System.Drawing.Point(0, 0);
+            this.CaffName.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.CaffName.Name = "CaffName";
-            this.CaffName.Size = new System.Drawing.Size(130, 29);
+            this.CaffName.Size = new System.Drawing.Size(103, 24);
             this.CaffName.TabIndex = 2;
             this.CaffName.Text = "Caff name";
             // 
@@ -63,9 +64,10 @@ namespace VP_Unpack
             // 
             this.DataChunkCount.AutoSize = true;
             this.DataChunkCount.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.DataChunkCount.Location = new System.Drawing.Point(6, 78);
+            this.DataChunkCount.Location = new System.Drawing.Point(4, 63);
+            this.DataChunkCount.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.DataChunkCount.Name = "DataChunkCount";
-            this.DataChunkCount.Size = new System.Drawing.Size(162, 17);
+            this.DataChunkCount.Size = new System.Drawing.Size(126, 13);
             this.DataChunkCount.TabIndex = 3;
             this.DataChunkCount.Text = ".DATA chunk count: 126";
             // 
@@ -73,9 +75,10 @@ namespace VP_Unpack
             // 
             this.GpuChunkCount.AutoSize = true;
             this.GpuChunkCount.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.GpuChunkCount.Location = new System.Drawing.Point(6, 104);
+            this.GpuChunkCount.Location = new System.Drawing.Point(4, 84);
+            this.GpuChunkCount.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.GpuChunkCount.Name = "GpuChunkCount";
-            this.GpuChunkCount.Size = new System.Drawing.Size(155, 17);
+            this.GpuChunkCount.Size = new System.Drawing.Size(120, 13);
             this.GpuChunkCount.TabIndex = 4;
             this.GpuChunkCount.Text = ".GPU chunk count: 129";
             // 
@@ -83,9 +86,10 @@ namespace VP_Unpack
             // 
             this.CaffSize.AutoSize = true;
             this.CaffSize.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CaffSize.Location = new System.Drawing.Point(6, 25);
+            this.CaffSize.Location = new System.Drawing.Point(4, 20);
+            this.CaffSize.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.CaffSize.Name = "CaffSize";
-            this.CaffSize.Size = new System.Drawing.Size(119, 17);
+            this.CaffSize.Size = new System.Drawing.Size(88, 13);
             this.CaffSize.TabIndex = 5;
             this.CaffSize.Text = "Size(bytes): 9999";
             // 
@@ -93,9 +97,10 @@ namespace VP_Unpack
             // 
             this.Stream0Offset.AutoSize = true;
             this.Stream0Offset.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Stream0Offset.Location = new System.Drawing.Point(6, 18);
+            this.Stream0Offset.Location = new System.Drawing.Point(4, 15);
+            this.Stream0Offset.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Stream0Offset.Name = "Stream0Offset";
-            this.Stream0Offset.Size = new System.Drawing.Size(118, 17);
+            this.Stream0Offset.Size = new System.Drawing.Size(87, 13);
             this.Stream0Offset.TabIndex = 7;
             this.Stream0Offset.Text = "0 offset(h) - 99a9";
             // 
@@ -113,9 +118,11 @@ namespace VP_Unpack
             this.StreamGroupBox.Controls.Add(this.Stream0Size);
             this.StreamGroupBox.Controls.Add(this.Stream0Offset);
             this.StreamGroupBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.StreamGroupBox.Location = new System.Drawing.Point(0, 167);
+            this.StreamGroupBox.Location = new System.Drawing.Point(0, 136);
+            this.StreamGroupBox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.StreamGroupBox.Name = "StreamGroupBox";
-            this.StreamGroupBox.Size = new System.Drawing.Size(791, 185);
+            this.StreamGroupBox.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.StreamGroupBox.Size = new System.Drawing.Size(593, 150);
             this.StreamGroupBox.TabIndex = 8;
             this.StreamGroupBox.TabStop = false;
             this.StreamGroupBox.Text = "Streams";
@@ -124,9 +131,10 @@ namespace VP_Unpack
             // 
             this.Stream3Size.AutoSize = true;
             this.Stream3Size.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Stream3Size.Location = new System.Drawing.Point(6, 164);
+            this.Stream3Size.Location = new System.Drawing.Point(4, 133);
+            this.Stream3Size.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Stream3Size.Name = "Stream3Size";
-            this.Stream3Size.Size = new System.Drawing.Size(338, 17);
+            this.Stream3Size.Size = new System.Drawing.Size(250, 13);
             this.Stream3Size.TabIndex = 14;
             this.Stream3Size.Text = "0 size(h) - Compressed: 99a9. Uncompressed: 99a9";
             // 
@@ -134,9 +142,10 @@ namespace VP_Unpack
             // 
             this.Stream3Offset.AutoSize = true;
             this.Stream3Offset.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Stream3Offset.Location = new System.Drawing.Point(6, 147);
+            this.Stream3Offset.Location = new System.Drawing.Point(4, 119);
+            this.Stream3Offset.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Stream3Offset.Name = "Stream3Offset";
-            this.Stream3Offset.Size = new System.Drawing.Size(118, 17);
+            this.Stream3Offset.Size = new System.Drawing.Size(87, 13);
             this.Stream3Offset.TabIndex = 13;
             this.Stream3Offset.Text = "0 offset(h) - 99a9";
             // 
@@ -144,9 +153,10 @@ namespace VP_Unpack
             // 
             this.Stream2Size.AutoSize = true;
             this.Stream2Size.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Stream2Size.Location = new System.Drawing.Point(6, 121);
+            this.Stream2Size.Location = new System.Drawing.Point(4, 98);
+            this.Stream2Size.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Stream2Size.Name = "Stream2Size";
-            this.Stream2Size.Size = new System.Drawing.Size(338, 17);
+            this.Stream2Size.Size = new System.Drawing.Size(250, 13);
             this.Stream2Size.TabIndex = 12;
             this.Stream2Size.Text = "0 size(h) - Compressed: 99a9. Uncompressed: 99a9";
             // 
@@ -154,9 +164,10 @@ namespace VP_Unpack
             // 
             this.Stream2Offset.AutoSize = true;
             this.Stream2Offset.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Stream2Offset.Location = new System.Drawing.Point(6, 104);
+            this.Stream2Offset.Location = new System.Drawing.Point(4, 84);
+            this.Stream2Offset.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Stream2Offset.Name = "Stream2Offset";
-            this.Stream2Offset.Size = new System.Drawing.Size(118, 17);
+            this.Stream2Offset.Size = new System.Drawing.Size(87, 13);
             this.Stream2Offset.TabIndex = 11;
             this.Stream2Offset.Text = "0 offset(h) - 99a9";
             // 
@@ -164,9 +175,10 @@ namespace VP_Unpack
             // 
             this.Stream1Size.AutoSize = true;
             this.Stream1Size.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Stream1Size.Location = new System.Drawing.Point(6, 78);
+            this.Stream1Size.Location = new System.Drawing.Point(4, 63);
+            this.Stream1Size.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Stream1Size.Name = "Stream1Size";
-            this.Stream1Size.Size = new System.Drawing.Size(338, 17);
+            this.Stream1Size.Size = new System.Drawing.Size(250, 13);
             this.Stream1Size.TabIndex = 10;
             this.Stream1Size.Text = "0 size(h) - Compressed: 99a9. Uncompressed: 99a9";
             // 
@@ -174,9 +186,10 @@ namespace VP_Unpack
             // 
             this.Stream1Offset.AutoSize = true;
             this.Stream1Offset.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Stream1Offset.Location = new System.Drawing.Point(6, 61);
+            this.Stream1Offset.Location = new System.Drawing.Point(4, 50);
+            this.Stream1Offset.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Stream1Offset.Name = "Stream1Offset";
-            this.Stream1Offset.Size = new System.Drawing.Size(118, 17);
+            this.Stream1Offset.Size = new System.Drawing.Size(87, 13);
             this.Stream1Offset.TabIndex = 9;
             this.Stream1Offset.Text = "1 offset(h) - 99a9";
             // 
@@ -184,9 +197,10 @@ namespace VP_Unpack
             // 
             this.Stream0Size.AutoSize = true;
             this.Stream0Size.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Stream0Size.Location = new System.Drawing.Point(6, 35);
+            this.Stream0Size.Location = new System.Drawing.Point(4, 28);
+            this.Stream0Size.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Stream0Size.Name = "Stream0Size";
-            this.Stream0Size.Size = new System.Drawing.Size(338, 17);
+            this.Stream0Size.Size = new System.Drawing.Size(250, 13);
             this.Stream0Size.TabIndex = 8;
             this.Stream0Size.Text = "0 size(h) - Compressed: 99a9. Uncompressed: 99a9";
             // 
@@ -194,9 +208,10 @@ namespace VP_Unpack
             // 
             this.CaffOffset.AutoSize = true;
             this.CaffOffset.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CaffOffset.Location = new System.Drawing.Point(6, 52);
+            this.CaffOffset.Location = new System.Drawing.Point(4, 42);
+            this.CaffOffset.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.CaffOffset.Name = "CaffOffset";
-            this.CaffOffset.Size = new System.Drawing.Size(104, 17);
+            this.CaffOffset.Size = new System.Drawing.Size(77, 13);
             this.CaffOffset.TabIndex = 9;
             this.CaffOffset.Text = "Offset(h): 9a99";
             // 
@@ -210,22 +225,25 @@ namespace VP_Unpack
             this.CaffInfoGroupBox.Controls.Add(this.GpuChunkCount);
             this.CaffInfoGroupBox.Controls.Add(this.CaffSize);
             this.CaffInfoGroupBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CaffInfoGroupBox.Location = new System.Drawing.Point(0, 29);
+            this.CaffInfoGroupBox.Location = new System.Drawing.Point(0, 24);
+            this.CaffInfoGroupBox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.CaffInfoGroupBox.Name = "CaffInfoGroupBox";
-            this.CaffInfoGroupBox.Size = new System.Drawing.Size(791, 130);
+            this.CaffInfoGroupBox.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.CaffInfoGroupBox.Size = new System.Drawing.Size(593, 106);
             this.CaffInfoGroupBox.TabIndex = 10;
             this.CaffInfoGroupBox.TabStop = false;
             this.CaffInfoGroupBox.Text = "Info";
             // 
             // CaffHeaderControl
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.CaffInfoGroupBox);
             this.Controls.Add(this.StreamGroupBox);
             this.Controls.Add(this.CaffName);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "CaffHeaderControl";
-            this.Size = new System.Drawing.Size(791, 352);
+            this.Size = new System.Drawing.Size(593, 286);
             this.StreamGroupBox.ResumeLayout(false);
             this.StreamGroupBox.PerformLayout();
             this.CaffInfoGroupBox.ResumeLayout(false);

@@ -44,6 +44,26 @@ namespace VP_Unpack
                 }
             }
         }
+        
+            private void OpenPKGs(object sender, EventArgs e)
+        {
+            OpenFileDialog dialogUnpackPkgs = new OpenFileDialog();
+            dialogUnpackPkgs.Filter = "All Files *.pkg | *.pkg";
+            dialogUnpackPkgs.Multiselect = true;
+            dialogUnpackPkgs.Title = "Open Text Files";
+            DialogResult result = dialogUnpackPkgs.ShowDialog();
+
+            if (result == DialogResult.OK)
+            {
+                ResetForm();
+
+                foreach (string pkgPath in dialogUnpackPkgs.FileNames)
+                {
+                    if (Globals.currentPkg != null) { Globals.currentPkg.pkg.Dispose(); }
+                    Globals.currentPkg = new Pkg(pkgPath);
+                }
+            }
+        }
 
         private void ExitProgram(object sender, EventArgs e)
         {
@@ -142,6 +162,11 @@ namespace VP_Unpack
             {
                 Globals.currentPkg.GetCaffHeaderInfo(e.Node.Index, e.Node);
             }
+        }
+
+        private void pKGsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenPKGs(sender, e);
         }
     }
 }

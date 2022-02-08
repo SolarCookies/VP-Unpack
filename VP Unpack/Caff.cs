@@ -83,6 +83,7 @@ namespace VP_Unpack
                 chunkNames[i] = Globals.ReadNullTerminatedString(streamBr);
                 chunkNames[i] = Globals.StripChunkName(chunkNames[i]);
                 Globals.mainForm.GetTreeView().Nodes[m_index].Nodes.Add(chunkNames[i]);
+                OutputConsole.SendMessage($"Chunk Name: {chunkNames[i]}");
             }
         }
     }

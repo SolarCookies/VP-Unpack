@@ -42,12 +42,13 @@ namespace VP_Unpack
             UpdateTreeView();
 
             caffHeaderInfo = Headers.GenerateCaffHeaders(pkgBR, pkgHeaderInfo, caffCount);
-
+            
             caffs = new Caff[caffCount];
 
             for (int i = 0; i < caffCount; i++)
             {
                 caffs[i] = new Caff(pkgBR, caffHeaderInfo[i], pkgHeaderInfo[i].caffOffset, i);
+                OutputConsole.SendMessage($"Caff: {caffCount}");
             }
             UpdateMainPanel(0);
         }
